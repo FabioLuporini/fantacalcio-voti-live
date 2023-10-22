@@ -16,7 +16,7 @@ RUN apt install -y npm
 RUN npm cache clean --force
 
 # Get `fantacalcio-voti-live`
-RUN git clone -v https://github.com/andregri/fantacalcio-voti-live.git
+RUN git clone -v https://github.com/FabioLuporini/fantacalcio-voti-live.git
 
 # Install `fantacalcio-voti-live`
 RUN python3 -m venv /venv && \
@@ -32,7 +32,7 @@ RUN cd fantacalcio-voti-live && \
 RUN /venv/bin/pip install ipython && \
     rm -rf ~/.cache/pip
 
-ADD entrypoint.sh /entrypoint.sh
+ADD fantacalcio-voti-live/docker/entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
