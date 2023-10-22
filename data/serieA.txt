@@ -252,6 +252,7 @@ Strefezza	Lec
 Frattesi	Int
 Ferguson	Bol
 Pellegrini Lo	Rom
+Pellegrini Lo.	Rom
 El Shaarawy	Rom
 Calhanoglu	Int
 Samardzic	Udi
@@ -559,3 +560,4 @@ Lazaro	Tor
 Cheddira	Fro
 Pavard	Int
 Krstovic	Lec
+Karlsson	Bol
