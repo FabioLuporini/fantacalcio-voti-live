@@ -144,10 +144,6 @@ def get_live_data():
     with open(path, 'r') as file:
         giornata = int(file.read())
 
-    path = os.path.join(script_directory, 'data', 'voti_live.json')
-    with open(path, 'r') as file:
-        data_past = json.load(file)
-
     # TODO: CHECK ME LIVE!
     try:
         signed_uri = get_signed_uri(giornata, 18)
@@ -157,11 +153,7 @@ def get_live_data():
 
     data_live = decode_protobuf_live_msg(encoded[2:-1])
 
-    # Merge past and live data
-    data = {'protoData': (data_past.get('protoData', []) +
-                          data_live.get('protoData', []))}
-
-    return data
+    return data_live
 
 
 def inject_custom_events(data):
@@ -249,18 +241,6 @@ def purge():
         giornata = int(file.read())
     with open(path, 'w') as file:
         file.write("%s" % (giornata + 1))
-
-    # Stash votes
-    path = os.path.join(script_directory, 'data', 'voti_live.json')
-    newpath = os.path.join(script_directory, 'data', 'voti_giornata_%d.json' % giornata)
-    os.rename(path, newpath)
-
-    # Recreate voti_live.json
-    with open(path, 'w') as file:
-        file.write("{}")
-
-    with open(path, 'r') as file:
-        data_ = json.load(file)
 
 
 if __name__ == "__main__":
