@@ -15,14 +15,14 @@ event_mapper = {
    2: "espulsione",
    3: "goal",
    4: "goal subito",
-   9: "unknwon",  # ?
+   9: "rigore segnato",  # ?
    11: "unknwon",  # maybe "goal decisivo" ?
    12: "unknwon",  # ?
    14: "sub out",
    15: "sub in",
    17: "unknown",  # ?
    20: "unknwon",  # ?
-   21: "unknwon",  # ?
+   21: "assist soft",  # ?
    22: "assist",
    23: "unknown",  # ?
    # Custom events
@@ -49,22 +49,6 @@ strmodulo['P' + 3*'D' + 4*'C' + 3*'A'] = '3-4-3'
 strmodulo['P' + 5*'D' + 3*'C' + 2*'A'] = '5-3-2'
 strmodulo['P' + 4*'D' + 5*'C' + 1*'A'] = '4-5-1'
 strmodulo['P' + 5*'D' + 4*'C' + 1*'A'] = '5-4-1'
-
-
-"""
-{
-    "goal": 3,
-    "assist": 1,
-    "goal subito": -1,
-    "ammonizione": -0.5,
-    "espulsione": -1,
-    "autogol": -1,
-    "rigore segnato": 2,
-    "rigore sbagliato": -1,
-    "rigore parato": 3,
-    "cleansheet": 1,
-}
-"""
 
 
 script_directory = os.path.dirname(os.path.abspath(__file__))
@@ -205,6 +189,10 @@ def calc_voto_live(giocatore, punteggi):
 
 
 def calc_fantasquadra(titolari, panchinari, ruoli):
+    # Just to preserve integrity of input to the caller, but strictly speaking
+    # unneeeded if not for debugging
+    panchinari = dict(panchinari)
+
     tot = 0
     modulo = ""
     for name, voto in titolari.items():
