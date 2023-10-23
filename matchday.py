@@ -195,11 +195,12 @@ def calc_fantasquadra(titolari, panchinari, ruoli):
 
     tot = 0
     modulo = ""
+    unsubbed = []
     for name, voto in titolari.items():
         pos = ruoli[name]
 
         if voto == 0:
-            # Perform sub
+            # Perform same-pos sub
             for i in list(panchinari):
                 subpos = ruoli[i]
                 if subpos == pos:
@@ -208,8 +209,39 @@ def calc_fantasquadra(titolari, panchinari, ruoli):
                     if voto != 0:
                         break
 
+        if voto == 0:
+            unsubbed.append(name)
+
         tot += voto
         modulo += pos
+
+    # Attempt dynamic change of formation ("modulo dinamico")
+    for name in unsubbed:
+        pos = ruoli[name]
+        if pos == 'P':
+            continue
+
+        queue = list(panchinari)
+        while queue:
+            i = queue.pop(0)
+
+            subpos = ruoli[i]
+            voto = panchinari[i]
+
+            if subpos == 'P' or voto == 0:
+                continue
+
+            attempted_modulo = list(modulo)
+            attempted_modulo.remove(pos)
+            index = attempted_modulo.index(subpos)
+            attempted_modulo.insert(index, subpos)
+            attempted_modulo = ''.join(attempted_modulo)
+
+            # Is this a legal formation? otherwise, try the next one...
+            if attempted_modulo in modmodulo:
+                modulo = attempted_modulo
+                tot += voto
+                break
 
     # Add modificatore squadra based on poss
     try:
