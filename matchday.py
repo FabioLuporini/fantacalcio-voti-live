@@ -20,6 +20,7 @@ event_mapper = {
    12: "unknwon",  # ?
    14: "sub out",
    15: "sub in",
+   16: "goal annullato",
    17: "unknown",  # ?
    20: "unknwon",  # ?
    21: "assist soft",  # ?
