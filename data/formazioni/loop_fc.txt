@@ -1,12 +1,12 @@
 Loop FC
-By xxxxxx
+By loopFC
 
-Mirante
-Schuurs
+Maignan
+Posch
 Zappacosta
 Kolasinac
 Rrahmani
-Candreva
+Ciurria
 Barella
 Samardzic
 Felipe Anderson
@@ -14,12 +14,13 @@ Gonzalez N.
 Lukaku
 -------------
 Sportiello
+Mirante
 Oyono
-Augello
 Ebuehi
-Lauriente
+Lauriente'
 Ngonge
-Ciurria
+Candreva
 Zapata D.
 Locatelli
 Mota
+Augello

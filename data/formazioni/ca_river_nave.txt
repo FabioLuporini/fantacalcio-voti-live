@@ -1,28 +1,29 @@
-CA River Nave
-By xxxxxx
+CA River Nave (3-4-3)
+By Alessandro Ragghianti
 
-Carnesecchi
-Romagnoli
-Mario Rui
-Natan
-Pasalic
-Cristante
-Politano
-Frattesi
-Lookman
-Kvaratskhelia
-Castellanos
--------------
 Musso
-Di Gregorio
+Natan
+Buongiorno
+Romagnoli
+Politano
 Rabiot
-Lazovic
-Elmas
 Ricci S.
+Frattesi
+Castellanos
 Chiesa
-Nzola
-Caputo
+Kvaratskhelia
+----------------------
 Bastoni
+Pasalic
+Lookman
+Caputo
+Nzola
+Elmas
+Lazovic
+Cristante
+Mario Rui
 Toloi
-Doig
 Vojvoda
+Doig
+Carnesecchi
+Di Gregorio
