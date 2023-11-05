@@ -16,6 +16,7 @@ event_mapper = {
    3: "goal",
    4: "goal subito",
    7: "rigore parato",
+   8: "rigore sbagliato",
    9: "rigore segnato",  # ?
    11: "unknwon",  # maybe "goal decisivo" ?
    12: "unknwon",  # ?
