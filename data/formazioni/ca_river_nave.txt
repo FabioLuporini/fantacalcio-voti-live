@@ -1,29 +1,26 @@
-CA River Nave 
+CA River Nave
 By Alessandro Ragghianti
 
-Di Gregorio
-Natan
-Doig
-Buongiorno
-Cristante
-Pasalic
-Lazovic
-Politano
-Kvaratskhelia
-Lookman
-Chiesa
-----------------------
-Vojvoda
-Castellanos
-Caputo
-Nzola
-Elmas
-Frattesi
-Rabiot
-Romagnoli
-Carnesecchi
 Musso
-Ricci S.
+Vojvoda
+Buongiorno
+Natan
+Elmas
+Pasalic
+Politano
+Rabiot
+Kvaratskhelia
+Chiesa
+Lookman
+----------------------
+Carnesecchi
+Di Gregorio
 Toloi
-Mario Rui
-Bastoni
+Doig
+Caputo
+Castellanos
+Nzola
+Lazovic
+Cristante
+Frattesi
+Ricci S.
