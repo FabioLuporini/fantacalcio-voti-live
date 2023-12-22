@@ -1,7 +1,7 @@
 Real Barbarian
 By Lorenzo Ragghianti
 
-Rui Patricio
+Turati
 Mazzocchi
 Beukema
 Hernandez T.
@@ -9,16 +9,17 @@ N'dicka
 Colpani
 Pellegrini Lo.
 Mkhitaryan
-Chukwueze
 Thuram
 Giroud
+Arnautovic
 -------------
-Turati
+Rui Patricio
 Radunovic
 Kristensen
 Olivera
 Casale
 Pavard
+Chukwueze
 Zambo Anguissa
 Kamada
 Duda
@@ -26,4 +27,3 @@ De Roon
 Raspadori
 Ikwuemesi
 Simeone
-Arnautovic
