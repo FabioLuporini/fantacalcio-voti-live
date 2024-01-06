@@ -232,5 +232,7 @@ P	Svilar
 A	El Shaarawy
 A	Pedro
 A	Ikwuemesi
+D	Perez N.
+D	Perez N
 C	Aebischer
 A	Beto *
