@@ -1,23 +1,25 @@
-CABJ Xeneizes
+CABJ Xeneizes 
 By Stefano Tuccori
 
 Sommer
-Mari'
-Bremer
 De Vrij
-De Ketelaere
-Vlasic
-Reijnders
-Malinovskyi
-Ndoye
-Luvumbo
-Milik
-----------------------
-Montipo'
-Skorupski
-Ruggeri
+Bremer
 Perez N.
-Radonjic
+Vlasic
+De Ketelaere
+Reijnders
+Bonaventura
 Scamacca
-Beltran L.
 Lucca
+Beltran L.
+----------------------
+Skorupski
+Montipo'
+Ruggeri
+Mari'
+Lazzari
+Faraoni
+Malinovskyi
+Radonjic
+Milik
+Retegui
