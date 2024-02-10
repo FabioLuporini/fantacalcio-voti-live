@@ -44,6 +44,7 @@ Costil	Sal
 Ravaglia F.	Bol
 Contini	Nap
 Brancolini	Lec
+Oudin	Lec
 Berardi A.	Ver
 Gemello	Tor
 Boer	Rom
@@ -83,6 +84,7 @@ Doig	Ver
 Mario Rui	Nap
 Biraghi	Fio
 Spinazzola	Rom
+Angelino	Rom
 Milenkovic	Fio
 Casale	Laz
 Baschirotto	Lec
@@ -151,6 +153,7 @@ Ranieri L.	Fio
 Augello	Cag
 Gallo	Lec
 Pirola	Sal
+Tchaouna	Sal
 Erlic	Sas
 Ismajli	Emp
 Cambiaso	Juv
@@ -222,6 +225,7 @@ Capradossi	Cag
 Pajac	Gen
 Monterisi	Fro
 Antov	Mon
+Ilic	Tor
 Amey	Bol
 Gila	Laz
 Abankwah	Udi
@@ -342,6 +346,7 @@ Saelemaekers	Mil
 Maldini	Emp
 Brescianini	Fro
 Pobega	Mil
+Gabbia	Mil
 Bove	Rom
 Maleh	Lec
 Aebischer	Bol
@@ -466,7 +471,7 @@ Karamoh	Tor
 Raspadori	Nap
 Colombo	Mil
 Almqvist	Lec
-Belotti	Rom
+Belotti	Fio
 Defrel	Sas
 Kouame'	Fio
 Djuric	Ver
@@ -481,6 +486,7 @@ Piccoli	Emp
 Success	Udi
 Caso	Fro
 Lucca	Udi
+Okoye	Udi
 Coda M.	Gen
 Cancellieri	Emp
 Alvarez A.	Sas
@@ -547,18 +553,21 @@ Paredes	Rom
 Renato Sanches	Rom
 Legowski	Sal
 Stewart	Sal
+Boateng	Sal
 Racic	Sas
 Prati	Cag
 Ikwuemesi	Sal
 Guendouzi	Laz
 Kristiansen	Bol
 Holm	Ata
+Zurkowski	Emp
 Malinovskyi	Gen
 Lindstrom	Nap
 Pereyra	Udi
 Lazaro	Tor
 Cheddira	Fro
 Pavard	Int
+Alcaraz	Juv
 Krstovic	Lec
 Ikwuemesi	Sal
 Aebischer	Bol

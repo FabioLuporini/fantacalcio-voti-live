@@ -18,6 +18,7 @@ C	Lobotka
 C	Bajrami
 C	Koopmeiners
 C	Miretti
+C	Oudin
 A	Sanabria
 A	Kean
 A	Yildiz
@@ -31,8 +32,10 @@ P	MilinkovicSavic V
 P	Terracciano
 P	Christensen O.
 P	Christensen O
+P	Sepe
 D	Cuadrado
 D	Rodriguez R.
+D	Martinez Quarta
 D	Rodriguez R
 D	Martin
 D	Llorente D.
@@ -49,6 +52,7 @@ C	Frendrup
 C	Lovric
 C	Lindstrom
 C	Rafia
+C	Tchaouna
 A	Dybala
 A	Petagna
 A	Bonazzoli
@@ -62,6 +66,7 @@ D	Dimarco
 D	Calabria
 D	Djimsiti
 D	Spinazzola
+D	Angelino
 D	Marusic
 D	Darmian
 D	Holm
@@ -201,7 +206,10 @@ D	Buongiorno
 D	Vojvoda
 D	Doig
 D	Natan
+D	Vasquez
 C	Lazovic
+C	Harroui
+C	Viola
 C	Politano
 C	Cristante
 C	Pasalic
@@ -235,4 +243,17 @@ A	Ikwuemesi
 D	Perez N.
 D	Perez N
 C	Aebischer
+C	Thorstvedt
+C	Zurkowski
+D	Boateng
 A	Beto *
+A	Soule'
+P	Okoye
+C	Bove
+C	Carboni V.
+D	Gabbia
+D	Kayode
+D	Monterisi
+C	Brescianini
+A	Belotti
+A	Piccoli
