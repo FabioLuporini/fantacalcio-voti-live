@@ -25,6 +25,7 @@ C	Miretti
 C	Oudin
 C	Alcaraz
 A	Sanabria
+A	Kaio Jorge
 A	Isaksen
 A	Kean
 A	Yildiz
