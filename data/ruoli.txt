@@ -11,6 +11,7 @@ D	Lazaro
 D	Tomori
 D	Baschirotto
 D	Valeri
+D	N'Dicka
 C	Pereyra
 C	Luis Alberto
 C	Barak
