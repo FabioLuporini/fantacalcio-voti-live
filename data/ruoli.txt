@@ -23,6 +23,7 @@ C	Bajrami
 C	Koopmeiners
 C	Miretti
 C	Oudin
+C	Miranchuk
 C	Alcaraz
 A	Sanabria
 A	Kaio Jorge
