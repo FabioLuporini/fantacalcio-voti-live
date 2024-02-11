@@ -10,6 +10,7 @@ D	Di Lorenzo
 D	Lazaro
 D	Tomori
 D	Baschirotto
+D	Valeri
 C	Pereyra
 C	Luis Alberto
 C	Barak
