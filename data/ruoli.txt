@@ -170,6 +170,7 @@ C	Ndoye
 C	Vlasic
 C	De Ketelaere
 C	Reijnders
+C	Bennacer
 A	Milik
 A	Scamacca
 A	Luvumbo
