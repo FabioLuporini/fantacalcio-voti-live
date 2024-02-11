@@ -41,6 +41,7 @@ D	Martin
 D	Llorente D.
 D	Llorente D
 D	Dumfries
+D	Calafiori
 D	Gatti
 D	Ebosele
 D	Kristiansen
