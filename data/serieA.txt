@@ -37,6 +37,7 @@ Perin	Juv
 Sommariva	Gen
 Pegolo	Sas
 Perilli	Ver
+Suslov	Ver
 Padelli	Udi
 Scuffet	Cag
 Gollini	Nap

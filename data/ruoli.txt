@@ -21,6 +21,7 @@ C	Barak
 C	Pessina
 C	Lobotka
 C	Bajrami
+C	Suslov
 C	Koopmeiners
 C	Miretti
 C	Oudin
