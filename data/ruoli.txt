@@ -6,6 +6,7 @@ P	Ochoa
 D	Izzo
 D	Acerbi
 D	Milenkovic
+D	Zortea
 D	Mancini
 D	Di Lorenzo
 D	Boateng J.

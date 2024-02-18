@@ -199,7 +199,7 @@ Bonifazi	Bol
 Bani	Gen
 Magnani	Ver
 Walukiewicz	Emp
-Zortea	Ata
+Zortea	Fro
 Kumbulla	Rom
 Celik	Rom
 Carboni A.	Mon
