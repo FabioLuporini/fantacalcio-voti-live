@@ -5,6 +5,7 @@ P	Silvestri
 P	Ochoa
 D	Izzo
 D	Acerbi
+D	Karsdorp
 D	Milenkovic
 D	Zortea
 D	Dossena
