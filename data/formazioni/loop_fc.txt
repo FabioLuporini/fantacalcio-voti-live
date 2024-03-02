@@ -4,21 +4,21 @@ By loopFC
 Maignan
 Rrahmani
 Posch
-Zappacosta
+Kolasinac
 Felipe Anderson
 Barella
 Samardzic
-Zurkowski
+Candreva
 Gonzalez N.
 Lukaku
 Zapata D.
 -------------
 Sportiello
 Mirante
-Kolasinac
+Zappacosta
 Calafiori
 Karsdorp
-Candreva
+Zurkowski
 Suslov
 Locatelli
 Mota
@@ -26,3 +26,4 @@ Ngonge
 Banda
 Gendrey
 Ciurria
+Ebuehi
