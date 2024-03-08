@@ -1,26 +1,25 @@
-CA River Nave 
+CA River Nave
 By Alessandro Ragghianti
 
-Carnesecchi
-Buongiorno
-Romagnoli
-Valeri
-Ricci S.
-Politano
-Pasalic
-Harroui
-Frattesi
-Lookman
-Kvaratskhelia
-----------------------
-Viola
-Cristante
-Sanabria
-Chiesa
-Castellanos
-Musso
 Di Gregorio
+Buongiorno
+Bastoni
+Romagnoli
 Doig
-Mario Rui
+Frattesi
+Politano
+Cristante
+Kvaratskhelia
+Chiesa
+Lookman
+----------------------
+Carnesecchi
+Musso
 Tomori
-Vasquez
+Valeri
+Pasalic
+Viola
+Castellanos
+Sanabria
+Caputo
+Mario Rui
