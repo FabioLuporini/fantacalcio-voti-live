@@ -6,6 +6,7 @@ P	Ochoa
 D	Izzo
 D	Acerbi
 D	Karsdorp
+D	Gendrey
 D	Milenkovic
 D	Zortea
 D	Dossena
