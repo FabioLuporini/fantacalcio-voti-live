@@ -33,6 +33,7 @@ C	Oudin
 C	Miranchuk
 C	Alcaraz
 A	Sanabria
+A	Banda
 A	Kaio Jorge
 A	Isaksen
 A	Kean
