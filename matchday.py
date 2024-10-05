@@ -279,7 +279,7 @@ def scrivi_voti_txt(voti, ruoli, squadre, file_output="voti_giocatori.txt"):
             ruolo = ruoli.get(giocatore, "Sconosciuto")
             f.write(f"{giocatore} | {squadra} | {ruolo} | {voto}\n")
 
-
+# Esegui questa funzione dopo aver calcolato i voti dei giocatori
 if __name__ == "__main__":
     # Launch: python matchday.py
     # Prerequisites:
@@ -290,12 +290,12 @@ if __name__ == "__main__":
 
     punteggi = get_punteggi_lega()
     ruoli = get_ruoli_lega()
-
     squadre = get_squadre_serieA()
 
-    fantasquadre = parse_fantasquadre()
-    
-        # Ora chiama la funzione per scrivere i voti nel file txt
+    fantasquadre = parse_fantasquadre()  # Supponiamo che tu lo stia usando
+    voti = get_live_data()  # Funzione per ottenere i voti live
+
+    # Ora chiama la funzione per scrivere i voti nel file txt
     scrivi_voti_txt(voti, ruoli, squadre)
 
     if len(sys.argv) == 1:
