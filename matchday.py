@@ -269,6 +269,23 @@ def purge():
     with open(path, 'w') as file:
         file.write("%s" % (giornata + 1))
 
+def scrivi_voti_txt(fantasquadre, ruoli, squadre, file_output="voti_giocatori.txt"):
+    with open(file_output, 'w') as f:
+        f.write("Nome Giocatore | Squadra | Ruolo | Voto\n")
+        f.write("---------------------------------------\n")
+        for team, (titolari, panchinari) in fantasquadre.items():
+            for giocatore, voto in titolari.items():
+                squadra = squadre.get(giocatore, "Sconosciuta")
+                ruolo = ruoli.get(giocatore, "Sconosciuto")
+                f.write(f"{giocatore} | {squadra} | {ruolo} | {voto}\n")
+            for giocatore, voto in panchinari.items():
+                squadra = squadre.get(giocatore, "Sconosciuta")
+                ruolo = ruoli.get(giocatore, "Sconosciuto")
+                f.write(f"{giocatore} | {squadra} | {ruolo} | {voto}\n")
+
+# Dopo aver calcolato i voti dei giocatori, chiama questa funzione
+scrivi_voti_txt(fantasquadre, ruoli, squadre)
+
 
 if __name__ == "__main__":
     # Launch: python matchday.py
