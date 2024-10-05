@@ -269,17 +269,7 @@ def purge():
     with open(path, 'w') as file:
         file.write("%s" % (giornata + 1))
 
-# Funzione per scrivere i voti dei giocatori nel file voti_giocatori.txt
-def scrivi_voti_txt(voti, ruoli, squadre, file_output="voti_giocatori.txt"):
-    with open(file_output, 'w') as f:
-        f.write("Nome Giocatore | Squadra | Ruolo | Voto\n")
-        f.write("---------------------------------------\n")
-        for giocatore, voto in voti.items():
-            squadra = squadre.get(giocatore, "Sconosciuta")
-            ruolo = ruoli.get(giocatore, "Sconosciuto")
-            f.write(f"{giocatore} | {squadra} | {ruolo} | {voto}\n")
 
-# Esegui questa funzione dopo aver calcolato i voti dei giocatori
 if __name__ == "__main__":
     # Launch: python matchday.py
     # Prerequisites:
@@ -290,13 +280,10 @@ if __name__ == "__main__":
 
     punteggi = get_punteggi_lega()
     ruoli = get_ruoli_lega()
+
     squadre = get_squadre_serieA()
 
-    fantasquadre = parse_fantasquadre()  # Supponiamo che tu lo stia usando
-    voti = get_live_data()  # Funzione per ottenere i voti live
-
-    # Ora chiama la funzione per scrivere i voti nel file txt
-    scrivi_voti_txt(voti, ruoli, squadre)
+    fantasquadre = parse_fantasquadre()
 
     if len(sys.argv) == 1:
         # Testing!
