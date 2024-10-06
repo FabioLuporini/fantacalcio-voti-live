@@ -316,10 +316,6 @@ if __name__ == "__main__":
                     titolari[name] = calc_voto_live(giocatore, punteggi)
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
-
-		with open("voti_giocatori.txt", "a") as f:
-    		    f.write(f"{name}: {titolari.get(name, panchinari.get(name))}\n")
-
                 else:
                     continue
 
