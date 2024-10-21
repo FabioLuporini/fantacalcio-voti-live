@@ -311,15 +311,12 @@ if __name__ == "__main__":
         for giocatore in serie_a_team:
             for team, (titolari, panchinari) in fantasquadre.items():
                 name = giocatore['name']
-                #print(f"Team: {team}")
                 if name in titolari:
                     titolari[name] = calc_voto_live(giocatore, punteggi)
-                #    print(f"Name: {name}, Titolari Voto Live: {titolari[name]}")
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
                 else:
                     continue
-                #print("*"*10)
 
     # Amend vote if player hasn't played yet
     for titolari_panchinari in fantasquadre.values():
@@ -339,3 +336,16 @@ if __name__ == "__main__":
     # max_width = max(len(i) for i in totali)
     # for i in table:
     #     print(f"{i:>{max_width}} {totali[i]:.1f}")
+
+    ## printing to file for debugging
+    output_file_path = "live_votes.txt"
+    with open(output_file_path, "w") as file:
+        for giocatore in serie_a_team:
+            for team, (titolari, panchinari) in fantasquadre.items():
+                name = giocatore["name"]
+                file.write(f"Processing Team: {team}\n")
+                if name in titolari:
+                    file.write(f"Titolare: {name}, Voto Live: {titolari[name]}\n")
+                elif name in panchinari:
+                    file.write(f"Panchinaro: {name}, Voto Live: {panchinari[name]}\n")
+                file.write("*********\n")
