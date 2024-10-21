@@ -319,7 +319,7 @@ if __name__ == "__main__":
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
                 else:
                     continue
-                print("*"*10)
+                #print("*"*10)
 
     # Amend vote if player hasn't played yet
     for titolari_panchinari in fantasquadre.values():
