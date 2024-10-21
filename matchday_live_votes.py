@@ -1,3 +1,5 @@
+##### debugging code
+
 import os
 import json
 import sys
@@ -192,7 +194,7 @@ def calc_voto_live(giocatore, punteggi):
     if vote == 55:
         return 0
     else:
-        return vote 
+        return vote
 
 
 def calc_fantasquadra(titolari, panchinari, ruoli):
@@ -331,8 +333,26 @@ if __name__ == "__main__":
     totali = {k: v for k, (v, _) in output.items()}
     table = sorted(totali, key=lambda i: output[i][0], reverse=True)
 
-    print([(i, *output[i]) for i in table])
-    # Nicely formatted output...
-    # max_width = max(len(i) for i in totali)
-    # for i in table:
-    #     print(f"{i:>{max_width}} {totali[i]:.1f}")
+    votes_data = {}
+
+    for giocatore in serie_a_team:
+        for team, (titolari, panchinari) in fantasquadre.items():
+            if team not in votes_data:
+                votes_data[team] = []
+
+            name = giocatore["name"]
+            if name in titolari:
+                votes_data[team].append(f"Titolare: {name}, Voto Live: {titolari[name]}")
+            elif name in panchinari:
+                votes_data[team].append(f"Panchinaro: {name}, Voto Live: {panchinari[name]}")
+
+    output_votes = ""
+    for team, players in votes_data.items():
+        output_votes += f"Team: {team}\n"
+        for player_info in players:
+            output_votes += f"{player_info}\n"
+        output_votes += "*********\n"
+
+    print(output_votes)
+
+
