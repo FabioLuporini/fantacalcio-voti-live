@@ -311,10 +311,10 @@ if __name__ == "__main__":
         for giocatore in serie_a_team:
             for team, (titolari, panchinari) in fantasquadre.items():
                 name = giocatore['name']
-                print(f"Team: {team}")
+                #print(f"Team: {team}")
                 if name in titolari:
                     titolari[name] = calc_voto_live(giocatore, punteggi)
-                    print(f"Name: {name}, Titolari Voto Live: {titolari[name]}")
+                #    print(f"Name: {name}, Titolari Voto Live: {titolari[name]}")
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
                 else:
