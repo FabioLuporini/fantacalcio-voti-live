@@ -335,11 +335,11 @@ if __name__ == "__main__":
     for team, (titolari, panchinari) in fantasquadre.items():
         output += f"Team: {team}\n"
 
-        output += "Titolari (Starters):\n"
+        output += "Titolari:\n"
         for name, voto in titolari.items():
             output += f"{name}: {voto}\n"
 
-        output += "Panchinari (Substitutes):\n"
+        output += "Panchinari:\n"
         for name, voto in panchinari.items():
             output += f"{name}: {voto}\n"
 
