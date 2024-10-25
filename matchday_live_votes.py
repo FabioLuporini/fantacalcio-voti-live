@@ -330,19 +330,4 @@ if __name__ == "__main__":
     #output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
     #          for team, (titolari, panchinari) in fantasquadre.items()}
 
-    output = ""
-
-    for team, (titolari, panchinari) in fantasquadre.items():
-        output += f"Team: {team}\n"
-
-        output += "Titolari (Starters):\n"
-        for name, voto in titolari.items():
-            output += f"{name}: {voto}\n"
-
-        output += "Panchinari (Substitutes):\n"
-        for name, voto in panchinari.items():
-            output += f"{name}: {voto}\n"
-
-        output += "*********\n"
-
-    print(output)
+    print(fantasquadre)
