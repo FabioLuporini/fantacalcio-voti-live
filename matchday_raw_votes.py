@@ -1,5 +1,3 @@
-##### debugging code
-
 import os
 import json
 import sys
@@ -281,4 +279,24 @@ if __name__ == "__main__":
     # * `formazioni/` must be available
 
     punteggi = get_punteggi_lega()
-    print(punteggi)
+    ruoli = get_ruoli_lega()
+
+    squadre = get_squadre_serieA()
+
+    fantasquadre = parse_fantasquadre()
+
+    if len(sys.argv) == 1:
+        # Testing!
+        data = decode_protobuf_live_msg(encoded)
+    else:
+        assert len(sys.argv) == 2
+        if sys.argv[1] == 'live':
+            data = get_live_data()
+        elif sys.argv[1] == 'next':
+            purge()
+            sys.exit(0)
+        else:
+            raise ValueError
+
+    inject_custom_events(data)
+    print(data)
