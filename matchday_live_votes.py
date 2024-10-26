@@ -279,7 +279,7 @@ if __name__ == "__main__":
     # * `ruoli.txt` must be available
     # * `serieA.txt` must be available
     # * `formazioni/` must be available
-
+    output = ""
     punteggi = get_punteggi_lega()
     ruoli = get_ruoli_lega()
 
@@ -311,38 +311,19 @@ if __name__ == "__main__":
             continue
 
         for giocatore in serie_a_team:
+            name = giocatore['name']
             for team, (titolari, panchinari) in fantasquadre.items():
-                name = giocatore['name']
                 if name in titolari:
                     titolari[name] = calc_voto_live(giocatore, punteggi)
+                    output += f"Team: {team}\nTitolari:\n"
+                    output += f"{name}: {titolari[name]}\n"
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
+                    output += f"Team: {team}\nPanchinari:\n"
+                    output += f"{name}: {panchinari[name]}\n"
                 else:
                     continue
 
-    # Amend vote if player hasn't played yet
-    for titolari_panchinari in fantasquadre.values():
-        for m in titolari_panchinari:
-            for name, vote in list(m.items()):
-                if any(i.startswith(squadre[name]) for i in unplayed):
-                    m[name] = 6  # S.V.
+            output += "*********\n"
 
-    #output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
-    #          for team, (titolari, panchinari) in fantasquadre.items()}
-
-    output = ""
-
-    for team, (titolari, panchinari) in fantasquadre.items():
-        output += f"Team: {team}\n"
-
-        output += "Titolari:\n"
-        for name, voto in titolari.items():
-            output += f"{name}: {voto}\n"
-
-        output += "Panchinari:\n"
-        for name, voto in panchinari.items():
-            output += f"{name}: {voto}\n"
-
-        output += "*********\n"
-
-    print(output)
+        print(output)
