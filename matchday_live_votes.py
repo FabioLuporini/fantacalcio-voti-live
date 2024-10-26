@@ -326,4 +326,4 @@ if __name__ == "__main__":
 
             output += "*********\n"
 
-        print(output)
+    print(output)
