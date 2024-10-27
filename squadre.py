@@ -21,6 +21,8 @@ codici = {
     "Torino": 18,
     "Udinese": 19,
     "Venezia": 138,
-    "Verona": 20
+    "Verona": 20,
+    "Parma": 107,
+    "Como": 153
 }
 
