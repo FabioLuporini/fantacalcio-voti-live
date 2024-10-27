@@ -337,9 +337,10 @@ if __name__ == "__main__":
     # # for i in table:
     # #     print(f"{i:>{max_width}} {totali[i]:.1f}")
 
-
     output = ""
     unplayed = []
+    team_output = {}
+
     for k, v in codici.items():
         serie_a_team = get_voti(data, v)
 
@@ -348,19 +349,21 @@ if __name__ == "__main__":
             continue
 
         for giocatore in serie_a_team:
-            name = giocatore['name']
+            name = giocatore["name"]
             for team, (titolari, panchinari) in fantasquadre.items():
                 if name in titolari:
                     titolari[name] = calc_voto_live(giocatore, punteggi)
-                    output += f"Team: {team}\nTitolari:\n"
-                    output += f"{name}: {titolari[name]}\n"
+                    if team not in team_output:
+                        team_output[team] = f"Team: {team}\nTitolari:\n"
+                    team_output[team] += f"{name}: {titolari[name]}\n"
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
-                    output += f"Team: {team}\nPanchinari:\n"
-                    output += f"{name}: {panchinari[name]}\n"
-                else:
-                    continue
+                    if team not in team_output:
+                        team_output[team] = f"Team: {team}\nPanchinari:\n"
+                    team_output[team] += f"{name}: {panchinari[name]}\n"
 
-            output += "*********\n"
+    for team, team_data in team_output.items():
+        output += team_data
+        output += "*********\n"
 
     print(output)
