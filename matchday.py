@@ -337,29 +337,30 @@ if __name__ == "__main__":
     # # for i in table:
     # #     print(f"{i:>{max_width}} {totali[i]:.1f}")
 
-    output = ""
 
-    for match in data["protoData"]:
-        team_home = match["teamHome"]
-        team_away = match["teamAway"]
 
-        output += f"teamHome: {team_home}\n"
-        output += f"teamAway: {team_away}\n"
+    unplayed = []
+    for k, v in codici.items():
+        serie_a_team = get_voti(data, v)
 
-        output += "\nHome players:\n"
-        for player in match['playersHome']:
-            name = player["name"]
-            position = player["position"]
-            vote = player["vote"]
-            output += f"name: {name} - position: {position}, vote: {vote}\n"
+        if not serie_a_team:
+            unplayed.append(k)
+            continue
 
-        output += "\nAway players:\n"
-        for player in match["playersAway"]:
-            name = player["name"]
-            position = player["position"]
-            vote = player["vote"]
-            output += f"name: {name} - position: {position}, vote: {vote}\n"
+        for giocatore in serie_a_team:
+            name = giocatore['name']
+            for team, (titolari, panchinari) in fantasquadre.items():
+                if name in titolari:
+                    titolari[name] = calc_voto_live(giocatore, punteggi)
+                    output += f"Team: {team}\nTitolari:\n"
+                    output += f"{name}: {titolari[name]}\n"
+                elif name in panchinari:
+                    panchinari[name] = calc_voto_live(giocatore, punteggi)
+                    output += f"Team: {team}\nPanchinari:\n"
+                    output += f"{name}: {panchinari[name]}\n"
+                else:
+                    continue
 
-        output += "\n" + "*" * 15 + "\n"
+            output += "*********\n"
 
     print(output)
