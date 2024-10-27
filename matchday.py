@@ -362,8 +362,18 @@ if __name__ == "__main__":
                         team_output[team] = f"Team: {team}\nPanchinari:\n"
                     team_output[team] += f"{name}: {panchinari[name]}\n"
 
-    for team, team_data in team_output.items():
+    for titolari, panchinari in fantasquadre.values():
+        for m in [titolari, panchinari]:
+            for name in list(m):
+                if any(squadre[name].startswith(i) for i in unplayed):
+                    m[name] = 6
+                    if team not in team_output:
+                        team_output[team] = f"Team: {team}\n"
+                    team_output[team] += f"{name}: {m[name]} (unplayed)\n"
+
+    for team_data in team_output.values():
         output += team_data
         output += "*********\n"
 
     print(output)
+
