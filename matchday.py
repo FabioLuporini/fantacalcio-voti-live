@@ -372,11 +372,13 @@ if __name__ == "__main__":
     output = ""
 
     for match in data["protoData"]:
-        team_home = match["teamHome"]
-        team_away = match["teamAway"]
+        team_home = match['teamHome']
+        team_id_home = match['teamIdHome']
+        team_away = match['teamAway']
+        team_id_away = match['teamIdAway']
 
-        output += f"teamHome: {team_home}\n"
-        output += f"teamAway: {team_away}\n"
+        output += f"teamHome: {team_home}, ID: {team_id_home}\n"
+        output += f"teamAway: {team_away}, ID: {team_id_away}\n"
 
         output += "\nHome players:\n"
         for player in match["playersHome"]:
