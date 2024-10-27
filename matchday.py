@@ -351,29 +351,22 @@ if __name__ == "__main__":
         for giocatore in serie_a_team:
             name = giocatore["name"]
             for team, (titolari, panchinari) in fantasquadre.items():
+                if team not in team_output:
+                    team_output[team] = {"titolari": "", "panchinari": ""}
+
                 if name in titolari:
                     titolari[name] = calc_voto_live(giocatore, punteggi)
-                    if team not in team_output:
-                        team_output[team] = f"Team: {team}\nTitolari:\n"
-                    team_output[team] += f"{name}: {titolari[name]}\n"
+                    team_output[team]["titolari"] += f"{name}: {titolari[name]}\n"
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
-                    if team not in team_output:
-                        team_output[team] = f"Team: {team}\nPanchinari:\n"
-                    team_output[team] += f"{name}: {panchinari[name]}\n"
+                    team_output[team]["panchinari"] += f"{name}: {panchinari[name]}\n"
 
-    for titolari, panchinari in fantasquadre.values():
-        for m in [titolari, panchinari]:
-            for name in list(m):
-                if any(squadre[name].startswith(i) for i in unplayed):
-                    m[name] = 6
-                    if team not in team_output:
-                        team_output[team] = f"Team: {team}\n"
-                    team_output[team] += f"{name}: {m[name]} (unplayed)\n"
-
-    for team_data in team_output.values():
-        output += team_data
+    for team, players in team_output.items():
+        output += f"Team: {team}\n"
+        output += "Titolari:\n" + players["titolari"]
+        output += "Panchinari:\n" + players["panchinari"]
         output += "*********\n"
 
     print(output)
+
 
