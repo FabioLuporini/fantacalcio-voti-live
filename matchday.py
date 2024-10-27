@@ -338,7 +338,7 @@ if __name__ == "__main__":
     # #     print(f"{i:>{max_width}} {totali[i]:.1f}")
 
 
-
+    output = ""
     unplayed = []
     for k, v in codici.items():
         serie_a_team = get_voti(data, v)
