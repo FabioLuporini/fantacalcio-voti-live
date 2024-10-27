@@ -299,4 +299,30 @@ if __name__ == "__main__":
             raise ValueError
 
     inject_custom_events(data)
-    print(data)
+
+    output = ""
+
+    for match in data["protoData"]:
+        team_home = match["teamHome"]
+        team_away = match["teamAway"]
+
+        output += f"teamHome: {team_home}\n"
+        output += f"teamAway: {team_away}\n"
+
+        output += "\nHome players:\n"
+        for player in match['playersHome']:
+            name = player["name"]
+            position = player["position"]
+            vote = player["vote"]
+            output += f"name: {name} - position: {position}, vote: {vote}\n"
+
+        output += "\nAway players:\n"
+        for player in match["playersAway"]:
+            name = player["name"]
+            position = player["position"]
+            vote = player["vote"]
+            output += f"name: {name} - position: {position}, vote: {vote}\n"
+
+        output += "\n" + "*" * 15 + "\n"
+
+    print(output)
