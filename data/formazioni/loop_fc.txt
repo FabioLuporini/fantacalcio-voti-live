@@ -1,6 +1,7 @@
 Loop FC
 By loopFC
-Sommer
+
+Sommer
 Dimarco
 Gila
 Baschirotto
@@ -10,7 +11,7 @@ Zaniolo
 Suslov
 Krstovic
 Bonny
-Politano
+Retegui
 -------------
 Vasquez D.
 Hermoso
@@ -18,3 +19,10 @@ Danilo
 Richardson
 Pavlovic
 Emerson Royal
+Politano
+Loftus-Cheek
+Cristante
+Di Gennaro
+Buongiorno
+Luvumbo
+Harroui
