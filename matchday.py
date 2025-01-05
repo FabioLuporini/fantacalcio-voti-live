@@ -376,8 +376,7 @@ if __name__ == "__main__":
         for m in titolari_panchinari:
             for name, vote in list(m.items()):
                 if any(i.startswith(squadre[name]) for i in unplayed):
-                    player_unplayed = m[name]
-                    output += "\n" + "player unplayed gets 6 " + str(player_unplayed)
+                    output += "\n" + "player unplayed gets 6 " + str(name)
                     m[name] = 6  # S.V.
             output += "\n" + str(m)
             output += "\n" + "*" * 15 + "\n"
