@@ -1,3 +1,5 @@
+##### debugging code
+
 import os
 import json
 import sys
@@ -192,7 +194,7 @@ def calc_voto_live(giocatore, punteggi):
     if vote == 55:
         return 0
     else:
-        return vote 
+        return vote
 
 
 def calc_fantasquadra(titolari, panchinari, ruoli):
@@ -277,7 +279,7 @@ if __name__ == "__main__":
     # * `ruoli.txt` must be available
     # * `serieA.txt` must be available
     # * `formazioni/` must be available
-
+    output = ""
     punteggi = get_punteggi_lega()
     ruoli = get_ruoli_lega()
 
@@ -309,100 +311,19 @@ if __name__ == "__main__":
             continue
 
         for giocatore in serie_a_team:
+            name = giocatore['name']
             for team, (titolari, panchinari) in fantasquadre.items():
-                name = giocatore['name']
                 if name in titolari:
                     titolari[name] = calc_voto_live(giocatore, punteggi)
+                    output += f"Team: {team}\nTitolari:\n"
+                    output += f"{name}: {titolari[name]}\n"
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
+                    output += f"Team: {team}\nPanchinari:\n"
+                    output += f"{name}: {panchinari[name]}\n"
                 else:
                     continue
 
-    # Amend vote if player hasn't played yet
-    for titolari_panchinari in fantasquadre.values():
-        for m in titolari_panchinari:
-            for name, vote in list(m.items()):
-                if any(i.startswith(squadre[name]) for i in unplayed):
-                    m[name] = 6  # S.V.
+            output += "*********\n"
 
-    output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
-              for team, (titolari, panchinari) in fantasquadre.items()}
-
-    totali = {k: v for k, (v, _) in output.items()}
-    table = sorted(totali, key=lambda i: output[i][0], reverse=True)
-
-    print([(i, *output[i]) for i in table])
-    # Nicely formatted output...
-    # max_width = max(len(i) for i in totali)
-    # for i in table:
-    #     print(f"{i:>{max_width}} {totali[i]:.1f}")
-
-
-
-    ## *DEBUG* print fanta-teams detailed live scores
-    # output = ""
-    # unplayed = []
-    # team_output = {}
-    #
-    # for k, v in codici.items():
-    #     serie_a_team = get_voti(data, v)
-    #
-    #     if not serie_a_team:
-    #         unplayed.append(k)
-    #         continue
-    #
-    #     for giocatore in serie_a_team:
-    #         name = giocatore["name"]
-    #         for team, (titolari, panchinari) in fantasquadre.items():
-    #             if team not in team_output:
-    #                 team_output[team] = {"titolari": "", "panchinari": ""}
-    #
-    #             if name in titolari:
-    #                 titolari[name] = calc_voto_live(giocatore, punteggi)
-    #                 team_output[team]["titolari"] += f"{name}: {titolari[name]}\n"
-    #             elif name in panchinari:
-    #                 panchinari[name] = calc_voto_live(giocatore, punteggi)
-    #                 team_output[team]["panchinari"] += f"{name}: {panchinari[name]}\n"
-    #
-    # for team, players in team_output.items():
-    #     output += f"Team: {team}\n"
-    #     output += "Titolari:\n" + players["titolari"]
-    #     output += "Panchinari:\n" + players["panchinari"]
-    #     output += "\n" + "*" * 15 + "\n"
-    #
-    # print(output)
-
-
-
-    ## *DEBUG* print data
-    # output = ""
-    #
-    # for match in data["protoData"]:
-    #     team_home = match['teamHome']
-    #     team_id_home = match['teamIdHome']
-    #     team_away = match['teamAway']
-    #     team_id_away = match['teamIdAway']
-    #
-    #     output += f"teamHome: {team_home}, ID: {team_id_home}\n"
-    #     output += f"teamAway: {team_away}, ID: {team_id_away}\n"
-    #
-    #     output += "\nHome players:\n"
-    #     for player in match["playersHome"]:
-    #         name = player["name"]
-    #         position = player["position"]
-    #         vote = player["vote"]
-    #         output += f"name: {name} - position: {position}, vote: {vote}\n"
-    #
-    #     output += "\nAway players:\n"
-    #     for player in match["playersAway"]:
-    #         name = player["name"]
-    #         position = player["position"]
-    #         vote = player["vote"]
-    #         output += f"name: {name} - position: {position}, vote: {vote}\n"
-    #
-    #     output += "\n" + "*" * 15 + "\n"
-    #
-    # print(output)
-
-
-
+    print(output)
