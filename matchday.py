@@ -278,29 +278,28 @@ if __name__ == "__main__":
     # * `serieA.txt` must be available
     # * `formazioni/` must be available
 
-    punteggi = get_punteggi_lega()
-    ruoli = get_ruoli_lega()
-
-    squadre = get_squadre_serieA()
-
-    fantasquadre = parse_fantasquadre()
-
-    if len(sys.argv) == 1:
-        # Testing!
-        data = decode_protobuf_live_msg(encoded)
-    else:
-        assert len(sys.argv) == 2
-        if sys.argv[1] == 'live':
-            season_id = 20
-            print("season_id", season_id)
-            data = get_live_data(season_id)
-        elif sys.argv[1] == 'next':
-            purge()
-            sys.exit(0)
-        else:
-            raise ValueError
-
-    inject_custom_events(data)
+    # punteggi = get_punteggi_lega()
+    # ruoli = get_ruoli_lega()
+    #
+    # squadre = get_squadre_serieA()
+    #
+    # fantasquadre = parse_fantasquadre()
+    #
+    # if len(sys.argv) == 1:
+    #     # Testing!
+    #     data = decode_protobuf_live_msg(encoded)
+    # else:
+    #     assert len(sys.argv) == 2
+    #     if sys.argv[1] == 'live':
+    #         season_id = 20
+    #         data = get_live_data(season_id)
+    #     elif sys.argv[1] == 'next':
+    #         purge()
+    #         sys.exit(0)
+    #     else:
+    #         raise ValueError
+    #
+    # inject_custom_events(data)
 
     # unplayed = []
     # for k, v in codici.items():
@@ -345,6 +344,32 @@ if __name__ == "__main__":
     output = ""
     unplayed = []
     team_output = {}
+
+    punteggi = get_punteggi_lega()
+    ruoli = get_ruoli_lega()
+
+    squadre = get_squadre_serieA()
+
+    fantasquadre = parse_fantasquadre()
+
+    if len(sys.argv) == 1:
+        # Testing!
+        data = decode_protobuf_live_msg(encoded)
+    else:
+        assert len(sys.argv) == 2
+        if sys.argv[1] == 'live':
+            season_id = 20
+            output += "\n" + "season_id" + str(season_id)
+            data = get_live_data(season_id)
+            output += "\n" + "DATA" + str(data)
+            output += "\n" + "*" * 15 + "\n"
+        elif sys.argv[1] == 'next':
+            purge()
+            sys.exit(0)
+        else:
+            raise ValueError
+
+    inject_custom_events(data)
 
     for k, v in codici.items():
         serie_a_team = get_voti(data, v)
