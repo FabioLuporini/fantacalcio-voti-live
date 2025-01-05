@@ -291,7 +291,7 @@ if __name__ == "__main__":
     else:
         assert len(sys.argv) == 2
         if sys.argv[1] == 'live':
-            season_id = 20
+            season_id = 19
             print("season_id", season_id)
             data = get_live_data(season_id)
         elif sys.argv[1] == 'next':
@@ -302,38 +302,38 @@ if __name__ == "__main__":
 
     inject_custom_events(data)
 
-    unplayed = []
-    for k, v in codici.items():
-        serie_a_team = get_voti(data, v)
-
-        if not serie_a_team:
-            unplayed.append(k)
-            continue
-
-        for giocatore in serie_a_team:
-            for team, (titolari, panchinari) in fantasquadre.items():
-                name = giocatore['name']
-                if name in titolari:
-                    titolari[name] = calc_voto_live(giocatore, punteggi)
-                elif name in panchinari:
-                    panchinari[name] = calc_voto_live(giocatore, punteggi)
-                else:
-                    continue
-
-    # Amend vote if player hasn't played yet
-    for titolari_panchinari in fantasquadre.values():
-        for m in titolari_panchinari:
-            for name, vote in list(m.items()):
-                if any(i.startswith(squadre[name]) for i in unplayed):
-                    m[name] = 6  # S.V.
-
-    output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
-              for team, (titolari, panchinari) in fantasquadre.items()}
-
-    totali = {k: v for k, (v, _) in output.items()}
-    table = sorted(totali, key=lambda i: output[i][0], reverse=True)
-
-    print([(i, *output[i]) for i in table])
+    # unplayed = []
+    # for k, v in codici.items():
+    #     serie_a_team = get_voti(data, v)
+    #
+    #     if not serie_a_team:
+    #         unplayed.append(k)
+    #         continue
+    #
+    #     for giocatore in serie_a_team:
+    #         for team, (titolari, panchinari) in fantasquadre.items():
+    #             name = giocatore['name']
+    #             if name in titolari:
+    #                 titolari[name] = calc_voto_live(giocatore, punteggi)
+    #             elif name in panchinari:
+    #                 panchinari[name] = calc_voto_live(giocatore, punteggi)
+    #             else:
+    #                 continue
+    #
+    # # Amend vote if player hasn't played yet
+    # for titolari_panchinari in fantasquadre.values():
+    #     for m in titolari_panchinari:
+    #         for name, vote in list(m.items()):
+    #             if any(i.startswith(squadre[name]) for i in unplayed):
+    #                 m[name] = 6  # S.V.
+    #
+    # output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
+    #           for team, (titolari, panchinari) in fantasquadre.items()}
+    #
+    # totali = {k: v for k, (v, _) in output.items()}
+    # table = sorted(totali, key=lambda i: output[i][0], reverse=True)
+    #
+    # print([(i, *output[i]) for i in table])
     # Nicely formatted output...
     # max_width = max(len(i) for i in totali)
     # for i in table:
