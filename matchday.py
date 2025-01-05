@@ -340,6 +340,7 @@ if __name__ == "__main__":
 
 
     # *DEBUG* print fanta-teams detailed live scores
+
     output = ""
     unplayed = []
     team_output = {}
