@@ -278,73 +278,6 @@ if __name__ == "__main__":
     # * `serieA.txt` must be available
     # * `formazioni/` must be available
 
-    # punteggi = get_punteggi_lega()
-    # ruoli = get_ruoli_lega()
-    #
-    # squadre = get_squadre_serieA()
-    #
-    # fantasquadre = parse_fantasquadre()
-    #
-    # if len(sys.argv) == 1:
-    #     # Testing!
-    #     data = decode_protobuf_live_msg(encoded)
-    # else:
-    #     assert len(sys.argv) == 2
-    #     if sys.argv[1] == 'live':
-    #         season_id = 20
-    #         data = get_live_data(season_id)
-    #     elif sys.argv[1] == 'next':
-    #         purge()
-    #         sys.exit(0)
-    #     else:
-    #         raise ValueError
-    #
-    # inject_custom_events(data)
-
-    # unplayed = []
-    # for k, v in codici.items():
-    #     serie_a_team = get_voti(data, v)
-    #
-    #     if not serie_a_team:
-    #         unplayed.append(k)
-    #         continue
-    #
-    #     for giocatore in serie_a_team:
-    #         for team, (titolari, panchinari) in fantasquadre.items():
-    #             name = giocatore['name']
-    #             if name in titolari:
-    #                 titolari[name] = calc_voto_live(giocatore, punteggi)
-    #             elif name in panchinari:
-    #                 panchinari[name] = calc_voto_live(giocatore, punteggi)
-    #             else:
-    #                 continue
-    #
-    # # Amend vote if player hasn't played yet
-    # for titolari_panchinari in fantasquadre.values():
-    #     for m in titolari_panchinari:
-    #         for name, vote in list(m.items()):
-    #             if any(i.startswith(squadre[name]) for i in unplayed):
-    #                 m[name] = 6  # S.V.
-    #
-    # output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
-    #           for team, (titolari, panchinari) in fantasquadre.items()}
-    #
-    # totali = {k: v for k, (v, _) in output.items()}
-    # table = sorted(totali, key=lambda i: output[i][0], reverse=True)
-    #
-    # print([(i, *output[i]) for i in table])
-    # Nicely formatted output...
-    # max_width = max(len(i) for i in totali)
-    # for i in table:
-    #     print(f"{i:>{max_width}} {totali[i]:.1f}")
-
-
-
-    # *DEBUG* print fanta-teams detailed live scores
-    output = ""
-    unplayed = []
-    team_output = {}
-
     punteggi = get_punteggi_lega()
     ruoli = get_ruoli_lega()
 
@@ -358,11 +291,8 @@ if __name__ == "__main__":
     else:
         assert len(sys.argv) == 2
         if sys.argv[1] == 'live':
-            season_id = 19
-            output += "\n" + "season_id" + str(season_id)
+            season_id = 20
             data = get_live_data(season_id)
-            output += "\n" + "DATA" + str(data)
-            output += "\n" + "*" * 15 + "\n"
         elif sys.argv[1] == 'next':
             purge()
             sys.exit(0)
@@ -371,84 +301,119 @@ if __name__ == "__main__":
 
     inject_custom_events(data)
 
+    unplayed = []
     for k, v in codici.items():
         serie_a_team = get_voti(data, v)
-        output += "\n" + "SERIE A TIM" + str(serie_a_team)
 
         if not serie_a_team:
-            output += "\n" + "Player: " + str(k) + " " + str(v)
-            # This output highlights an issue when retrieving data from older seasons (e.g. 2023/24 instead
-            # of 2024/25). Players may still have a score of 0, even though the code amends their score
-            # to 6. This occurs because teams from the old season (e.g. Roma) have obviously already played.
-            # As a result, the serie_a_team set is not empty and a player listed in the team for the new season
-            # retains a score of 0 (e.g. Angelino in 2024), which is never updated to 6. Noting this here, since
-            # it may not be immediately obvious at debugging
             unplayed.append(k)
             continue
 
         for giocatore in serie_a_team:
-            name = giocatore["name"]
             for team, (titolari, panchinari) in fantasquadre.items():
-                if team not in team_output:
-                    team_output[team] = {"titolari": "", "panchinari": ""}
-
+                name = giocatore['name']
                 if name in titolari:
                     titolari[name] = calc_voto_live(giocatore, punteggi)
-                    team_output[team]["titolari"] += f"{name}: {titolari[name]}\n"
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
-                    team_output[team]["panchinari"] += f"{name}: {panchinari[name]}\n"
+                else:
+                    continue
 
-    output += "\n" + "*" * 15 + "\n"
-    # for team, players in team_output.items():
-    #     output += f"Team: {team}\n"
-    #     output += "Titolari:\n" + players["titolari"]
-    #     output += "Panchinari:\n" + players["panchinari"]
-    #     output += "\n" + "*" * 15 + "\n"
-
-    for team, titolari_panchinari in fantasquadre.items():
-        output += f"Team: {team}\n"
+    # Amend vote if player hasn't played yet
+    for titolari_panchinari in fantasquadre.values():
         for m in titolari_panchinari:
             for name, vote in list(m.items()):
                 if any(i.startswith(squadre[name]) for i in unplayed):
-                    output += "\n" + "player unplayed gets 6 " + str(name)
                     m[name] = 6  # S.V.
-            output += "\n" + str(m)
-            output += "\n" + "*" * 15 + "\n"
 
-    print(output)
+    output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
+              for team, (titolari, panchinari) in fantasquadre.items()}
+
+    totali = {k: v for k, (v, _) in output.items()}
+    table = sorted(totali, key=lambda i: output[i][0], reverse=True)
+
+    print([(i, *output[i]) for i in table])
+    # Nicely formatted output...
+    # max_width = max(len(i) for i in totali)
+    # for i in table:
+    #     print(f"{i:>{max_width}} {totali[i]:.1f}")
 
 
 
-    ## *DEBUG* print data
+    # # *DEBUG* print fanta-teams detailed live scores
     # output = ""
+    # unplayed = []
+    # team_output = {}
     #
-    # for match in data["protoData"]:
-    #     team_home = match['teamHome']
-    #     team_id_home = match['teamIdHome']
-    #     team_away = match['teamAway']
-    #     team_id_away = match['teamIdAway']
+    # punteggi = get_punteggi_lega()
+    # ruoli = get_ruoli_lega()
     #
-    #     output += f"teamHome: {team_home}, ID: {team_id_home}\n"
-    #     output += f"teamAway: {team_away}, ID: {team_id_away}\n"
+    # squadre = get_squadre_serieA()
     #
-    #     output += "\nHome players:\n"
-    #     for player in match["playersHome"]:
-    #         name = player["name"]
-    #         position = player["position"]
-    #         vote = player["vote"]
-    #         output += f"name: {name} - position: {position}, vote: {vote}\n"
+    # fantasquadre = parse_fantasquadre()
     #
-    #     output += "\nAway players:\n"
-    #     for player in match["playersAway"]:
-    #         name = player["name"]
-    #         position = player["position"]
-    #         vote = player["vote"]
-    #         output += f"name: {name} - position: {position}, vote: {vote}\n"
+    # if len(sys.argv) == 1:
+    #     # Testing!
+    #     data = decode_protobuf_live_msg(encoded)
+    # else:
+    #     assert len(sys.argv) == 2
+    #     if sys.argv[1] == 'live':
+    #         season_id = 19
+    #         output += "\n" + "season_id" + str(season_id)
+    #         data = get_live_data(season_id)
+    #         output += "\n" + "DATA" + str(data)
+    #         output += "\n" + "*" * 15 + "\n"
+    #     elif sys.argv[1] == 'next':
+    #         purge()
+    #         sys.exit(0)
+    #     else:
+    #         raise ValueError
     #
-    #     output += "\n" + "*" * 15 + "\n"
+    # inject_custom_events(data)
+    #
+    # for k, v in codici.items():
+    #     serie_a_team = get_voti(data, v)
+    #     output += "\n" + "SERIE A TIM" + str(serie_a_team)
+    #
+    #     if not serie_a_team:
+    #         output += "\n" + "Player: " + str(k) + " " + str(v)
+    #         # This output highlights an issue when retrieving data from older seasons (e.g. 2023/24 instead
+    #         # of 2024/25). Players may still have a score of 0, even though the code amends their score
+    #         # to 6. This occurs because teams from the old season (e.g. Roma) have obviously already played.
+    #         # As a result, the serie_a_team set is not empty and a player listed in the team for the new season
+    #         # retains a score of 0 (e.g. Angelino in 2024), which is never updated to 6. Noting this here, since
+    #         # it may not be immediately obvious at debugging
+    #         unplayed.append(k)
+    #         continue
+    #
+    #     for giocatore in serie_a_team:
+    #         name = giocatore["name"]
+    #         for team, (titolari, panchinari) in fantasquadre.items():
+    #             if team not in team_output:
+    #                 team_output[team] = {"titolari": "", "panchinari": ""}
+    #
+    #             if name in titolari:
+    #                 titolari[name] = calc_voto_live(giocatore, punteggi)
+    #                 team_output[team]["titolari"] += f"{name}: {titolari[name]}\n"
+    #             elif name in panchinari:
+    #                 panchinari[name] = calc_voto_live(giocatore, punteggi)
+    #                 team_output[team]["panchinari"] += f"{name}: {panchinari[name]}\n"
+    #
+    # output += "\n" + "*" * 15 + "\n"
+    # # for team, players in team_output.items():
+    # #     output += f"Team: {team}\n"
+    # #     output += "Titolari:\n" + players["titolari"]
+    # #     output += "Panchinari:\n" + players["panchinari"]
+    # #     output += "\n" + "*" * 15 + "\n"
+    #
+    # for team, titolari_panchinari in fantasquadre.items():
+    #     output += f"Team: {team}\n"
+    #     for m in titolari_panchinari:
+    #         for name, vote in list(m.items()):
+    #             if any(i.startswith(squadre[name]) for i in unplayed):
+    #                 output += "\n" + "player unplayed gets 6 " + str(name)
+    #                 m[name] = 6  # S.V.
+    #         output += "\n" + str(m)
+    #         output += "\n" + "*" * 15 + "\n"
     #
     # print(output)
-
-
-
