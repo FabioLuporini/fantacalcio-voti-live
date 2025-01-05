@@ -346,6 +346,7 @@ if __name__ == "__main__":
 
     for k, v in codici.items():
         serie_a_team = get_voti(data, v)
+        output += "\n" + "SERIE A TIM" + str(serie_a_team)
 
         if not serie_a_team:
             output += "\n" + "Player: " + str(k) + " " + str(v)
