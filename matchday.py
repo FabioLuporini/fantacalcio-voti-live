@@ -137,7 +137,7 @@ def get_live_data():
 
     # TODO: CHECK ME LIVE!
     try:
-        signed_uri = get_signed_uri(giornata, 21)
+        signed_uri = get_signed_uri(giornata, season_id=21)
         encoded = get_protobuf_message_b64(signed_uri)
     except KeyError:
         encoded = ''
