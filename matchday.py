@@ -130,15 +130,13 @@ def parse_fantasquadre():
     return mapper
 
 
-def get_live_data():
+def get_live_data(season_id):
     path = os.path.join(script_directory, 'data', 'giornata.txt')
     with open(path, 'r') as file:
         giornata = int(file.read())
 
     # TODO: CHECK ME LIVE!
     try:
-        season_id = 21
-        print("season_id", season_id)
         signed_uri = get_signed_uri(giornata, season_id=season_id)
         encoded = get_protobuf_message_b64(signed_uri)
     except KeyError:
@@ -293,7 +291,9 @@ if __name__ == "__main__":
     else:
         assert len(sys.argv) == 2
         if sys.argv[1] == 'live':
-            data = get_live_data()
+            season_id = 20
+            print("season_id", season_id)
+            data = get_live_data(season_id)
         elif sys.argv[1] == 'next':
             purge()
             sys.exit(0)
