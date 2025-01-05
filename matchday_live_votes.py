@@ -649,11 +649,19 @@ if __name__ == "__main__":
                 else:
                     continue
 
-    # Amend vote if player hasn't played yet
-    for titolari_panchinari in fantasquadre.values():
+    # # Amend vote if player hasn't played yet
+    # for titolari_panchinari in fantasquadre.values():
+    #     for m in titolari_panchinari:
+    #         for name, vote in list(m.items()):
+    #             if any(i.startswith(squadre[name]) for i in unplayed):
+    #                 m[name] = 6  # S.V.
+    #         print(m)
+    #         print("****")
+    for team, titolari_panchinari in fantasquadre.items():
+        print(f"Team: {team}")
         for m in titolari_panchinari:
             for name, vote in list(m.items()):
                 if any(i.startswith(squadre[name]) for i in unplayed):
                     m[name] = 6  # S.V.
             print(m)
-            print("****")
+        print("****")
