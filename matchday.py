@@ -350,6 +350,12 @@ if __name__ == "__main__":
 
         if not serie_a_team:
             output += "\n" + "Player: " + str(k) + " " + str(v)
+            # This output highlights an issue when retrieving data from older seasons (e.g. 2023/24 instead
+            # of 2024/25). Players may still have a score of 0, even though the code amends their score
+            # to 6. This occurs because teams from the old season (e.g. Roma) have obviously already played.
+            # As a result, the serie_a_team set is not empty and a player listed in the team for the new season
+            # retains a score of 0 (e.g. Angelino in 2024), which is never updated to 6. Noting this here, since
+            # it may not be immediately obvious at debugging
             unplayed.append(k)
             continue
 
