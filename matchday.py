@@ -374,35 +374,35 @@ if __name__ == "__main__":
 
 
 
-    ## *DEBUG* print data
-    # output = ""
-    #
-    # for match in data["protoData"]:
-    #     team_home = match['teamHome']
-    #     team_id_home = match['teamIdHome']
-    #     team_away = match['teamAway']
-    #     team_id_away = match['teamIdAway']
-    #
-    #     output += f"teamHome: {team_home}, ID: {team_id_home}\n"
-    #     output += f"teamAway: {team_away}, ID: {team_id_away}\n"
-    #
-    #     output += "\nHome players:\n"
-    #     for player in match["playersHome"]:
-    #         name = player["name"]
-    #         position = player["position"]
-    #         vote = player["vote"]
-    #         output += f"name: {name} - position: {position}, vote: {vote}\n"
-    #
-    #     output += "\nAway players:\n"
-    #     for player in match["playersAway"]:
-    #         name = player["name"]
-    #         position = player["position"]
-    #         vote = player["vote"]
-    #         output += f"name: {name} - position: {position}, vote: {vote}\n"
-    #
-    #     output += "\n" + "*" * 15 + "\n"
-    #
-    # print(output)
+    # *DEBUG* print data
+    output = ""
+
+    for match in data["protoData"]:
+        team_home = match['teamHome']
+        team_id_home = match['teamIdHome']
+        team_away = match['teamAway']
+        team_id_away = match['teamIdAway']
+
+        output += f"teamHome: {team_home}, ID: {team_id_home}\n"
+        output += f"teamAway: {team_away}, ID: {team_id_away}\n"
+
+        output += "\nHome players:\n"
+        for player in match["playersHome"]:
+            name = player["name"]
+            position = player["position"]
+            vote = player["vote"]
+            output += f"name: {name} - position: {position}, vote: {vote}\n"
+
+        output += "\nAway players:\n"
+        for player in match["playersAway"]:
+            name = player["name"]
+            position = player["position"]
+            vote = player["vote"]
+            output += f"name: {name} - position: {position}, vote: {vote}\n"
+
+        output += "\n" + "*" * 15 + "\n"
+
+    print(output)
 
 
 
