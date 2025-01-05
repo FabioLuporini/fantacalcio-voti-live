@@ -340,13 +340,13 @@ if __name__ == "__main__":
 
 
     # *DEBUG* print fanta-teams detailed live scores
-
     output = ""
     unplayed = []
     team_output = {}
 
     for k, v in codici.items():
         serie_a_team = get_voti(data, v)
+        output += "\n"+ "Player not in serie A:" + str(k) + str(v)
 
         if not serie_a_team:
             unplayed.append(k)
@@ -365,6 +365,7 @@ if __name__ == "__main__":
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
                     team_output[team]["panchinari"] += f"{name}: {panchinari[name]}\n"
 
+    output += "\n" + "*" * 15 + "\n"
     # for team, players in team_output.items():
     #     output += f"Team: {team}\n"
     #     output += "Titolari:\n" + players["titolari"]
