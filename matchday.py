@@ -358,7 +358,7 @@ if __name__ == "__main__":
     else:
         assert len(sys.argv) == 2
         if sys.argv[1] == 'live':
-            season_id = 20
+            season_id = 19
             output += "\n" + "season_id" + str(season_id)
             data = get_live_data(season_id)
             output += "\n" + "DATA" + str(data)
