@@ -398,13 +398,10 @@ if __name__ == "__main__":
                 elif name in panchinari:
                     panchinari[name] = calc_voto_live(giocatore, punteggi)
                     team_output[team]["panchinari"] += f"{name}: {panchinari[name]}\n"
+                else:
+                    continue
 
     output += "\n" + "*" * 15 + "\n"
-    # for team, players in team_output.items():
-    #     output += f"Team: {team}\n"
-    #     output += "Titolari:\n" + players["titolari"]
-    #     output += "Panchinari:\n" + players["panchinari"]
-    #     output += "\n" + "*" * 15 + "\n"
 
     for team, titolari_panchinari in fantasquadre.items():
         output += f"Team: {team}\n"
@@ -415,5 +412,10 @@ if __name__ == "__main__":
                     m[name] = 6  # S.V.
             output += "\n" + str(m)
             output += "\n" + "*" * 15 + "\n"
+
+    output_calc = {team: calc_fantasquadra(titolari, panchinari, ruoli)
+              for team, (titolari, panchinari) in fantasquadre.items()}
+    output+= "\n" + "OUTPUT CALC"
+    output += "\n" + output_calc
 
     print(output)
