@@ -415,7 +415,9 @@ if __name__ == "__main__":
 
     output_calc = {team: calc_fantasquadra(titolari, panchinari, ruoli)
               for team, (titolari, panchinari) in fantasquadre.items()}
-    output+= "\n" + "OUTPUT CALC"
-    output += "\n" + output_calc
+    output += "\n" + "OUTPUT CALC"
+    output += "\n" + json.dumps(output_calc, indent=4)  # since it is a dict..
+
+    print(output)
 
     print(output)
