@@ -93,6 +93,7 @@ def get_squadre_serieA():
     mapper = {}
     for i in serieA:
         # Expected format: name, tabular, squadra (first three letters), \n
+        print("SQUADRE", i)
         name, squadra = i.replace("\n", "").split("\t")
         mapper[name] = squadra
 
