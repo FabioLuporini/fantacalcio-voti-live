@@ -1,596 +1,554 @@
-Martinez L.	Int
-Vlahovic	Juv
-Lukaku	Nap
-Thuram	Int
-Kvaratskhelia	Nap
-Dybala	Rom
-Dovbyk	Rom
-Leao	Mil
-Lookman	Ata
-Retegui	Ata
-Pulisic	Mil
-Morata	Mil
-Zapata D.	Tor
-Calhanoglu	Int
-Koopmeiners	Juv
-Gudmundsson A.	Fio
-Osimhen	Nap
-Zaccagni	Laz
-Scamacca	Ata
-De Ketelaere	Ata
-Castellanos	Laz
-Kean	Fio
-Di Gregorio	Juv
-Sommer	Int
-Pinamonti	Gen
-Man	Par
-Gonzalez N.	Juv
-Dimarco	Int
-Yildiz	Juv
-Soule'	Rom
-Orsolini	Bol
-Dallinga	Bol
-Hernandez T.	Mil
-Colpani	Fio
-Neres	Nap
-Krstovic	Lec
-Barella	Int
-Di Lorenzo	Nap
-Vitinha O.	Gen
-Pohjanpalo	Ven
-Lucca	Udi
-Belotti	Com
-Meret	Nap
-Adams C.	Tor
-Pellegrini Lo.	Rom
-Dia	Laz
-Maignan	Mil
-Svilar	Rom
-Noslin	Laz
-Taremi	Int
-Sanchez	Udi
-Chiesa	Juv
-Politano	Nap
-Frattesi	Int
-Bremer	Juv
-Colombo	Emp
-Piccoli	Cag
-Samardzic	Ata
-Provedel	Laz
-Douglas Luiz	Juv
-Cambiaso	Juv
-McTominay	Nap
-Buongiorno	Nap
-Castro S.	Bol
-Ederson D.s.	Ata
-Gosens	Fio
-Carnesecchi	Ata
-Fabbian	Bol
-Pasalic	Ata
-Bastoni	Int
-Milinkovic-Savic V.	Tor
-Bonny	Par
-Loftus-Cheek	Mil
-Skorupski	Bol
-Bellanova	Ata
-Bernabe'	Par
-Djuric	Mon
-Mkhitaryan	Int
-Ruggeri	Ata
-Ferguson	Bol
-Vlasic	Tor
-Tomori	Mil
-Abraham	Mil
-Thauvin	Udi
-Gaetano	Cag
-Pavard	Int
-Toure' E.	Ata
-Luvumbo	Cag
-Brescianini	Ata
-Dumfries	Int
-Spinazzola	Nap
-Suslov	Ver
-Emerson Royal	Mil
-Tengstedt	Ver
-Pessina	Mon
-Chukwueze	Mil
-Okoye	Udi
-Beltran L.	Fio
-Harroui	Ver
-Pavlovic	Mil
-Gollini	Gen
-Montipo'	Ver
-Falcone	Lec
-Brenner	Udi
-Da Cunha	Com
-Strefezza	Com
-Martinez Quarta	Fio
-Scuffet	Cag
-Acerbi	Int
-Reijnders	Mil
-Biraghi	Fio
-Maldini	Mon
-Tavares N.	Laz
-De Gea	Fio
-Zaniolo	Ata
-Mancini	Rom
-Zappacosta	Ata
-Isaksen	Laz
-Frendrup	Gen
-Ilic	Tor
-Messias	Gen
-Angelino	Rom
-Kossounou	Ata
-Rrahmani	Nap
-Romagnoli	Laz
-Mosquera	Ver
-Cutrone	Com
-Thuram K.	Juv
-Saelemaekers	Rom
-Malinovskyi	Gen
-Zielinski	Int
-Coco	Tor
-Conceicao	Juv
-Ndoye	Bol
-Hermoso	Rom
-Gyasi	Emp
-Oristanio	Ven
-Fazzini	Emp
-Lovric	Udi
-Zurkowski	Emp
-Zambo Anguissa	Nap
-Lazovic	Ver
-Tchatchoua	Ver
-Dodo'	Fio
-Miranda J.	Bol
-Lazzari	Laz
-Turati	Mon
-Mota	Mon
-Milik	Juv
-Paz N.	Com
-Danilo	Juv
-Suzuki	Par
-Okafor	Mil
-Raspadori	Nap
-Sanabria	Tor
-Dele-Bashiru	Laz
-Le Fee	Rom
-Tchaouna	Laz
-Weah	Juv
-Locatelli	Juv
-Hien	Ata
-Kolasinac	Ata
-Darmian	Int
-Joronen	Ven
-Benedyczak	Par
-Cheddira	Nap
-Mihaila	Par
-Shomurodov	Rom
-Cambiaghi	Bol
-Baldanzi	Rom
-Aebischer	Bol
-Ricci S.	Tor
-Marin	Cag
-Sottil	Fio
-Cristante	Rom
-Dorgu	Lec
-Carlos Augusto	Int
-Bijol	Udi
-Gatti	Juv
-Holm	Bol
-Pongracic	Fio
-N'Dicka	Rom
-Terracciano	Fio
-Musso	Ata
-Fofana Y.	Mil
-El Shaarawy	Rom
-Freuler	Bol
-Gigot	Laz
-Baschirotto	Lec
-Hummels	Rom
-Almqvist	Par
-Arnautovic	Int
-Tete Morente	Lec
-Miretti	Gen
-Fagioli	Juv
-Guendouzi	Laz
-Mazzitelli	Com
-Verdi	Com
-Posch	Bol
-Olivera	Nap
-Sergi Roberto	Com
-Djimsiti	Ata
-De Vrij	Int
-Audero	Com
-Mbangula	Juv
-Caprari	Mon
-Kone' M.	Rom
-Castrovilli	Laz
-Sosa B.	Tor
-Moreno Alb.	Com
-Erlic	Bol
-Rocha Livramento	Ver
-Jovic	Mil
-Richardson	Fio
-Oudin	Lec
-Duda	Ver
-Lobotka	Nap
-Sensi	Mon
-Mandragora	Fio
-Duncan	Ven
-Paredes	Rom
-De Roon	Ata
-Coulibaly W.	Par
-Beukema	Bol
-Vasquez	Gen
-Zortea	Cag
-Mina	Cag
-Solbakken	Emp
-Esposito Se.	Emp
-Caputo	Emp
-Simeone	Nap
-Folorunsho	Nap
-Busio	Ven
-Amrabat	Fio
-Bennacer	Mil
-Vecino	Laz
-Cabal	Juv
-Perez N.	Udi
-Casale	Bol
-Parisi	Fio
-Mari'	Mon
-Maripan	Tor
-Ranieri L.	Fio
-Varane	Com
-Karlsson	Bol
-Marchwinski	Lec
-Asllani	Int
-Barak	Fio
-Viola	Cag
-Savona	Juv
-Delprato	Par
-Giannetti L.	Udi
-Dossena	Com
-Lucumi'	Bol
-Bani	Gen
-Luperto	Cag
-Vasquez D.	Emp
-Banda	Lec
-Cancellieri	Par
-Odgaard	Bol
-Kouame'	Fio
-Petagna	Mon
-Fadera	Com
-Andersen M.k.	Ven
-Forson O.	Mon
-Payero	Udi
-Adli	Fio
-Tessmann	Ven
-Sohm	Par
-Ikone'	Fio
-Valoti	Mon
-Kamara H.	Udi
-Kyriakopoulos	Mon
-Martin	Gen
-Calabria	Mil
-Ngonge	Nap
-Nzola	Fio
-Keita M.	Par
-Ekkelenkamp	Udi
-Felici	Cag
-Prati	Cag
-Gineitis	Tor
-Iling Junior	Bol
-Bove	Fio
-Pobega	Bol
-McKennie	Juv
-Abdulhamid	Rom
-Marin R.	Nap
-Gaspar K.	Lec
-Pedersen	Tor
-Gendrey	Lec
-Scalvini	Ata
-Mazzocchi	Nap
-Godfrey	Ata
-Vojvoda	Tor
-Kalulu	Juv
-Celik	Rom
-Smalling	Rom
-Lykogiannis	Bol
-Masina	Tor
-Reina	Com
-Dominguez B.	Bol
-Pellegri	Emp
-Lapadula	Cag
-Ellertsson	Ven
-Gilmour	Nap
-Rovella	Laz
-Hernani	Par
-Frese	Ver
-Bisseck	Int
-Valeri	Par
-Gila	Laz
-Gallo	Lec
-Hateboer	Ata
-Izzo	Mon
-Gytkjaer	Ven
-Ekuban	Gen
-Serdar	Ver
-Ramadani	Lec
-Urbanski	Bol
-Musah	Mil
-Estevez	Par
-Thorsby	Gen
-Iovine	Com
-Comuzzo	Fio
-Thiaw	Mil
-Schuurs	Tor
-Zappa	Cag
-Marusic	Laz
-De Sciglio	Emp
-Patric	Laz
-Coulibaly L.	Lec
-Tameze	Tor
-Gagliardini	Mon
-Badelj	Gen
-Sverko	Ven
-Idzes	Ven
-Zanoli	Gen
-Bakker	Ata
-Ismajli	Emp
-Gabbia	Mil
-Cuadrado	Ata
-Toloi	Ata
-Bravo	Udi
-Davis K.	Udi
-Pierini	Ven
-Yeboah J.	Ven
-Karlstrom	Udi
-Engelhardt	Com
-Braunoder	Com
-Pierret	Lec
-Cajuste	Nap
-Rafia	Lec
-Moro N.	Bol
-Ciurria	Mon
-Maleh	Emp
-Zalewski	Rom
-Henderson L.	Emp
-Van Der Brempt	Com
-Kempf	Com
-Moreno M.	Fio
-Circati	Par
-Dahl	Rom
-Kristensen T.	Udi
-Ferreira J.	Udi
-Kayode	Fio
-Ehizibue	Udi
-Birindelli	Mon
-Coppola D.	Ver
-De Winter	Gen
-Viti	Emp
-Guilbert	Lec
-Daniliuc	Ver
-Bradaric	Ver
-Svoboda	Ven
-Altare	Ven
-Caldirola	Mon
-Carboni A.	Mon
-Candela	Ven
-Augello	Cag
-Lazaro	Tor
-Palomino	Cag
-Zampano	Ven
-Sabelli	Gen
-Pereira P.	Mon
-Kowalski	Par
-Pizarro	Udi
-Sarr A.	Ver
-Correa	Int
-Rebic	Lec
-Rui Modesto	Udi
-Makoumbou	Cag
-El Azzouzi	Bol
-Perrone	Com
-Kastanos	Ver
-Linetty	Tor
-Baselli	Com
-Cataldi	Fio
-Pelmard	Lec
-Azzi	Cag
-Dawidowicz	Ver
-Pezzella Giu.	Emp
-Barba	Com
-Mitrovic S.	Ver
-Zarraga	Udi
-Alidou	Ver
-Bjarkason	Ven
-Jankto	Cag
-Deiola	Cag
-Schingtienne	Ven
-Palacios T.	Int
-Sazonov	Emp
-Natan	Nap
-Ebuehi	Emp
-Di Pardo	Cag
-Osorio	Par
-Sala M.	Com
-Walukiewicz	Tor
-Pellegrini Lu.	Laz
-Faraoni	Ver
-Rugani	Juv
-Juan Jesus	Nap
-Mario Rui	Nap
-Hysaj	Laz
-Shpendi S.	Emp
-Pedro	Laz
-Pavoletti	Cag
-Dani Silva	Ver
-Bondo	Mon
-Vignato S.	Mon
-Kostic	Juv
-Norton-Cuffy	Gen
-Sagrado	Ven
-Toure' I.s.	Udi
-Cacace	Emp
-Stojanovic	Emp
-Valenti	Par
-Magnani	Ver
-Ceccherini	Ver
-De Silvestri	Bol
-D'Ambrosio	Mon
-Pizzignacco	Mon
-Tavsan	Ver
-Pierotti	Lec
-Anjorin	Emp
-Belahyane	Ver
-Sulemana I.	Ata
-Zerbin	Nap
-Nicolussi Caviglia	Ven
-Machin	Mon
-Grassi	Emp
-Wieteska	Cag
-Hatzidiakos	Cag
-Vogliacco	Gen
-Zemura	Udi
-Carboni F.	Ven
-Ebosele	Udi
-Djalo'	Juv
-Balogh	Par
-Kabasele	Udi
-Bonifazi	Lec
-Goldaniga	Com
-Success	Udi
-Adopo	Cag
-Haas	Emp
-Leoni	Par
-Jean	Lec
-Dembele' A.	Tor
-Esteves G.	Udi
-Okou	Ver
-Sambia	Emp
-Obert	Cag
-Bettella	Mon
-Martinez Jo.	Int
-Caprile	Nap
-Perin	Juv
-Partipilo	Par
-Gabrielloni	Com
-Mutandwa	Cag
-Raimondo	Ven
-Doumbia I.	Ven
-Abildgaard	Com
-Bianco	Mon
-Akpa Akpro	Laz
-Cyprien	Par
-Kumbulla	Rom
-Vlahovic V.	Ata
-Ekhator	Gen
-Charpentier	Par
-Gioacchini	Com
-Jasim	Com
-Joao Costa	Rom
-Ankeye	Gen
-Camarda	Mil
-Cruz	Ver
-Burnete	Lec
-Maric	Mon
-Ekong	Emp
-Karamoh	Tor
-Cerri	Com
-Atta	Udi
-Hasa	Lec
-Kouda	Par
-Vos	Mil
-Manzoni	Ata
-Byar	Bol
-Cassa	Ata
-Hainaut	Par
-El Haddad	Ven
-Liberali	Mil
-Adzic	Juv
-Bellemo	Com
-Cisse' A.	Ver
-Zeroli	Mil
-Kaba	Lec
-Lella	Ven
-Belardinelli	Emp
-Pisilli	Rom
-Berisha M.	Lec
-Degli Innocenti	Emp
-Listkowski	Lec
-Bohinen	Gen
-Kone B.	Com
-Basic	Laz
-Crnigoj	Ven
-Camara D.	Par
-Arthur Melo	Juv
-Jajalo	Ven
-Palestra	Ata
-Marianucci	Emp
-Rouhi	Juv
-Marcandalli	Gen
-Lucchesi	Ven
-Sangare' B.	Rom
-Kovacik	Com
-Veroli	Cag
-Ghilardi	Ver
-Dellavalle	Tor
-Ilic M.	Bol
-Goglichidze	Emp
-Bartesaghi	Mil
-Corazza	Bol
-Matturro	Gen
-Abankwah	Udi
-Ebosse	Udi
-Terracciano F.	Mil
-Haps	Ven
-Cassandro	Com
-Di Chiara	Par
-Florenzi	Mil
-Sava	Udi
-Marin Re.	Rom
-Torriani	Mil
-Grandi	Ven
-Corvi	Par
-Chichizola	Par
-Chiorra	Emp
-Sherri	Cag
-Samooja	Lec
-Nava	Mil
-Mandas	Laz
-Furlanetto	Laz
-Christensen O.	Fio
-Stankovic F.	Ven
-Popa	Tor
-Martinelli T.	Fio
-Sorrentino A.	Mon
-Bagnolini	Bol
-Bertinato	Ven
-Ryan	Rom
-Rinaldi	Par
-Paleari	Tor
-Boer	Rom
-Ciocci	Cag
-Berardi A.	Ver
-Brancolini	Emp
-Rui Patricio	Ata
-Contini	Nap
-Vigorito	Com
-Ravaglia F.	Bol
-Fruchtl	Lec
-Rossi F.	Ata
-Silvestri	Udi
-Cragno	Mon
-Plizzari	Ven
-Pinsoglio	Juv
-Di Gennaro	Int
-Perisan	Emp
-Padelli	Udi
-Perilli	Ver
-Sommariva	Gen
-Donnarumma An.	Tor
-Leali	Gen
-Sportiello	Mil
-Radunovic	Cag
-Buchanan T.	Int
+Meret  Por
+Milinkovic-Savic V.  Por
+De Gea  Por
+Maignan  Por
+Sommer  Por
+Di Gregorio  Por
+Carnesecchi  Por
+Leali  Por
+Stankovic F.  Por
+Skorupski  Por
+Svilar  Por
+Turati  Por
+Vasquez D.  Por
+Caprile  Por
+Provedel  Por
+Falcone  Por
+Suzuki  Por
+Reina  Por
+Sava  Por
+Ravaglia F.  Por
+Perin  Por
+Okoye  Por
+Sherri  Por
+Montipo'  Por
+Rui Patricio  Por
+Radu I.  Por
+Scuffet  Por
+Pizzignacco  Por
+Butez  Por
+Terracciano  Por
+Joronen  Por
+Rossi F.  Por
+Bagnolini  Por
+Vigorito  Por
+Martinelli T.  Por
+Gollini  Por
+Sommariva  Por
+Di Gennaro  Por
+Martinez Jo.  Por
+Pinsoglio  Por
+Furlanetto  Por
+Mandas  Por
+Fruchtl  Por
+Samooja  Por
+Nava  Por
+Sportiello  Por
+Contini  Por
+Corvi  Por
+Paleari  Por
+Padelli  Por
+Grandi  Por
+Berardi A.  Por
+Perilli  Por
+Brancolini  Por
+Ciocci  Por
+Torriani  Por
+Donnarumma An.  Por
+Silvestri  Por
+Mazza  Por
+Marin Re.  Por
+Seghetti  Por
+Piana  Por
+Marcone  Por
+Siegrist  Por
+Dumfries  E
+Dimarco  E
+Bastoni  Dc
+Di Lorenzo  B;Dd;E
+Carlos Augusto  E
+Zortea  Dd;Ds;E
+Tavares N.  Ds;E
+Gosens  E
+Zappacosta  E
+Buongiorno  Dc
+Rrahmani  Dc
+Cambiaso  Dd;Ds;E
+Hernandez T.  Ds;E
+Kyriakopoulos  Ds;E
+Delprato  B;Dd;E
+Valeri  Ds;E
+Mancini  Dc
+Savona  B;Dd;E
+Ismajli  Dc
+Pezzella Giu.  Ds;E
+Dodo'  Dd;E
+De Vrij  Dc
+Darmian  B;Dd;E
+Gatti  Dc
+Angelino  Ds;E
+Bellanova  E
+Lazaro  E
+Luperto  Dc
+Martin  Ds;E
+Marusic  Dd;Ds;E
+Gabbia  Dc
+Kalulu  Dd;Dc
+Gigot  Dc
+Ruggeri  E
+Beukema  Dc
+Lykogiannis  Ds;E
+Miranda J.  Ds;E
+Viti  Dc
+Cacace  Ds;E
+Valenti  Dc
+Masina  B;Ds;E
+Bijol  Dc
+Kamara H.  Ds;E
+Walker  B;Dd;E
+Holm  Dd;E
+Obert  Dc
+Ranieri L.  Ds;Dc
+Bisseck  Dc
+Gila  Dc
+Olivera  B;Ds;E
+Spinazzola  E
+N'Dicka  Dc
+Zemura  Ds;E
+Idzes  Dc
+Pavlovic  Dc
+Hien  Dc
+De Silvestri  Dd;E
+Zappa  B;Dd;E
+Augello  Ds;E
+Vasquez  Ds;Dc
+Bremer  Dc
+Coco  Dc
+Tchatchoua  Dd;E
+Maripan  Dc
+Djimsiti  Dc
+Mina  Dc
+Parisi  Ds;E
+De Winter  Dd;Dc
+Zanoli  Dd;E
+Sabelli  Dd;Ds;E
+Pavard  Dd;Dc
+De Sciglio  Dd;Ds;E
+Lazzari  Dd;E
+Hysaj  Dd;Ds;E
+Gaspar K.  Dc
+Gallo  Ds;E
+Tomori  Dc
+Pereira P.  Dd;E
+Birindelli  Dd;Ds;E
+Ehizibue  Dd;E
+Cuadrado  E
+Kempf  Dc
+Solet  Dc
+Lucumi'  Dc
+Dossena  Dc
+Goglichidze  Dd;Dc
+Comuzzo  Dc
+Acerbi  Dc
+Zampano  Dd;Ds;E
+Emerson Royal  B;Dd;Ds
+Sosa B.  E
+Rensch  B;Dd;E
+Kelly L.  Ds;Dc
+Kolasinac  B;Ds;E
+Moreno Alb.  Ds;E
+Walukiewicz  Dc
+Biraghi  B;Ds;E
+Bani  Dc
+Vogliacco  Dd;Dc
+Cabal  B;Ds;E
+Romagnoli  Dc
+Pellegrini Lu.  Ds;E
+Baschirotto  Dd;Dc
+Juan Jesus  Ds;Dc
+Balogh  Dc
+Kabasele  Dc
+Svoboda  Dc
+Sverko  B;Ds;E
+Palomino  Dc
+Jimenez A.  Dd;Ds;E
+Sergi Roberto  E;M
+Jean  Dc
+Leoni  Dc
+Guilbert  B;Dd;Ds
+Kossounou  Dd;Dc
+Van Der Brempt  Dd;E
+Posch  Dd;Dc
+Thiaw  Dc
+Izzo  Dc
+Mari'  Dc
+Celik  Dd;E
+Vojvoda  B;Dd;E
+Kristensen T.  Dc
+Coppola D.  Dc
+Ghilardi  Dc
+Erlic  Dc
+Haps  Ds;E
+Pedersen  E
+Hummels  Dc
+Alberto Costa  Dd;E
+Nelsson  Dc
+Toloi  Dc
+Goldaniga  Dc
+Patric  Dd;Dc
+Calabria  Dd;E
+Carboni A.  Ds;Dc
+Bradaric  Ds;E
+Daniliuc  Dd;Dc
+Toure' I.s.  Dc
+Valle  Ds;E
+Smolcic I.  B;Dd;E
+Scalvini  Dc
+Pongracic  Dc
+Marcandalli  Dc
+Matturro  Dc
+Casale  Dc
+Terracciano F.  Dd;E
+Caldirola  Ds;Dc
+D'Ambrosio  B;Dd;Ds
+Mazzocchi  E
+Giannetti L.  Dc
+Dawidowicz  Dc
+Faraoni  Dd;E
+Abdulhamid  Dd;E
+Schingtienne  Dd;Dc
+Carboni F.  Ds;E
+Moreno M.  Dc
+Bartesaghi  Ds;E
+Ahanor  B;Ds;E
+Valentini N.  Dc
+Lovik  Ds;E
+Otoa  Dc
+Candè  Ds;Dc
+Oyegoke  B;Dd;E
+Veiga D.  Dd;E
+Brorsson  Dc
+Provstgaard  Dc
+Salah-Eddine  Ds;E
+Iovine  Dd;E
+Sala M.  Ds;E
+Ebuehi  Dd;E
+Marin R.  Dc
+Circati  Dc
+Osorio  Dc
+Sangare' B.  Dd;E
+Sazonov  Dc
+Schuurs  Dc
+Okou  Dc
+Frese  Ds;E
+Sagrado  Dd;E
+Rouhi  Ds;E
+Marianucci  Dc
+Norton-Cuffy  Dd;E
+Dembele' A.  E
+Palestra  E
+Palacios T.  Dc
+Sambia  Dd;E
+Florenzi  Dd;Ds;E
+Jack  Ds;Dc
+Lekovic  Dc
+Tiago Gabriel  Dc
+Slotsager  Dc
+Scott  Dc
+Pulisic  T;A
+Zaccagni  W;A
+Orsolini  W
+Reijnders  C
+Barella  C
+Zambo Anguissa  M;C
+McTominay  M;C
+Neres  W;A
+Paz N.  T;A
+Ndoye  W
+Strefezza  W
+Man  W;A
+Calhanoglu  M;C
+Frattesi  C;T
+Thuram K.  M;C
+Weah  W
+Adli  M;C
+El Shaarawy  W
+Ederson D.s.  M;C
+Nicolussi Caviglia  M;C
+Saelemaekers  W
+Dele-Bashiru  C;T
+Samardzic  T
+Conceicao  W;A
+Zielinski  C;T
+Politano  W
+Vlasic  T
+Oristanio  W;T;A
+Brescianini  M;C
+Kone' M.  M;C
+De Roon  M;C
+Koopmeiners  T
+Marin  M;C
+Mkhitaryan  C
+Hernani  C
+Freuler  M;C
+McKennie  M;C
+Guendouzi  C
+Tete Morente  W
+Sohm  C
+Lovric  C
+Ellertsson  C;W
+Fadera  W;A
+Zaniolo  T;A
+Fabbian  C;T
+Ferguson  C;T
+Gyasi  W
+Frendrup  E;M
+Cataldi  M;C
+Paredes  M;C
+Lazovic  W
+Fofana Y.  M;C
+Anjorin  W;T
+Pasalic  C;T
+Felici  E;W
+Da Cunha  W;T
+Bianco  M;C
+Colpani  T
+Locatelli  M;C
+Miretti  C;T
+Gaetano  T
+Bove  M;C
+Pellegrini Lo.  C;T
+Ricci S.  M;C
+Gineitis  C
+Pisilli  C
+Diao  W;A
+Sottil  W
+Douglas Luiz  C
+Rovella  M;C
+Ciurria  E;W
+Maldini  T;A
+Busio  C
+Ekkelenkamp  C;T
+Elmas  W;T
+Casadei  C;T
+Viola  C;T
+Fazzini  C;T
+Mandragora  M;C
+Badelj  M;C
+Loftus-Cheek  C;T
+Chukwueze  W;A
+Lobotka  M;C
+Baldanzi  T;A
+Henderson L.  C;T
+Asllani  M;C
+Vecino  M;C
+Bernabe'  C;T
+Cristante  M;C
+Ilic  C
+Zerbin  E;W
+Caqueret  C
+Cornet  W;A
+Moro N.  M;C
+Musah  C;W
+Kastanos  C;T
+Harroui  W;T
+Engelhardt  M;C
+Coulibaly L.  M;C
+Hainaut  E;C
+Martins K.  E;W
+Ondrejka  W;A
+Urbanski  C;W;T
+Karlsson  W;A
+Adopo  M;C
+Ikone'  W
+Ramadani  M;C
+Maleh  C
+Pobega  M;C
+Bondo  M;C
+Payero  C
+Belahyane  M;C
+Serdar  M;C
+Karlstrom  M;C
+Sensi  C;T
+Perez K.  C;T
+Deiola  M;C
+Makoumbou  M;C
+Thorsby  C
+Messias  C;W
+Pierret  M;C
+Pessina  M;C
+Camara D.  C;T
+Linetty  M;C
+Tameze  M;C
+Duda  M;C
+Suslov  W;T
+Perrone  M;C
+Yeboah J.  W;T
+Atta  M;C
+Grassi  M;C
+Tchaouna  W
+Rafia  C;T
+Folorunsho  C;T
+Zalewski  W
+Richardson  M;C
+Berisha M.  C;T
+Helgason  C;T
+Keita M.  M;C
+Masini  C
+Billing  C;T
+Veiga R.  M;C
+Onana J.  M;C
+Ndour  M;C
+Gourna-Douath  M;C
+Aebischer  C;T
+Malinovskyi  C;T
+Fagioli  C;T
+Castrovilli  C;T
+Kaba  M;C
+Zarraga  M;C
+Duncan  C
+Doumbia I.  M;C
+Rui Modesto  E;W
+Gilmour  M;C
+Ibrahimovic A.  W;T
+Bernede  M;C
+Sulemana I.  M;C
+Prati  M;C
+Braunoder  M;C
+Haas  M;C
+Vignato S.  T;A
+Bjarkason  C;W
+Zurkowski  C;T
+Alli  T
+Kovalenko  C;T
+El Azzouzi  M;C
+Jankto  E;C
+Akpa Akpro  M;C
+Marchwinski  T
+Zeroli  C;T
+Gagliardini  M;C
+Forson O.  W;T
+Estevez  M;C
+Crnigoj  C
+Adzic  T
+Liberali  W;T
+El Haddad  T
+Cassa  C
+Byar  C;T
+Cisse' A.  W;T
+Manzoni  C;T
+Vos  M;C
+Hasa  C;T
+Basic  C
+Kasa  M;C
+Pafundi  T;A
+Condè  M;C
+Niasse  M;C
+Cuenca H.  W;T
+Thuram  Pc
+Retegui  Pc
+Lookman  A
+Kean  Pc
+Gimenez  Pc
+Martinez L.  Pc
+Lukaku  Pc
+Castellanos  Pc
+Vlahovic  Pc
+Dybala  A
+De Ketelaere  A
+Esposito Se.  A
+Dovbyk  Pc
+Dia  Pc
+Yildiz  A
+Leao  A
+Lucca  Pc
+Castro S.  Pc
+Adams C.  A
+Beltran L.  A
+Gudmundsson A.  A
+Thauvin  A
+Kolo Muani  Pc
+Tengstedt  Pc
+Odgaard  A
+Cutrone  Pc
+Krstovic  Pc
+Pinamonti  Pc
+Piccoli  Pc
+Colombo  Pc
+Zapata D.  Pc
+Pedro  A
+Djuric  Pc
+Dominguez B.  A
+Mota  A
+Bonny  Pc
+Mosquera  Pc
+Mbangula  A
+Sarr A.  A
+Scamacca  Pc
+Isaksen  W;A
+Noslin  A
+Dallinga  Pc
+Gonzalez N.  A
+Pierotti  W;A
+Joao Felix  A
+Caprari  A
+Cancellieri  W;A
+Simeone  Pc
+Davis K.  Pc
+Almqvist  W;A
+Coman F.  A
+Abraham  Pc
+Fila  Pc
+Charpentier  Pc
+Pellegri  Pc
+Bravo  A
+Karamoh  A
+Shomurodov  Pc
+Haj Mohamed  A
+Douvikas  Pc
+Keita B.  A
+Luvumbo  A
+Ekuban  A
+Arnautovic  Pc
+Taremi  Pc
+Mihaila  W;A
+Ekhator  Pc
+Ganvoula  Pc
+Pavoletti  Pc
+Okafor  A
+Brenner  A
+Balotelli  Pc
+Kouame'  A
+Vitinha O.  Pc
+Soule'  W;A
+Sanabria  Pc
+Rocha Livramento  Pc
+Correa  A
+Rebic  A
+Banda  W;A
+Raspadori  A
+Gytkjaer  Pc
+Njie  A
+Salama  Pc
+Cambiaghi  A
+Gabrielloni  Pc
+Camarda  Pc
+Sanchez  A
+N'Dri  W;A
+Pellegrino M.  Pc
+Azon  Pc
+Mutandwa  Pc
+Burnete  Pc
+Jovic  Pc
+Petagna  Pc
+Ngonge  W;A
+Benedyczak  A
+Solbakken  A
+Lambourde  A
+Pedrola  W;A
+Milik  Pc
+Pizarro  Pc
+Maric  Pc
+Kowalski  A
+Vlahovic V.  Pc
+Sansone  A
