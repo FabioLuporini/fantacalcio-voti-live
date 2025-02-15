@@ -346,9 +346,9 @@ if __name__ == "__main__":
     team_output = {}
 
     punteggi = get_punteggi_lega()
-    ruoli = get_ruoli_lega()
+    #ruoli = get_ruoli_lega()
 
-    squadre = get_squadre_serieA()
+    #squadre = get_squadre_serieA()
 
     fantasquadre = parse_fantasquadre()
 
