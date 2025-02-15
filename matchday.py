@@ -78,8 +78,7 @@ def get_ruoli_lega():
 
     mapper = {}
     for i in ruoli:
-        # Expected format: ruolo, spaces, name, \n
-        print("III", i)
+        # Expected format: ruolo, tabular, name, \n
         pos, name = i.replace("\n", "").split("\t")
         mapper[name] = pos
 
@@ -93,7 +92,7 @@ def get_squadre_serieA():
 
     mapper = {}
     for i in serieA:
-        # Expected format: name, spaces, squadra (first three letters), \n
+        # Expected format: name, tabular, squadra (first three letters), \n
         name, squadra = i.replace("\n", "").split("\t")
         mapper[name] = squadra
 
