@@ -79,6 +79,7 @@ def get_ruoli_lega():
     mapper = {}
     for i in ruoli:
         # Expected format: ruolo, spaces, name, \n
+        print("III", i)
         pos, name = i.replace("\n", "").split("\t")
         mapper[name] = pos
 
