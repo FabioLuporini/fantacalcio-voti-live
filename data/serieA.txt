@@ -1,554 +1,554 @@
-Meret  Por
-Milinkovic-Savic V.  Por
-De Gea  Por
-Maignan  Por
-Sommer  Por
-Di Gregorio  Por
-Carnesecchi  Por
-Leali  Por
-Stankovic F.  Por
-Skorupski  Por
-Svilar  Por
-Turati  Por
-Vasquez D.  Por
-Caprile  Por
-Provedel  Por
-Falcone  Por
-Suzuki  Por
-Reina  Por
-Sava  Por
-Ravaglia F.  Por
-Perin  Por
-Okoye  Por
-Sherri  Por
-Montipo'  Por
-Rui Patricio  Por
-Radu I.  Por
-Scuffet  Por
-Pizzignacco  Por
-Butez  Por
-Terracciano  Por
-Joronen  Por
-Rossi F.  Por
-Bagnolini  Por
-Vigorito  Por
-Martinelli T.  Por
-Gollini  Por
-Sommariva  Por
-Di Gennaro  Por
-Martinez Jo.  Por
-Pinsoglio  Por
-Furlanetto  Por
-Mandas  Por
-Fruchtl  Por
-Samooja  Por
-Nava  Por
-Sportiello  Por
-Contini  Por
-Corvi  Por
-Paleari  Por
-Padelli  Por
-Grandi  Por
-Berardi A.  Por
-Perilli  Por
-Brancolini  Por
-Ciocci  Por
-Torriani  Por
-Donnarumma An.  Por
-Silvestri  Por
-Mazza  Por
-Marin Re.  Por
-Seghetti  Por
-Piana  Por
-Marcone  Por
-Siegrist  Por
-Dumfries  E
-Dimarco  E
-Bastoni  Dc
-Di Lorenzo  B;Dd;E
-Carlos Augusto  E
-Zortea  Dd;Ds;E
-Tavares N.  Ds;E
-Gosens  E
-Zappacosta  E
-Buongiorno  Dc
-Rrahmani  Dc
-Cambiaso  Dd;Ds;E
-Hernandez T.  Ds;E
-Kyriakopoulos  Ds;E
-Delprato  B;Dd;E
-Valeri  Ds;E
-Mancini  Dc
-Savona  B;Dd;E
-Ismajli  Dc
-Pezzella Giu.  Ds;E
-Dodo'  Dd;E
-De Vrij  Dc
-Darmian  B;Dd;E
-Gatti  Dc
-Angelino  Ds;E
-Bellanova  E
-Lazaro  E
-Luperto  Dc
-Martin  Ds;E
-Marusic  Dd;Ds;E
-Gabbia  Dc
-Kalulu  Dd;Dc
-Gigot  Dc
-Ruggeri  E
-Beukema  Dc
-Lykogiannis  Ds;E
-Miranda J.  Ds;E
-Viti  Dc
-Cacace  Ds;E
-Valenti  Dc
-Masina  B;Ds;E
-Bijol  Dc
-Kamara H.  Ds;E
-Walker  B;Dd;E
-Holm  Dd;E
-Obert  Dc
-Ranieri L.  Ds;Dc
-Bisseck  Dc
-Gila  Dc
-Olivera  B;Ds;E
-Spinazzola  E
-N'Dicka  Dc
-Zemura  Ds;E
-Idzes  Dc
-Pavlovic  Dc
-Hien  Dc
-De Silvestri  Dd;E
-Zappa  B;Dd;E
-Augello  Ds;E
-Vasquez  Ds;Dc
-Bremer  Dc
-Coco  Dc
-Tchatchoua  Dd;E
-Maripan  Dc
-Djimsiti  Dc
-Mina  Dc
-Parisi  Ds;E
-De Winter  Dd;Dc
-Zanoli  Dd;E
-Sabelli  Dd;Ds;E
-Pavard  Dd;Dc
-De Sciglio  Dd;Ds;E
-Lazzari  Dd;E
-Hysaj  Dd;Ds;E
-Gaspar K.  Dc
-Gallo  Ds;E
-Tomori  Dc
-Pereira P.  Dd;E
-Birindelli  Dd;Ds;E
-Ehizibue  Dd;E
-Cuadrado  E
-Kempf  Dc
-Solet  Dc
-Lucumi'  Dc
-Dossena  Dc
-Goglichidze  Dd;Dc
-Comuzzo  Dc
-Acerbi  Dc
-Zampano  Dd;Ds;E
-Emerson Royal  B;Dd;Ds
-Sosa B.  E
-Rensch  B;Dd;E
-Kelly L.  Ds;Dc
-Kolasinac  B;Ds;E
-Moreno Alb.  Ds;E
-Walukiewicz  Dc
-Biraghi  B;Ds;E
-Bani  Dc
-Vogliacco  Dd;Dc
-Cabal  B;Ds;E
-Romagnoli  Dc
-Pellegrini Lu.  Ds;E
-Baschirotto  Dd;Dc
-Juan Jesus  Ds;Dc
-Balogh  Dc
-Kabasele  Dc
-Svoboda  Dc
-Sverko  B;Ds;E
-Palomino  Dc
-Jimenez A.  Dd;Ds;E
-Sergi Roberto  E;M
-Jean  Dc
-Leoni  Dc
-Guilbert  B;Dd;Ds
-Kossounou  Dd;Dc
-Van Der Brempt  Dd;E
-Posch  Dd;Dc
-Thiaw  Dc
-Izzo  Dc
-Mari'  Dc
-Celik  Dd;E
-Vojvoda  B;Dd;E
-Kristensen T.  Dc
-Coppola D.  Dc
-Ghilardi  Dc
-Erlic  Dc
-Haps  Ds;E
-Pedersen  E
-Hummels  Dc
-Alberto Costa  Dd;E
-Nelsson  Dc
-Toloi  Dc
-Goldaniga  Dc
-Patric  Dd;Dc
-Calabria  Dd;E
-Carboni A.  Ds;Dc
-Bradaric  Ds;E
-Daniliuc  Dd;Dc
-Toure' I.s.  Dc
-Valle  Ds;E
-Smolcic I.  B;Dd;E
-Scalvini  Dc
-Pongracic  Dc
-Marcandalli  Dc
-Matturro  Dc
-Casale  Dc
-Terracciano F.  Dd;E
-Caldirola  Ds;Dc
-D'Ambrosio  B;Dd;Ds
-Mazzocchi  E
-Giannetti L.  Dc
-Dawidowicz  Dc
-Faraoni  Dd;E
-Abdulhamid  Dd;E
-Schingtienne  Dd;Dc
-Carboni F.  Ds;E
-Moreno M.  Dc
-Bartesaghi  Ds;E
-Ahanor  B;Ds;E
-Valentini N.  Dc
-Lovik  Ds;E
-Otoa  Dc
-Candè  Ds;Dc
-Oyegoke  B;Dd;E
-Veiga D.  Dd;E
-Brorsson  Dc
-Provstgaard  Dc
-Salah-Eddine  Ds;E
-Iovine  Dd;E
-Sala M.  Ds;E
-Ebuehi  Dd;E
-Marin R.  Dc
-Circati  Dc
-Osorio  Dc
-Sangare' B.  Dd;E
-Sazonov  Dc
-Schuurs  Dc
-Okou  Dc
-Frese  Ds;E
-Sagrado  Dd;E
-Rouhi  Ds;E
-Marianucci  Dc
-Norton-Cuffy  Dd;E
-Dembele' A.  E
-Palestra  E
-Palacios T.  Dc
-Sambia  Dd;E
-Florenzi  Dd;Ds;E
-Jack  Ds;Dc
-Lekovic  Dc
-Tiago Gabriel  Dc
-Slotsager  Dc
-Scott  Dc
-Pulisic  T;A
-Zaccagni  W;A
-Orsolini  W
+Meret  P
+Milinkovic-Savic V.  P
+De Gea  P
+Maignan  P
+Sommer  P
+Di Gregorio  P
+Carnesecchi  P
+Leali  P
+Stankovic F.  P
+Skorupski  P
+Svilar  P
+Turati  P
+Vasquez D.  P
+Caprile  P
+Provedel  P
+Falcone  P
+Suzuki  P
+Reina  P
+Sava  P
+Ravaglia F.  P
+Perin  P
+Okoye  P
+Sherri  P
+Montipo'  P
+Rui Patricio  P
+Radu I.  P
+Scuffet  P
+Pizzignacco  P
+Butez  P
+Terracciano  P
+Joronen  P
+Rossi F.  P
+Bagnolini  P
+Vigorito  P
+Martinelli T.  P
+Gollini  P
+Sommariva  P
+Di Gennaro  P
+Martinez Jo.  P
+Pinsoglio  P
+Furlanetto  P
+Mandas  P
+Fruchtl  P
+Samooja  P
+Nava  P
+Sportiello  P
+Contini  P
+Corvi  P
+Paleari  P
+Padelli  P
+Grandi  P
+Berardi A.  P
+Perilli  P
+Brancolini  P
+Ciocci  P
+Torriani  P
+Donnarumma An.  P
+Silvestri  P
+Mazza  P
+Marin Re.  P
+Seghetti  P
+Piana  P
+Marcone  P
+Siegrist  P
+Dumfries  D
+Dimarco  D
+Bastoni  D
+Di Lorenzo  D
+Carlos Augusto  D
+Zortea  D
+Tavares N.  D
+Gosens  D
+Zappacosta  D
+Buongiorno  D
+Rrahmani  D
+Cambiaso  D
+Hernandez T.  D
+Kyriakopoulos  D
+Delprato  D
+Valeri  D
+Mancini  D
+Savona  D
+Ismajli  D
+Pezzella Giu.  D
+Dodo'  D
+De Vrij  D
+Darmian  D
+Gatti  D
+Angelino  D
+Bellanova  D
+Lazaro  D
+Luperto  D
+Martin  D
+Marusic  D
+Gabbia  D
+Kalulu  D
+Gigot  D
+Ruggeri  D
+Beukema  D
+Lykogiannis  D
+Miranda J.  D
+Viti  D
+Cacace  D
+Valenti  D
+Masina  D
+Bijol  D
+Kamara H.  D
+Walker  D
+Holm  D
+Obert  D
+Ranieri L.  D
+Bisseck  D
+Gila  D
+Olivera  D
+Spinazzola  D
+N'Dicka  D
+Zemura  D
+Idzes  D
+Pavlovic  D
+Hien  D
+De Silvestri  D
+Zappa  D
+Augello  D
+Vasquez  D
+Bremer  D
+Coco  D
+Tchatchoua  D
+Maripan  D
+Djimsiti  D
+Mina  D
+Parisi  D
+De Winter  D
+Zanoli  D
+Sabelli  D
+Pavard  D
+De Sciglio  D
+Lazzari  D
+Hysaj  D
+Gaspar K.  D
+Gallo  D
+Tomori  D
+Pereira P.  D
+Birindelli  D
+Ehizibue  D
+Cuadrado  D
+Kempf  D
+Solet  D
+Lucumi'  D
+Dossena  D
+Goglichidze  D
+Comuzzo  D
+Acerbi  D
+Zampano  D
+Emerson Royal  D
+Sosa B.  D
+Rensch  D
+Kelly L.  D
+Kolasinac  D
+Moreno Alb.  D
+Walukiewicz  D
+Biraghi  D
+Bani  D
+Vogliacco  D
+Cabal  D
+Romagnoli  D
+Pellegrini Lu.  D
+Baschirotto  D
+Juan Jesus  D
+Balogh  D
+Kabasele  D
+Svoboda  D
+Sverko  D
+Palomino  D
+Jimenez A.  D
+Sergi Roberto  D
+Jean  D
+Leoni  D
+Guilbert  D
+Kossounou  D
+Van Der Brempt  D
+Posch  D
+Thiaw  D
+Izzo  D
+Mari'  D
+Celik  D
+Vojvoda  D
+Kristensen T.  D
+Coppola D.  D
+Ghilardi  D
+Erlic  D
+Haps  D
+Pedersen  D
+Hummels  D
+Alberto Costa  D
+Nelsson  D
+Toloi  D
+Goldaniga  D
+Patric  D
+Calabria  D
+Carboni A.  D
+Bradaric  D
+Daniliuc  D
+Toure' I.s.  D
+Valle  D
+Smolcic I.  D
+Scalvini  D
+Pongracic  D
+Marcandalli  D
+Matturro  D
+Casale  D
+Terracciano F.  D
+Caldirola  D
+D'Ambrosio  D
+Mazzocchi  D
+Giannetti L.  D
+Dawidowicz  D
+Faraoni  D
+Abdulhamid  D
+Schingtienne  D
+Carboni F.  D
+Moreno M.  D
+Bartesaghi  D
+Ahanor  D
+Valentini N.  D
+Lovik  D
+Otoa  D
+Candè  D
+Oyegoke  D
+Veiga D.  D
+Brorsson  D
+Provstgaard  D
+Salah-Eddine  D
+Iovine  D
+Sala M.  D
+Ebuehi  D
+Marin R.  D
+Circati  D
+Osorio  D
+Sangare' B.  D
+Sazonov  D
+Schuurs  D
+Okou  D
+Frese  D
+Sagrado  D
+Rouhi  D
+Marianucci  D
+Norton-Cuffy  D
+Dembele' A.  D
+Palestra  D
+Palacios T.  D
+Sambia  D
+Florenzi  D
+Jack  D
+Lekovic  D
+Tiago Gabriel  D
+Slotsager  D
+Scott  D
+Pulisic  C
+Zaccagni  C
+Orsolini  C
 Reijnders  C
 Barella  C
-Zambo Anguissa  M;C
-McTominay  M;C
-Neres  W;A
-Paz N.  T;A
-Ndoye  W
-Strefezza  W
-Man  W;A
-Calhanoglu  M;C
-Frattesi  C;T
-Thuram K.  M;C
-Weah  W
-Adli  M;C
-El Shaarawy  W
-Ederson D.s.  M;C
-Nicolussi Caviglia  M;C
-Saelemaekers  W
-Dele-Bashiru  C;T
-Samardzic  T
-Conceicao  W;A
-Zielinski  C;T
-Politano  W
-Vlasic  T
-Oristanio  W;T;A
-Brescianini  M;C
-Kone' M.  M;C
-De Roon  M;C
-Koopmeiners  T
-Marin  M;C
+Zambo Anguissa  C
+McTominay  C
+Neres  C
+Paz N.  C
+Ndoye  C
+Strefezza  C
+Man  C
+Calhanoglu  C
+Frattesi  C
+Thuram K.  C
+Weah  C
+Adli  C
+El Shaarawy  C
+Ederson D.s.  C
+Nicolussi Caviglia  C
+Saelemaekers  C
+Dele-Bashiru  C
+Samardzic  C
+Conceicao  C
+Zielinski  C
+Politano  C
+Vlasic  C
+Oristanio  C
+Brescianini  C
+Kone' M.  C
+De Roon  C
+Koopmeiners  C
+Marin  C
 Mkhitaryan  C
 Hernani  C
-Freuler  M;C
-McKennie  M;C
+Freuler  C
+McKennie  C
 Guendouzi  C
-Tete Morente  W
+Tete Morente  C
 Sohm  C
 Lovric  C
-Ellertsson  C;W
-Fadera  W;A
-Zaniolo  T;A
-Fabbian  C;T
-Ferguson  C;T
-Gyasi  W
-Frendrup  E;M
-Cataldi  M;C
-Paredes  M;C
-Lazovic  W
-Fofana Y.  M;C
-Anjorin  W;T
-Pasalic  C;T
-Felici  E;W
-Da Cunha  W;T
-Bianco  M;C
-Colpani  T
-Locatelli  M;C
-Miretti  C;T
-Gaetano  T
-Bove  M;C
-Pellegrini Lo.  C;T
-Ricci S.  M;C
+Ellertsson  C
+Fadera  C
+Zaniolo  C
+Fabbian  C
+Ferguson  C
+Gyasi  C
+Frendrup  C
+Cataldi  C
+Paredes  C
+Lazovic  C
+Fofana Y.  C
+Anjorin  C
+Pasalic  C
+Felici  C
+Da Cunha  C
+Bianco  C
+Colpani  C
+Locatelli  C
+Miretti  C
+Gaetano  C
+Bove  C
+Pellegrini Lo.  C
+Ricci S.  C
 Gineitis  C
 Pisilli  C
-Diao  W;A
-Sottil  W
+Diao  C
+Sottil  C
 Douglas Luiz  C
-Rovella  M;C
-Ciurria  E;W
-Maldini  T;A
+Rovella  C
+Ciurria  C
+Maldini  C
 Busio  C
-Ekkelenkamp  C;T
-Elmas  W;T
-Casadei  C;T
-Viola  C;T
-Fazzini  C;T
-Mandragora  M;C
-Badelj  M;C
-Loftus-Cheek  C;T
-Chukwueze  W;A
-Lobotka  M;C
-Baldanzi  T;A
-Henderson L.  C;T
-Asllani  M;C
-Vecino  M;C
-Bernabe'  C;T
-Cristante  M;C
+Ekkelenkamp  C
+Elmas  C
+Casadei  C
+Viola  C
+Fazzini  C
+Mandragora  C
+Badelj  C
+Loftus-Cheek  C
+Chukwueze  C
+Lobotka  C
+Baldanzi  C
+Henderson L.  C
+Asllani  C
+Vecino  C
+Bernabe'  C
+Cristante  C
 Ilic  C
-Zerbin  E;W
+Zerbin  C
 Caqueret  C
-Cornet  W;A
-Moro N.  M;C
-Musah  C;W
-Kastanos  C;T
-Harroui  W;T
-Engelhardt  M;C
-Coulibaly L.  M;C
-Hainaut  E;C
-Martins K.  E;W
-Ondrejka  W;A
-Urbanski  C;W;T
-Karlsson  W;A
-Adopo  M;C
-Ikone'  W
-Ramadani  M;C
+Cornet  C
+Moro N.  C
+Musah  C
+Kastanos  C
+Harroui  C
+Engelhardt  C
+Coulibaly L.  C
+Hainaut  C
+Martins K.  C
+Ondrejka  C
+Urbanski  C
+Karlsson  C
+Adopo  C
+Ikone'  C
+Ramadani  C
 Maleh  C
-Pobega  M;C
-Bondo  M;C
+Pobega  C
+Bondo  C
 Payero  C
-Belahyane  M;C
-Serdar  M;C
-Karlstrom  M;C
-Sensi  C;T
-Perez K.  C;T
-Deiola  M;C
-Makoumbou  M;C
+Belahyane  C
+Serdar  C
+Karlstrom  C
+Sensi  C
+Perez K.  C
+Deiola  C
+Makoumbou  C
 Thorsby  C
-Messias  C;W
-Pierret  M;C
-Pessina  M;C
-Camara D.  C;T
-Linetty  M;C
-Tameze  M;C
-Duda  M;C
-Suslov  W;T
-Perrone  M;C
-Yeboah J.  W;T
-Atta  M;C
-Grassi  M;C
-Tchaouna  W
-Rafia  C;T
-Folorunsho  C;T
-Zalewski  W
-Richardson  M;C
-Berisha M.  C;T
-Helgason  C;T
-Keita M.  M;C
+Messias  C
+Pierret  C
+Pessina  C
+Camara D.  C
+Linetty  C
+Tameze  C
+Duda  C
+Suslov  C
+Perrone  C
+Yeboah J.  C
+Atta  C
+Grassi  C
+Tchaouna  C
+Rafia  C
+Folorunsho  C
+Zalewski  C
+Richardson  C
+Berisha M.  C
+Helgason  C
+Keita M.  C
 Masini  C
-Billing  C;T
-Veiga R.  M;C
-Onana J.  M;C
-Ndour  M;C
-Gourna-Douath  M;C
-Aebischer  C;T
-Malinovskyi  C;T
-Fagioli  C;T
-Castrovilli  C;T
-Kaba  M;C
-Zarraga  M;C
+Billing  C
+Veiga R.  C
+Onana J.  C
+Ndour  C
+Gourna-Douath  C
+Aebischer  C
+Malinovskyi  C
+Fagioli  C
+Castrovilli  C
+Kaba  C
+Zarraga  C
 Duncan  C
-Doumbia I.  M;C
-Rui Modesto  E;W
-Gilmour  M;C
-Ibrahimovic A.  W;T
-Bernede  M;C
-Sulemana I.  M;C
-Prati  M;C
-Braunoder  M;C
-Haas  M;C
-Vignato S.  T;A
-Bjarkason  C;W
-Zurkowski  C;T
-Alli  T
-Kovalenko  C;T
-El Azzouzi  M;C
-Jankto  E;C
-Akpa Akpro  M;C
-Marchwinski  T
-Zeroli  C;T
-Gagliardini  M;C
-Forson O.  W;T
-Estevez  M;C
+Doumbia I.  C
+Rui Modesto  C
+Gilmour  C
+Ibrahimovic A.  C
+Bernede  C
+Sulemana I.  C
+Prati  C
+Braunoder  C
+Haas  C
+Vignato S.  C
+Bjarkason  C
+Zurkowski  C
+Alli  C
+Kovalenko  C
+El Azzouzi  C
+Jankto  C
+Akpa Akpro  C
+Marchwinski  C
+Zeroli  C
+Gagliardini  C
+Forson O.  C
+Estevez  C
 Crnigoj  C
-Adzic  T
-Liberali  W;T
-El Haddad  T
+Adzic  C
+Liberali  C
+El Haddad  C
 Cassa  C
-Byar  C;T
-Cisse' A.  W;T
-Manzoni  C;T
-Vos  M;C
-Hasa  C;T
+Byar  C
+Cisse' A.  C
+Manzoni  C
+Vos  C
+Hasa  C
 Basic  C
-Kasa  M;C
-Pafundi  T;A
-Condè  M;C
-Niasse  M;C
-Cuenca H.  W;T
-Thuram  Pc
-Retegui  Pc
+Kasa  C
+Pafundi  C
+Condè  C
+Niasse  C
+Cuenca H.  C
+Thuram  A
+Retegui  A
 Lookman  A
-Kean  Pc
-Gimenez  Pc
-Martinez L.  Pc
-Lukaku  Pc
-Castellanos  Pc
-Vlahovic  Pc
+Kean  A
+Gimenez  A
+Martinez L.  A
+Lukaku  A
+Castellanos  A
+Vlahovic  A
 Dybala  A
 De Ketelaere  A
 Esposito Se.  A
-Dovbyk  Pc
-Dia  Pc
+Dovbyk  A
+Dia  A
 Yildiz  A
 Leao  A
-Lucca  Pc
-Castro S.  Pc
+Lucca  A
+Castro S.  A
 Adams C.  A
 Beltran L.  A
 Gudmundsson A.  A
 Thauvin  A
-Kolo Muani  Pc
-Tengstedt  Pc
+Kolo Muani  A
+Tengstedt  A
 Odgaard  A
-Cutrone  Pc
-Krstovic  Pc
-Pinamonti  Pc
-Piccoli  Pc
-Colombo  Pc
-Zapata D.  Pc
+Cutrone  A
+Krstovic  A
+Pinamonti  A
+Piccoli  A
+Colombo  A
+Zapata D.  A
 Pedro  A
-Djuric  Pc
+Djuric  A
 Dominguez B.  A
 Mota  A
-Bonny  Pc
-Mosquera  Pc
+Bonny  A
+Mosquera  A
 Mbangula  A
 Sarr A.  A
-Scamacca  Pc
-Isaksen  W;A
+Scamacca  A
+Isaksen  A
 Noslin  A
-Dallinga  Pc
+Dallinga  A
 Gonzalez N.  A
-Pierotti  W;A
+Pierotti  A
 Joao Felix  A
 Caprari  A
-Cancellieri  W;A
-Simeone  Pc
-Davis K.  Pc
-Almqvist  W;A
+Cancellieri  A
+Simeone  A
+Davis K.  A
+Almqvist  A
 Coman F.  A
-Abraham  Pc
-Fila  Pc
-Charpentier  Pc
-Pellegri  Pc
+Abraham  A
+Fila  A
+Charpentier  A
+Pellegri  A
 Bravo  A
 Karamoh  A
-Shomurodov  Pc
+Shomurodov  A
 Haj Mohamed  A
-Douvikas  Pc
+Douvikas  A
 Keita B.  A
 Luvumbo  A
 Ekuban  A
-Arnautovic  Pc
-Taremi  Pc
-Mihaila  W;A
-Ekhator  Pc
-Ganvoula  Pc
-Pavoletti  Pc
+Arnautovic  A
+Taremi  A
+Mihaila  A
+Ekhator  A
+Ganvoula  A
+Pavoletti  A
 Okafor  A
 Brenner  A
-Balotelli  Pc
+Balotelli  A
 Kouame'  A
-Vitinha O.  Pc
-Soule'  W;A
-Sanabria  Pc
-Rocha Livramento  Pc
+Vitinha O.  A
+Soule'  A
+Sanabria  A
+Rocha Livramento  A
 Correa  A
 Rebic  A
-Banda  W;A
+Banda  A
 Raspadori  A
-Gytkjaer  Pc
+Gytkjaer  A
 Njie  A
-Salama  Pc
+Salama  A
 Cambiaghi  A
-Gabrielloni  Pc
-Camarda  Pc
+Gabrielloni  A
+Camarda  A
 Sanchez  A
-N'Dri  W;A
-Pellegrino M.  Pc
-Azon  Pc
-Mutandwa  Pc
-Burnete  Pc
-Jovic  Pc
-Petagna  Pc
-Ngonge  W;A
+N'Dri  A
+Pellegrino M.  A
+Azon  A
+Mutandwa  A
+Burnete  A
+Jovic  A
+Petagna  A
+Ngonge  A
 Benedyczak  A
 Solbakken  A
 Lambourde  A
-Pedrola  W;A
-Milik  Pc
-Pizarro  Pc
-Maric  Pc
+Pedrola  A
+Milik  A
+Pizarro  A
+Maric  A
 Kowalski  A
-Vlahovic V.  Pc
+Vlahovic V.  A
 Sansone  A
