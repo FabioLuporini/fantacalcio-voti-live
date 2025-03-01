@@ -198,7 +198,6 @@ def calc_voto_live(giocatore, punteggi):
 def calc_fantasquadra(titolari, panchinari, ruoli):
     # Just to preserve integrity of input to the caller, but strictly speaking
     # unneeeded if not for debugging
-    print(titolari, panchinari, ruoli)
     panchinari = dict(panchinari)
 
     tot = 0
@@ -258,7 +257,6 @@ def calc_fantasquadra(titolari, panchinari, ruoli):
         # Unknown player pos!
         v = 0
     tot += v
-    print("strmodulo[modulo]", strmodulo[modulo])
     return tot, strmodulo[modulo]
 
 
@@ -326,6 +324,15 @@ if __name__ == "__main__":
             for name, vote in list(m.items()):
                 if any(i.startswith(squadre[name]) for i in unplayed):
                     m[name] = 6  # S.V.
+
+    # DEBUG
+    output = ""
+    for team, (titolari, panchinari) in fantasquadre.items():
+        output += "Team" + team
+        output += calc_fantasquadra(titolari, panchinari, ruoli)
+        print(output)
+
+
 
     output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
               for team, (titolari, panchinari) in fantasquadre.items()}
