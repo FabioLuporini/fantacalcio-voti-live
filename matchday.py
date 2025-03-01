@@ -329,7 +329,7 @@ if __name__ == "__main__":
     output = ""
     for team, (titolari, panchinari) in fantasquadre.items():
         output += "Team" + team
-        output += calc_fantasquadra(titolari, panchinari, ruoli)
+        calc_fantasquadra(titolari, panchinari, ruoli)
         print(output)
 
 
