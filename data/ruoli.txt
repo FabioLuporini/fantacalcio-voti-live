@@ -280,7 +280,7 @@ C	Dele-Bashiru
 C	Samardzic
 C	Conceicao
 C	Zielinski
-C	Politano
+A	Politano
 C	Vlasic
 C	Oristanio
 C	Brescianini
