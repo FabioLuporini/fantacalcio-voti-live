@@ -262,7 +262,7 @@ C	Reijnders
 C	Barella
 C	Zambo Anguissa
 C	McTominay
-C	Neres
+A	Neres
 C	Paz N.
 C	Ndoye
 C	Strefezza
