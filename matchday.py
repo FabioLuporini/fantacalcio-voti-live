@@ -326,22 +326,22 @@ if __name__ == "__main__":
                     m[name] = 6  # S.V.
 
     ## DEBUG CODE FOR OBSERVED MODULE INCONSISTENCIES
-    output = ""
-    for team, (titolari, panchinari) in fantasquadre.items():
-        output += f"Team {team};"
-        try:
-            calc_fantasquadra(titolari, panchinari, ruoli)
-        except Exception as e:
-            output += f"Exception: {str(e)}\n"
-    print(output)
+    # output = ""
+    # for team, (titolari, panchinari) in fantasquadre.items():
+    #     output += f"Team {team};"
+    #     try:
+    #         calc_fantasquadra(titolari, panchinari, ruoli)
+    #     except Exception as e:
+    #         output += f"Exception: {str(e)}\n"
+    # print(output)
 
-    # output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
-    #           for team, (titolari, panchinari) in fantasquadre.items()}
-    #
-    # totali = {k: v for k, (v, _) in output.items()}
-    # table = sorted(totali, key=lambda i: output[i][0], reverse=True)
-    #
-    # print([(i, *output[i]) for i in table])
+    output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
+              for team, (titolari, panchinari) in fantasquadre.items()}
+
+    totali = {k: v for k, (v, _) in output.items()}
+    table = sorted(totali, key=lambda i: output[i][0], reverse=True)
+
+    print([(i, *output[i]) for i in table])
 
 
     # Nicely formatted output...
