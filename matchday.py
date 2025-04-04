@@ -343,7 +343,6 @@ if __name__ == "__main__":
 
     print([(i, *output[i]) for i in table])
 
-
     # Nicely formatted output...
     # max_width = max(len(i) for i in totali)
     # for i in table:
