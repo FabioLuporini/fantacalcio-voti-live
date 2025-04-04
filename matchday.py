@@ -335,13 +335,13 @@ if __name__ == "__main__":
             output += f"Exception: {str(e)}\n"
     print(output)
 
-    output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
-              for team, (titolari, panchinari) in fantasquadre.items()}
-
-    totali = {k: v for k, (v, _) in output.items()}
-    table = sorted(totali, key=lambda i: output[i][0], reverse=True)
-
-    print([(i, *output[i]) for i in table])
+    # output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
+    #           for team, (titolari, panchinari) in fantasquadre.items()}
+    #
+    # totali = {k: v for k, (v, _) in output.items()}
+    # table = sorted(totali, key=lambda i: output[i][0], reverse=True)
+    #
+    # print([(i, *output[i]) for i in table])
 
 
     # Nicely formatted output...
