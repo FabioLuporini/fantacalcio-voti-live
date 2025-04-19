@@ -3,21 +3,21 @@ By loopFC
 
 Sommer
 Solet
-Gila
+Baschirotto
 Pavlovic
 Dimarco
-Baschirotto
 Ederson D.s.
 Zaniolo
 Elmas
 Retegui
 Krstovic
+Politano
 -------------
 Tete Morente
 Colpani
-Delprato
+Gila
 Cristante
-Politano
+Delprato
 Ranieri L.
 Vasquez D.
 Beltran L.
@@ -25,3 +25,5 @@ Sarr A.
 Di Gennaro
 Coulibaly L.
 Bonny
+Suslov
+Buongiorno
