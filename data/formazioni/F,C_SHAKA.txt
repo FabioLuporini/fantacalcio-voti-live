@@ -1,28 +1,29 @@
-F,C SHAKA
+,C SHAKA
 By zlatanburdisso
 
 Di Gregorio
 Hernandez T.
-Olivera
 Spinazzola
+Olivera
 Bellanova
 Zaccagni
 Nicolussi Caviglia
 Strefezza
 Leao
-Kean
 Soule'
+Isaksen
 -------------
 Perin
 Martinez Jo.
-Lazaro
 Marusic
+Lazaro
 Lucumi'
 Palacios T.
 Koopmeiners
 Baldanzi
+Fabbian
 Pisilli
 Miretti
-Fabbian
 Gimenez
 Kouame'
+Kean
