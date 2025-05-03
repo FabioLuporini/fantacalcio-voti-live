@@ -1,4 +1,4 @@
-,C SHAKA
+F,C SHAKA
 By zlatanburdisso
 
 Di Gregorio
@@ -10,7 +10,7 @@ Zaccagni
 Nicolussi Caviglia
 Strefezza
 Leao
-Soule'
+Kean
 Isaksen
 -------------
 Perin
@@ -23,7 +23,6 @@ Koopmeiners
 Baldanzi
 Fabbian
 Pisilli
-Miretti
 Gimenez
+Soule'
 Kouame'
-Kean
