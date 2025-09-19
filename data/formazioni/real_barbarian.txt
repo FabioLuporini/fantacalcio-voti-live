@@ -1,7 +1,6 @@
 Real Barbarian
 By Lorenzo Ragghianti
-
-Semper
+De Gea
 Miranda J.
 Dimarco
 Delprato
@@ -10,10 +9,10 @@ Konè M.
 De Bruyne
 Zambo Anguissa
 Nkunku
-Dovbyk
+Simeone
 Openda
 -------------
-De Gea
+Semper
 Martinelli T.
 Gila
 Vitik
@@ -24,6 +23,6 @@ Bernabè
 Barella
 Fagioli
 Ferguson
-Adams C.
-Simeone
 Neres
+Dovbyk
+Adams C.
