@@ -326,17 +326,17 @@ if __name__ == "__main__":
                     m[name] = 6  # S.V.
 
     ## DEBUG CODE FOR OBSERVED MODULE INCONSISTENCIES
-    output = ""
-    for team, (titolari, panchinari) in fantasquadre.items():
-        output += f"Team {team};\n"
-        output += f"{titolari}\n"
-        output += f"{panchinari}\n"
-        try:
-            calc_fantasquadra(titolari, panchinari, ruoli)
-        except Exception as e:
-            output += f"Exception: {str(e)}\n"
-        output += f"----------\n"
-    print(output)
+    # output = ""
+    # for team, (titolari, panchinari) in fantasquadre.items():
+    #     output += f"Team {team};\n"
+    #     output += f"{titolari}\n"
+    #     output += f"{panchinari}\n"
+    #     try:
+    #         calc_fantasquadra(titolari, panchinari, ruoli)
+    #     except Exception as e:
+    #         output += f"Exception: {str(e)}\n"
+    #     output += f"----------\n"
+    # print(output)
 
     output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
               for team, (titolari, panchinari) in fantasquadre.items()}
