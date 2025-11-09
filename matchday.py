@@ -278,10 +278,6 @@ if __name__ == "__main__":
     # * `formazioni/` must be available
 
     punteggi = get_punteggi_lega()
-    punti = ""
-    for k, v in punteggi.items():
-        punti += f"{k}: {v}\n"
-    print(punti)
 
     ruoli = get_ruoli_lega()
 
@@ -331,6 +327,29 @@ if __name__ == "__main__":
                     m[name] = 6  # S.V.
 
     ## DEBUG CODE FOR OBSERVED MODULE INCONSISTENCIES
+    punti = ""
+    punti += "PUNTI:\n"
+    for k, v in punteggi.items():
+        punti += f"{k}: {v}\n"
+    punti += f"----------\n"
+    print(punti)
+
+    roles = ""
+    roles += "PUNTI:\n"
+    for k, v in ruoli.items():
+        roles += f"{k}: {v}\n"
+    roles += f"----------\n"
+    print(roles)
+
+    sa = ""
+    roles += "SERIE A:\n"
+    for k, v in codici.items():
+        v = get_voti(data, v)
+        for ky, va in ruoli.items():
+            sa += f"{ky}: {va}\n"
+    sa += f"----------\n"
+    print(sa)
+
     output = ""
     for team, (titolari, panchinari) in fantasquadre.items():
         output += f"Team {team};\n"
@@ -342,6 +361,8 @@ if __name__ == "__main__":
             output += f"Exception: {str(e)}\n"
         output += f"----------\n"
     print(output)
+
+    ## END DEBUGGING
 
     output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
               for team, (titolari, panchinari) in fantasquadre.items()}
