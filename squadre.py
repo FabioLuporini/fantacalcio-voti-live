@@ -23,6 +23,8 @@ codici = {
     "Venezia": 138,
     "Verona": 20,
     "Parma": 107,
-    "Como": 153
+    "Como": 153,
+    "Pisa": 157,
+    "Cremonese": 144,
 }
 

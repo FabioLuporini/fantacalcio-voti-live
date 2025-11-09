@@ -327,27 +327,15 @@ if __name__ == "__main__":
                     m[name] = 6  # S.V.
 
     ## DEBUG CODE FOR OBSERVED MODULE INCONSISTENCIES
-    # punti = ""
-    # punti += "PUNTI:\n"
-    # for k, v in punteggi.items():
-    #     punti += f"{k}: {v}\n"
-    # punti += f"----------\n"
-    # print(punti)
-    #
-    # roles = ""
-    # roles += "ROLES:\n"
-    # for k, v in ruoli.items():
-    #     roles += f"{k}: {v}\n"
-    # roles += f"----------\n"
-    # print(roles)
-    #
+    # Usually, at the start of each season, either we miss some new real teams into squadre.py other we have typos in the list of players.
+    # The following code should help in retrieving the code of the new teams, as well as going through the list of players.
     sa = ""
     sa += "SERIE A:\n"
     pd = data['protoData']
     for i in pd:
         sa += str(i) + "\n"
     sa += "----------\n"
-    print(sa)
+    print(sa) # please, check the IDs in the printed list under teamIdHome and teamIdAway
 
     output = ""
     for team, (titolari, panchinari) in fantasquadre.items():
@@ -359,7 +347,7 @@ if __name__ == "__main__":
         except Exception as e:
             output += f"Exception: {str(e)}\n"
         output += f"----------\n"
-    print(output)
+    print(output) # please, cross these votes with the one on the official App.
 
     ## END DEBUGGING
 
