@@ -279,8 +279,10 @@ if __name__ == "__main__":
 
     punteggi = get_punteggi_lega()
     punti = ""
-    punti += punteggi
+    for k, v in punteggi.items():
+        punti += f"{k}: {v}\n"
     print(punti)
+
     ruoli = get_ruoli_lega()
 
     squadre = get_squadre_serieA()
