@@ -345,12 +345,8 @@ if __name__ == "__main__":
     sa += "SERIE A:\n"
     pd = data['protoData']
     for i in pd:
-        sa += data['protoData']
-    # for k, v in codici.items():
-    #     v = get_voti(data, v)
-    #     for ky, va in ruoli.items():
-    #         sa += f"{ky}: {va}\n"
-    sa += f"----------\n"
+        sa += str(i) + "\n"
+    sa += "----------\n"
     print(sa)
 
     output = ""
