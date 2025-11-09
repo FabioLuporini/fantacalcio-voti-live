@@ -329,25 +329,26 @@ if __name__ == "__main__":
     ## DEBUG CODE FOR OBSERVED MODULE INCONSISTENCIES
     # Usually, at the start of each season, either we miss some new real teams into squadre.py other we have typos in the list of players.
     # The following code should help in retrieving the code of the new teams, as well as going through the list of players.
-    sa = ""
-    sa += "SERIE A:\n"
-    pd = data['protoData']
-    for i in pd:
-        sa += str(i) + "\n"
-    sa += "----------\n"
-    print(sa) # please, check the IDs in the printed list under teamIdHome and teamIdAway
 
-    output = ""
-    for team, (titolari, panchinari) in fantasquadre.items():
-        output += f"Team {team};\n"
-        output += f"{titolari}\n"
-        output += f"{panchinari}\n"
-        try:
-            calc_fantasquadra(titolari, panchinari, ruoli)
-        except Exception as e:
-            output += f"Exception: {str(e)}\n"
-        output += f"----------\n"
-    print(output) # please, cross these votes with the one on the official App.
+    # sa = ""
+    # sa += "SERIE A:\n"
+    # pd = data['protoData']
+    # for i in pd:
+    #     sa += str(i) + "\n"
+    # sa += "----------\n"
+    # print(sa) # please, check the IDs in the printed list under teamIdHome and teamIdAway
+    #
+    # output = ""
+    # for team, (titolari, panchinari) in fantasquadre.items():
+    #     output += f"Team {team};\n"
+    #     output += f"{titolari}\n"
+    #     output += f"{panchinari}\n"
+    #     try:
+    #         calc_fantasquadra(titolari, panchinari, ruoli)
+    #     except Exception as e:
+    #         output += f"Exception: {str(e)}\n"
+    #     output += f"----------\n"
+    # print(output) # please, cross these votes with the one on the official App.
 
     ## END DEBUGGING
 
