@@ -327,26 +327,27 @@ if __name__ == "__main__":
                     m[name] = 6  # S.V.
 
     ## DEBUG CODE FOR OBSERVED MODULE INCONSISTENCIES
-    punti = ""
-    punti += "PUNTI:\n"
-    for k, v in punteggi.items():
-        punti += f"{k}: {v}\n"
-    punti += f"----------\n"
-    print(punti)
-
-    roles = ""
-    roles += "PUNTI:\n"
-    for k, v in ruoli.items():
-        roles += f"{k}: {v}\n"
-    roles += f"----------\n"
-    print(roles)
-
+    # punti = ""
+    # punti += "PUNTI:\n"
+    # for k, v in punteggi.items():
+    #     punti += f"{k}: {v}\n"
+    # punti += f"----------\n"
+    # print(punti)
+    #
+    # roles = ""
+    # roles += "ROLES:\n"
+    # for k, v in ruoli.items():
+    #     roles += f"{k}: {v}\n"
+    # roles += f"----------\n"
+    # print(roles)
+    #
     sa = ""
-    roles += "SERIE A:\n"
-    for k, v in codici.items():
-        v = get_voti(data, v)
-        for ky, va in ruoli.items():
-            sa += f"{ky}: {va}\n"
+    sa += "SERIE A:\n"
+    sa += data['protoData']
+    # for k, v in codici.items():
+    #     v = get_voti(data, v)
+    #     for ky, va in ruoli.items():
+    #         sa += f"{ky}: {va}\n"
     sa += f"----------\n"
     print(sa)
 
