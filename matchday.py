@@ -278,6 +278,9 @@ if __name__ == "__main__":
     # * `formazioni/` must be available
 
     punteggi = get_punteggi_lega()
+    punti = ""
+    punti += punteggi
+    print(punti)
     ruoli = get_ruoli_lega()
 
     squadre = get_squadre_serieA()
