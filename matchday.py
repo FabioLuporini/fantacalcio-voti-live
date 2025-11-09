@@ -335,7 +335,7 @@ if __name__ == "__main__":
             calc_fantasquadra(titolari, panchinari, ruoli)
         except Exception as e:
             output += f"Exception: {str(e)}\n"
-        output += f"----------"
+        output += f"----------\n"
     print(output)
 
     output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
