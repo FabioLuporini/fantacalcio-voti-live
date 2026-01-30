@@ -1,8 +1,7 @@
 F,C SHAKA
 By zlatanburdisso
-
-Provedel
-Solet
+Provedel
+Kalulu
 Vojvoda
 Akanji
 Zaccagni
@@ -11,19 +10,19 @@ Baturina
 Gudmundsson A.
 Yildiz
 Scamacca
-Douvikas
+Giovane
 -------------
-Mandas
+Mandas *
 Skorupski
-Kalulu
+Solet
 Vasquez
 Lucumì
 Lazzari
 Joao Mario
-Samardzic
 El Aynaoui
+Samardzic
 Gronbaek
 Koopmeiners
 Orban G.
-Giovane
 Diao
+Douvikas
