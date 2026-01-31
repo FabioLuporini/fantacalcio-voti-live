@@ -145,7 +145,7 @@ Samardzic	Ata
 Elmas	Nap
 Tomori	Mil
 Cutrone	Par
-Maldini	Ata
+Maldini	Laz
 Lobotka	Nap
 Vazquez	Cre
 Scalvini	Ata
