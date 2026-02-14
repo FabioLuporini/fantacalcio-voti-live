@@ -1,538 +1,581 @@
 Martinez L.	Int
-Kean	Fio
-Thuram	Int
-David	Juv
-Yildiz	Juv
-Dybala	Rom
-Pulisic	Mil
-Orsolini	Bol
-Leao	Mil
-McTominay	Nap
-Zaccagni	Laz
-Castellanos	Laz
-Hojlund	Nap
-Ferguson E.	Rom
-Gudmundsson A.	Fio
-Soulè	Rom
-Krstovic	Ata
-Openda	Juv
-Rabiot	Mil
-Berardi	Sas
-Calhanoglu	Int
-De Ketelaere	Ata
-De Bruyne	Nap
-Nkunku	Mil
-Lookman	Ata
 Paz N.	Com
-Castro S.	Bol
-Vlahovic	Juv
-Lukaku	Nap
-Scamacca	Ata
-Gimenez	Mil
-Dumfries	Int
-Dia	Laz
-Immobile	Bol
-Meret	Nap
+Pulisic	Mil
+Yildiz	Juv
+Thuram	Int
+Calhanoglu	Int
+McTominay	Nap
+Orsolini	Bol
 Dimarco	Int
-Zapata D.	Tor
+Hojlund	Nap
+Leao	Mil
+Soulè	Rom
+Rabiot	Mil
+Kean	Fio
+Svilar	Rom
+Malen	Rom
+McKennie	Juv
+Scamacca	Ata
+Maignan	Mil
+Berardi	Sas
+Saelemaekers	Mil
+De Ketelaere	Ata
+Mandragora	Fio
+Zaniolo	Udi
+Modric	Mil
+Palestra	Cag
+Davis K.	Udi
+Butez	Com
+Vlasic	Tor
+Gudmundsson A.	Fio
+Carnesecchi	Ata
+Douvikas	Com
+Provedel	Laz
+Pellegrino M.	Par
+Raspadori	Ata
+De Bruyne	Nap
+Bremer	Juv
+Castellanos	Laz
+Lookman	Ata
+Zambo Anguissa	Nap
 Di Gregorio	Juv
 Sommer	Int
-Svilar	Rom
-Gosens	Fio
-Pinamonti	Sas
-Conceicao	Juv
-Piccoli	Fio
-Zhegrova	Juv
-Maignan	Mil
-Morata	Com
-Bastoni	Int
-Lucca	Nap
-Pellegrino M.	Par
-Dovbyk	Rom
-Odgaard	Bol
-Esposito Se.	Cag
-Carnesecchi	Ata
-Politano	Nap
 Thauvin	Udi
-De Gea	Fio
-Zambo Anguissa	Nap
-Diao	Com
-Ndoye	Bol
-Thuram K.	Juv
-Cambiaso	Juv
-Vardy	Cre
-Barella	Int
-Provedel	Laz
-Di Lorenzo	Nap
-Wesley	Rom
-Angelino	Rom
-Bailey	Rom
-Bellanova	Ata
-Davis K.	Udi
-Locatelli	Juv
-Bremer	Juv
-Skorupski	Bol
-Adams C.	Tor
-Rowe	Bol
-Lang	Nap
-Laurientè	Sas
-Orban G.	Ver
-Dodò	Fio
-Tavares N.	Laz
-Dzeko	Fio
-Ederson D.S.	Ata
-Modric	Mil
-Buongiorno	Nap
-Colombo	Gen
-Konè M.	Rom
-Tramoni M.	Pis
-Saelemaekers	Mil
-Solet	Udi
-Zortea	Bol
-Vlasic	Tor
-Estupinan	Mil
-Oristanio	Par
-Isaksen	Laz
-Bonny	Int
-Frattesi	Int
-Vandeputte	Cre
-Bernabè	Par
-Pedro	Laz
-Sanabria	Cre
-Koopmeiners	Juv
-Stengs	Pis
-Mkhitaryan	Int
-Sohm	Fio
-Hien	Ata
-Butez	Com
-Kuhn	Com
-Da Cunha	Com
-Israel	Tor
-Atta	Udi
-Gronbaek	Gen
-De Roon	Ata
-Rrahmani	Nap
-Martin	Gen
-Stulic	Lec
-Buksa	Udi
-Dele-Bashiru	Laz
-Fofana Y.	Mil
-Carlos Augusto	Int
-Douvikas	Com
-Mandragora	Fio
-Mancini	Rom
-Zappacosta	Ata
-Leali	Gen
-Neres	Nap
-Carboni V.	Gen
-Nzola	Pis
-Zerbin	Cre
-Casadei	Tor
-Pasalic	Ata
+Bastoni	Int
 Kalulu	Juv
-Simeone	Tor
-Folorunsho	Cag
-Zaniolo	Udi
-Valeri	Par
-Stanciu	Gen
-Sucic P.	Int
-N'Dicka	Rom
-Acerbi	Int
-Cambiaghi	Bol
-Lovric	Udi
-Zalewski	Ata
-Samardzic	Ata
-Elmas	Nap
-Tomori	Mil
-Cutrone	Par
-Maldini	Laz
-Lobotka	Nap
-Vazquez	Cre
-Scalvini	Ata
-Jashari	Mil
-Tourè I.	Pis
-Collocolo	Cre
-Anjorin	Tor
-Ferguson	Bol
-Brescianini	Ata
-Nicolussi Caviglia	Fio
-Guendouzi	Laz
-Freuler	Bol
-Cristante	Rom
-Baschirotto	Cre
-Marusic	Laz
-Biraghi	Tor
-Camarda	Lec
-Belotti	Cag
-El Aynaoui	Rom
-Fazzini	Fio
-Thorstvedt	Sas
-Ricci S.	Mil
-Pobega	Bol
-Strefezza	Com
-Rovella	Laz
-Sottil	Lec
-Bernardeschi	Bol
-Kossounou	Ata
-Pavard	Int
-Romagnoli	Laz
-Bravo	Udi
-Sarr A.	Ver
-Baturina	Com
-Ekkelenkamp	Udi
-Frendrup	Gen
-Fagioli	Fio
-Loftus-Cheek	Mil
-Delprato	Par
-Lucumì	Bol
-Olivera	Nap
-Pavlovic	Mil
-Miranda J.	Bol
-Mina	Cag
-Giovane	Ver
-Ngonge	Tor
-Sulemana K.	Ata
-Pierotti	Lec
-Cornet	Gen
-Pellegrini Lo.	Rom
-Bisseck	Int
-Gila	Laz
-Vasquez	Gen
-Akanji	Int
-De Vrij	Int
-Bonazzoli	Cre
-Tete Morente	Lec
-Perrone	Com
-Caqueret	Com
+Atta	Udi
+Dybala	Rom
+Ndoye	Bol
+David	Juv
+Castro S.	Bol
+Krstovic	Ata
+Barella	Int
 Malinovskyi	Gen
-El Shaarawy	Rom
-Gaspar K.	Lec
-Kamara H.	Udi
-Lazaro	Tor
-Caprile	Cag
-Rodriguez Je.	Com
-Vitinha O.	Gen
-Luvumbo	Cag
-Bondo	Cre
-Hernani	Par
-Vitik	Bol
-Beukema	Nap
-Gutierrez	Nap
-Luperto	Cag
+Zaccagni	Laz
+Akanji	Int
+Colombo	Gen
+Esposito Se.	Cag
+Durosinmi	Pis
+Simeone	Tor
+Solet	Udi
+Lukaku	Nap
+Thuram K.	Juv
+Vardy	Cre
+Spinazzola	Nap
+Nkunku	Mil
+Vlahovic	Juv
+Konè M.	Rom
+Locatelli	Juv
+Mancini	Rom
+Baturina	Com
+Wesley	Rom
+Zielinski	Int
+Pinamonti	Sas
+Orban G.	Ver
+Konè I.	Sas
+Perrone	Com
+Isaksen	Laz
+Conceicao	Juv
 Falcone	Lec
-Dominguez B.	Bol
-Fabbian	Bol
-Gaetano	Cag
-Joao Mario	Juv
-Angori	Pis
-Idzes	Sas
-Comuzzo	Fio
-Tchatchoua	Ver
-Doig	Sas
-De Winter	Mil
-Addai	Com
+Taylor K.	Laz
+Rrahmani	Nap
 Esposito F.P.	Int
-Moumbagna	Cre
-Diouf	Int
-Baldanzi	Rom
-Pongracic	Fio
-Gabbia	Mil
-Ranieri L.	Fio
-Aboukhlal	Tor
-Gonzalez N.	Juv
-Lorran	Pis
-Ondrejka	Par
-Pisilli	Rom
-Helgason	Lec
-Man	Par
-Kempf	Com
-Ehizibue	Udi
-Holm	Bol
-Hermoso	Rom
-Gallo	Lec
-Kolasinac	Ata
-Djimsiti	Ata
-Okoye	Udi
+Bisseck	Int
+Adams C.	Tor
+Laurientè	Sas
+Fullkrug	Mil
+Di Lorenzo	Nap
+Neres	Nap
 Kilicsoy	Cag
-Mosquera	Ver
-Djuric	Par
-Raspadori	Nap
-Masini	Gen
-Karlstrom	Udi
-Suslov	Ver
-Ndour	Fio
-Boloca	Sas
-Aebischer	Pis
-Harroui	Ver
-Niasse	Ver
-Coulibaly L.	Lec
-Luis Henrique	Int
-McKennie	Juv
-Adopo	Cag
-Vecino	Laz
-Bella-Kotchap	Ver
-Athekame	Mil
-Candè	Sas
+Ederson D.S.	Ata
+De Roon	Ata
+Bernabè	Par
+Dodò	Fio
+Solomon	Fio
+Vitinha O.	Gen
+Belotti	Cag
+Strefezza	Par
+Pavlovic	Mil
+Tomori	Mil
+N'Dicka	Rom
+Milinkovic-Savic V.	Nap
+Fagioli	Fio
+Pellegrini Lo.	Rom
+Cristante	Rom
+Ramon	Com
+Odgaard	Bol
+Vergara	Nap
+Ekkelenkamp	Udi
+Brescianini	Fio
+Fofana Y.	Mil
+Cataldi	Laz
+Bartesaghi	Mil
+Caprile	Cag
+Bonny	Int
+Casadei	Tor
+Thorstvedt	Sas
+Da Cunha	Com
+Lobotka	Nap
+Dumfries	Int
+Martin	Gen
+Pedro	Laz
+Tourè I.	Pis
+Miretti	Juv
+Zalewski	Ata
+Pasalic	Ata
+Ostigard	Gen
+Zappacosta	Ata
+Meret	Nap
+Ratkov	Laz
+Rodriguez Je.	Com
+Ferguson E.	Rom
+Frendrup	Gen
+Basic	Laz
+Elmas	Nap
+Politano	Nap
+Vasquez	Gen
+Bonazzoli	Cre
+Harrison	Fio
+Tramoni M.	Pis
+Loftus-Cheek	Mil
+Tiago Gabriel	Lec
+Kempf	Com
 Kelly L.	Juv
-Darmian	Int
-Juan Jesus	Nap
-Suzuki	Par
-Meister	Pis
-Benedyczak	Par
-Dallinga	Bol
-Almqvist	Par
+Gila	Laz
+Maripan	Tor
+Gabbia	Mil
+Pavard	Int
+Cambiaghi	Bol
+Rowe	Bol
+Baldanzi	Gen
+Coulibaly L.	Lec
+Mkhitaryan	Int
+Valeri	Par
+Diego Carlos	Com
+Lang	Nap
 Cancellieri	Laz
 Moreo	Pis
-Sorensen O.	Par
-Fadera	Sas
-Akinsanmiro	Pis
-Ellertsson	Gen
-Volpato	Sas
-Troilo	Par
-Rensch	Rom
-Leoni	Par
-Ramon	Com
-Valle	Com
-Circati	Par
-Gatti	Juv
-Terracciano F.	Cre
-Ostigard	Gen
-Ismajli	Tor
-Vojvoda	Com
-Marì	Fio
-Maripan	Tor
-Celik	Rom
-Zappa	Cag
-Pezzella Giu.	Cre
-Cuadrado	Pis
-Audero	Cre
-Bayo V.	Udi
-Borrelli	Cag
-Johnsen	Cre
-Piotrowski	Udi
-Ordonez C.	Par
-Konè I.	Sas
-Pierret	Lec
-Serdar	Ver
-Gilmour	Nap
-Ilic	Tor
-Messias	Gen
-Thorsby	Gen
-Zielinski	Int
-Belghali	Ver
-Muharemovic	Sas
-Canestrelli	Pis
-Tiago Gabriel	Lec
-Coco	Tor
-Kristensen T.	Udi
-Lykogiannis	Bol
-Caracciolo A.	Pis
-Semper	Pis
-Marin M.	Pis
-Prati	Cag
-Ramadani	Lec
-Gineitis	Tor
 Berisha M.	Lec
-Vranckx	Sas
-Tameze	Tor
-Chukwueze	Mil
-Mazzitelli	Cag
-Deiola	Cag
-Siebert	Lec
+Luis Henrique	Int
+Gaetano	Cag
+Guendouzi	Laz
+Delprato	Par
+Gosens	Fio
+Romagnoli	Laz
+Belghali	Ver
+Gandelman	Lec
+Vandeputte	Cre
+Sucic P.	Int
+Karlstrom	Udi
+Maldini	Laz
+Bernasconi	Ata
 Heggem	Bol
-Lovik	Par
+Muharemovic	Sas
+Hien	Ata
+Scalvini	Ata
+Cambiaso	Juv
+De Gea	Fio
+Vaz	Rom
+Openda	Juv
+Banda	Lec
+Fadera	Sas
+Kostic	Juv
+Matic	Sas
+Mazzitelli	Cag
+Tchatchoua	Ver
+Baschirotto	Cre
+Hermoso	Rom
+Djimsiti	Ata
+Juan Jesus	Nap
+Loyola	Pis
+Pisilli	Rom
+Ferguson	Bol
+Volpato	Sas
+Pobega	Bol
+Sottil	Lec
+Freuler	Bol
 Norton-Cuffy	Gen
-Ghilardi	Rom
-Dossena	Com
-Ebosse	Ver
-Bertola	Udi
+Circati	Par
+Comuzzo	Fio
+Carlos Augusto	Int
+Holm	Juv
+Bellanova	Ata
+Luperto	Cre
+Stulic	Lec
+Giovane	Nap
+Piccoli	Fio
+Gonzalez N.	Juv
+Boga	Juv
+Immobile	Bol
+Santos A.	Nap
+Zaragoza	Rom
+Zhegrova	Juv
+Man	Par
+Thorsby	Cre
+Obrador	Tor
+Obert	Cag
+Tavares N.	Laz
+Kamara H.	Udi
+Diao	Com
+Cutrone	Par
+Zapata D.	Tor
+Miller L.	Udi
+Piotrowski	Udi
+Bernede	Ver
+Ondrejka	Par
+Keita M.	Par
+Pierotti	Lec
+Suslov	Ver
+Ndour	Fio
+Folorunsho	Cag
+Fabbian	Fio
+Ellertsson	Gen
+Asllani	Tor
+Adopo	Cag
+Nicolussi Caviglia	Par
+Deiola	Cag
+Nelsson	Ver
+Valle	Com
+Coco	Tor
+Gaspar K.	Lec
+Doig	Sas
+Terracciano F.	Cre
 Parisi	Fio
 Valenti	Par
-Walukiewicz	Sas
-Lazzari	Laz
-Ceccherini	Cre
-Sabelli	Gen
-Sava	Udi
-Beltran L.	Fio
-Brenner	Udi
-Mulattieri	Sas
-Banda	Lec
-Sanchez	Udi
-Cremaschi	Par
-Miller L.	Udi
-Bernede	Ver
-Keita M.	Par
-Payero	Cre
-Sulemana I.	Bol
-Matic	Sas
-Kastanos	Ver
-Cataldi	Laz
-Ndiaye	Par
-Kouassi	Lec
-Nelsson	Ver
-Unai Nunez	Ver
-Goglichidze	Udi
-Jimenez A.	Mil
-Posch	Com
-Cabal	Juv
-Obert	Cag
-Diego Carlos	Com
-Spinazzola	Nap
-De Silvestri	Bol
-Albiol	Pis
-Montipò	Ver
-Venturino	Gen
-Noslin	Laz
-Tourè E.	Ata
-Pierini	Sas
-Piccinini G.	Pis
-Al-Musrati	Ver
-Miretti	Juv
-Asllani	Tor
-Musah	Ata
-Ghion	Sas
-Grassi	Cre
-Zè Pedro	Cag
-Floriani Mussolini	Cre
-Folino	Cre
-Valentini N.	Ver
-Ahanor	Ata
-Faye	Cre
-Marianucci	Nap
-Savona	Juv
-Frese	Ver
-Pedersen	Tor
-Viti	Fio
-Romagna	Sas
-Milinkovic-Savic V.	Nap
-N'Dri	Lec
-Rocha Livramento	Ver
-Cheddira	Sas
-Sala A.	Lec
-Richardson	Fio
-Felici	Cag
-Sarmiento J.	Cre
-Lipani	Sas
-Odenthal	Sas
+Celik	Rom
+Zortea	Bol
+Mina	Cag
+Buongiorno	Nap
+Kolasinac	Ata
+Marusic	Laz
+Kulenovic	Tor
+Addai	Com
+Dominguez B.	Bol
+Meister	Pis
+Cheddira	Lec
+Lorran	Pis
+Ordonez C.	Par
+Collocolo	Cre
+Serdar	Ver
+Ramadani	Lec
+El Aynaoui	Rom
+Iling Junior	Pis
+Bondo	Cre
+Stengs	Pis
+Ricci S.	Mil
+Caqueret	Com
+Leris	Pis
+Vecino	Laz
+Bella-Kotchap	Ver
+Angori	Pis
 Veiga D.	Lec
+Leoni	Par
+Idzes	Sas
+Kristensen T.	Udi
+Barbieri	Cre
+Bertola	Udi
+Miranda J.	Bol
+Gallo	Lec
+Walukiewicz	Sas
+Kabasele	Udi
+Venturino	Rom
+Bowie	Ver
+Buksa	Udi
+Dovbyk	Rom
+Bravo	Udi
+Dallinga	Bol
+Borrelli	Cag
+Dia	Laz
+Ekuban	Gen
+Morata	Com
+Piccinini G.	Pis
+Tete Morente	Lec
+Akinsanmiro	Pis
+Prati	Tor
+Kaba	Lec
+Carboni V.	Gen
+Lovric	Ver
+Aebischer	Pis
+Harroui	Ver
+Koopmeiners	Juv
+Gilmour	Nap
+Samardzic	Ata
+Rovella	Laz
+El Shaarawy	Rom
+Bernardeschi	Bol
+Britschgi	Par
+Canestrelli	Pis
+Idrissi R.	Cag
+Smolcic I.	Com
+Ahanor	Ata
+Marianucci	Tor
+Marcandalli	Gen
+Frese	Ver
+Ghilardi	Rom
+Lucumì	Bol
+De WInt	Mil
+Pongracic	Fio
+Zanoli	Udi
+Vojvoda	Com
+Zappa	Cag
+Lazaro	Tor
+Caracciolo A.	Pis
+Bianchetti	Cre
+Corvi	Par
+Okoye	Udi
+Stojilkovic	Pis
+Kuhn	Com
+Mosquera	Ver
+Lucca	Nap
+Ngonge	Tor
+Sulemana K.	Ata
+Nzola	Sas
+Amorim	Gen
+Sorensen O.	Par
+Jashari	Mil
+Marin M.	Pis
+Dele-Bashiru	Laz
+Oristanio	Par
+Gineitis	Tor
+Moro N.	Bol
+Musah	Ata
+Chukwueze	Mil
+Vazquez	Cre
+Vitik	Bol
+Pedersen	Tor
+Beukema	Nap
+Bradaric	Ver
+Pellegrini Lu.	Laz
+Lirola	Ver
+Pezzella Giu.	Cre
+Gimenez	Mil
+N'Dri	Lec
+Benedyczak	Par
+Noslin	Laz
+Beltran L.	Fio
+Almqvist	Par
+Mulattieri	Sas
+Djuric	Cre
+Luvumbo	Cag
+Sanchez	Udi
+Dzeko	Fio
+Sanabria	Cre
+Masini	Gen
+Felici	Cag
+Diouf	Int
+Sulemana I.	Cag
+Ilkhan	Tor
+Zerbin	Cre
+Niasse	Ver
+Sohm	Bol
+Estevez	Par
+Messias	Gen
+Hernani	Par
+Frattesi	Int
+Bailey	Rom
+Zatterstrom	Gen
+Zè Pedro	Cag
+Rodriguez Ju.	Cag
+Ziolkowski	Rom
+Joao Mario	Bol
+Floriani Mussolini	Cre
+Slotsager	Ver
+Rensch	Rom
+Valentini N.	Ver
+Jimenez A.	Mil
+Cabal	Juv
+Olivera	Nap
+Kossounou	Ata
+Gutierrez	Nap
+Estupinan	Mil
+Ismajli	Tor
+Angelino	Rom
+Ranieri L.	Fio
+Lykogiannis	Bol
+Sabelli	Gen
+Acerbi	Int
+De Vrij	Int
+Rugani	Fio
+Suzuki	Par
+Paleari	Tor
+Muric	Sas
+Audero	Cre
+Skorupski	Bol
+Sergi Roberto	Com
+Aboukhlal	Tor
+Ekhator	Gen
+Moumbagna	Cre
+Tourè E.	Ata
+Sala A.	Lec
+Anjorin	Tor
+Pierret	Lec
+Vranckx	Sas
+Ghion	Sas
+Tameze	Tor
+Helland	Bol
+Bozhinov	Pis
+Fortini	Fio
+Otoa	Gen
+Savona	Juv
+Tsimikas	Rom
+Albiol	Pis
+Bijlow	Gen
+Scuffet	Pis
+Bayo V.	Udi
+Rocha Livramento	Ver
+Camarda	Lec
+Sarr A.	Ver
+Johnsen	Cre
+Pierini	Sas
+Cremaschi	Par
+Iannoni	Sas
+Bakola	Sas
+Richardson	Fio
+Sarmiento J.	Cre
+Payero	Cre
+Lipani	Sas
+Fazzini	Fio
+Ilic	Tor
+Kastanos	Ver
+Grassi	Cre
+Mlacic	Udi
+Troilo	Par
+Athekame	Mil
+Ndiaye	Par
+Ndaba	Lec
 Van Der Brempt	Com
-Palestra	Cag
-Lamptey	Fio
+Unai Nunez	Ver
+Garcia U.	Sas
+Bonfanti	Pis
 Zemura	Udi
 Thiaw	Mil
-Barbieri	Cre
-Bradaric	Ver
-Zanoli	Udi
-Casale	Bol
-Tsimikas	Rom
-Calabresi	Pis
-Pellegrini Lu.	Laz
+Ehizibue	Udi
+Gatti	Juv
+Moreno Alb.	Com
+Nkounkou	Tor
+Marì	Fio
+Romagna	Sas
+Lazzari	Laz
+Ceccherini	Cre
+Cuadrado	Pis
+De Silvestri	Bol
 Masina	Tor
-Sergi Roberto	Com
 Frigan	Par
 Lind	Pis
 Karlsson	Bol
-Iannoni	Sas
+Lahdo	Com
+Al-Musrati	Ver
 El Azzouzi	Bol
 Rafia	Lec
-Moro N.	Bol
-Kostic	Juv
-Ziolkowski	Rom
-Idrissi R.	Cag
+Belahyane	Laz
+Helgason	Lec
+Odenthal	Sas
 Salah-Eddine	Rom
-Palma	Udi
-Giannetti L.	Udi
-Mateus Lusuardi	Pis
+Provstgaard	Laz
+Lovik	Par
+Rui Modesto	Udi
+Goglichidze	Udi
 Azzi	Cre
-Gigot	Laz
-Moreno Alb.	Com
+Posch	Com
+Ebosse	Tor
+Viti	Fio
+Casale	Bol
 Balogh	Par
 Erlic	Bol
-Patric	Laz
-Turati	Sas
-Muric	Sas
+Calabresi	Pis
+Darmian	Int
+Montipò	Ver
+Przyborek	Laz
 Liteta	Cag
+Vural	Pis
 Zarraga	Udi
 Pafundi	Udi
-Maleh	Lec
+Maleh	Cre
+Akpa Akpro	Ver
 Douglas Luiz	Juv
-Rui Modesto	Udi
-Coulibaly W.	Sas
-Nkounkou	Tor
-Kabasele	Udi
+Gagliardini	Ver
+Siebert	Lec
+Cham	Ver
 Goldaniga	Com
-Hysaj	Laz
+Ravaglia F.	Bol
 Azon	Com
 Taremi	Int
 Okafor	Mil
-De Luca	Cre
-Ekuban	Gen
+Brenner	Udi
 Milik	Juv
-Belahyane	Laz
+Stanciu	Gen
 Castagnetti	Cre
+Cornet	Gen
 Weah	Juv
 Zanimacchia	Cre
+Edmundsson	Ver
+Tchoca	Tor
 Odogu	Mil
-Fortini	Fio
-Smolcic I.	Com
-Provstgaard	Laz
-Slotsager	Ver
+Folino	Cre
+Candè	Sas
+Faye	Cre
 Hainaut	Par
-Bartesaghi	Mil
-Bonfanti	Pis
-Paz Y.	Sas
-Vogliacco	Gen
+Giannetti L.	Udi
+Mateus Lusuardi	Pis
+Lamptey	Fio
+Dossena	Cag
 Missori	Sas
 Schuurs	Tor
-Mazzocchi	Nap
 Kumbulla	Rom
-Rugani	Juv
-Ravaglia F.	Bol
+Patric	Laz
+Biraghi	Tor
+Njie	Tor
 Alvarez A.	Sas
+Gronbaek	Gen
 Onana J.	Gen
+Boloca	Sas
 Sabiri	Fio
-Gagliardini	Ver
 Denoon	Pis
-Pieragnolo	Sas
 Coppola F.	Pis
+Kouassi	Lec
 Oyegoke	Ver
 Jack	Com
+Palma	Udi
 Rouhi	Juv
+Coulibaly W.	Sas
+Carboni F.	Par
 Di Pardo	Cag
-Bianchetti	Cre
+Hysaj	Laz
 Nasti	Cre
-Ekhator	Gen
 Pizarro	Udi
 Okereke	Cre
+De Luca	Cre
 Pavoletti	Cag
 Engelhardt	Com
-Estevez	Par
-Leris	Pis
 Valoti	Cre
+Pedro Felipe	Sas
+Pieragnolo	Sas
 Rus	Pis
-Otoa	Gen
 Jean	Lec
-Dembelè A.	Tor
+Paz Y.	Sas
+Vogliacco	Gen
+Gigot	Laz
 Ravanelli	Cre
-Mandas	Laz
-Martinez Jo.	Int
-Scuffet	Pis
+Mazzocchi	Nap
+Perilli	Ver
 Pickel	Cre
 Bonfanti N.	Pis
+Fofana Sa.	Lec
 Santiago	Ver
 Hojholt	Pis
 Marchwinski	Lec
-Kaba	Lec
 Bianco	Fio
-Akpa Akpro	Ver
-Britschgi	Par
-Ndaba	Lec
 Mbambi	Pis
+Perez M.	Lec
 Esteves T.	Pis
-Marcandalli	Gen
+Dembelè A.	Tor
 Ilic M.	Bol
 Wieteska	Cag
 Quagliata	Cre
+Elphege	Par
+Albarracin	Cag
+Trepy	Cag
+Isaac	Ver
 Arena A.	Rom
 Gueye	Udi
 Ambrosino	Nap
@@ -540,48 +583,57 @@ Balentien	Mil
 Buffon L.	Pis
 Skjellerup	Sas
 Moro L.	Sas
-Njie	Tor
 Gabrielloni	Com
-Vergara	Nap
+Kouamè	Fio
+Ngom	Lec
+Gorter	Lec
 Arena	Pis
-Vural	Pis
 Cuenca H.	Gen
 Liberali	Mil
 Adzic	Juv
 Braunoder	Com
 Cissè A.	Ver
-Ilkhan	Tor
-Basic	Laz
+Fini	Gen
 Alli	Com
 Rog	Cag
-Rodriguez Ju.	Cag
+Raterink	Cag
+Arizala	Udi
 Kouadio	Fio
-Cham	Ver
-Perez M.	Lec
 Abdulhamid	Rom
 Palacios T.	Int
 Veroli	Cag
 Godfrey	Ata
 Sernicola	Cre
+Siviero	Tor
+Motta	Laz
+Tornqvist	Com
+Ferrante	Nap
 Cavlina	Com
 Toniolo	Ver
 Nunziante	Udi
+Israel	Tor
 Pessina Mas.	Bol
 Zelezny	Rom
+Calligaris	Int
 Siegrist	Gen
+Sava	Udi
 Torriani	Mil
-Corvi	Par
+Sherri	Cag
 Samooja	Lec
 Nava	Cre
+Mandas	Laz
 Furlanetto	Laz
 Christensen O.	Fio
 Popa	Tor
 Martinelli T.	Fio
 Vasquez D.	Rom
 Rinaldi	Par
-Paleari	Tor
+Guaita	Par
+Martinez Jo.	Int
 Ciocci	Cag
+Turati	Sas
 Russo A.	Sas
+Semper	Pis
 Contini	Nap
 Terracciano	Mil
 Vigorito	Com
@@ -594,10 +646,10 @@ Pinsoglio	Juv
 Di Gennaro	Int
 Gollini	Rom
 Padelli	Udi
-Perilli	Ver
 Sommariva	Gen
 Perin	Juv
 Donnarumma An.	Tor
+Leali	Gen
 Lezzerini	Fio
 Sportiello	Ata
 Radunovic	Cag

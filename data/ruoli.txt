@@ -1,538 +1,581 @@
 A	Martinez L.
-A	Kean
-A	Thuram
-A	David
-A	Yildiz
-A	Dybala
-C	Pulisic
-C	Orsolini
-A	Leao
-C	McTominay
-C	Zaccagni
-A	Castellanos
-A	Hojlund
-A	Ferguson E.
-C	Gudmundsson A.
-A	Soulè
-A	Krstovic
-A	Openda
-C	Rabiot
-A	Berardi
-C	Calhanoglu
-A	De Ketelaere
-C	De Bruyne
-A	Nkunku
-A	Lookman
 C	Paz N.
-A	Castro S.
-A	Vlahovic
-A	Lukaku
-A	Scamacca
-A	Gimenez
-D	Dumfries
-A	Dia
-A	Immobile
-P	Meret
+C	Pulisic
+A	Yildiz
+A	Thuram
+C	Calhanoglu
+C	McTominay
+C	Orsolini
 D	Dimarco
-A	Zapata D.
+A	Hojlund
+A	Leao
+A	Soulè
+C	Rabiot
+A	Kean
+P	Svilar
+A	Malen
+C	McKennie
+A	Scamacca
+P	Maignan
+A	Berardi
+C	Saelemaekers
+A	De Ketelaere
+C	Mandragora
+C	Zaniolo
+C	Modric
+D	Palestra
+A	Davis K.
+P	Butez
+C	Vlasic
+C	Gudmundsson A.
+P	Carnesecchi
+A	Douvikas
+P	Provedel
+A	Pellegrino M.
+A	Raspadori
+C	De Bruyne
+D	Bremer
+A	Castellanos
+A	Lookman
+C	Zambo Anguissa
 P	Di Gregorio
 P	Sommer
-P	Svilar
-D	Gosens
-A	Pinamonti
-C	Conceicao
-A	Piccoli
-C	Zhegrova
-P	Maignan
-A	Morata
-D	Bastoni
-A	Lucca
-A	Pellegrino M.
-A	Dovbyk
-A	Odgaard
-A	Esposito Se.
-P	Carnesecchi
-C	Politano
 A	Thauvin
-P	De Gea
-C	Zambo Anguissa
-A	Diao
-C	Ndoye
-C	Thuram K.
-D	Cambiaso
-A	Vardy
-C	Barella
-P	Provedel
-D	Di Lorenzo
-D	Wesley
-D	Angelino
-C	Bailey
-D	Bellanova
-A	Davis K.
-C	Locatelli
-D	Bremer
-P	Skorupski
-A	Adams C.
-C	Rowe
-A	Lang
-A	Laurientè
-A	Orban G.
-D	Dodò
-D	Tavares N.
-A	Dzeko
-C	Ederson D.S.
-C	Modric
-D	Buongiorno
-A	Colombo
-C	Konè M.
-C	Tramoni M.
-C	Saelemaekers
-D	Solet
-D	Zortea
-C	Vlasic
-D	Estupinan
-C	Oristanio
-A	Isaksen
-A	Bonny
-C	Frattesi
-C	Vandeputte
-C	Bernabè
-A	Pedro
-A	Sanabria
-C	Koopmeiners
-C	Stengs
-C	Mkhitaryan
-C	Sohm
-D	Hien
-P	Butez
-A	Kuhn
-C	Da Cunha
-P	Israel
-C	Atta
-C	Gronbaek
-C	De Roon
-D	Rrahmani
-D	Martin
-A	Stulic
-A	Buksa
-C	Dele-Bashiru
-C	Fofana Y.
-D	Carlos Augusto
-A	Douvikas
-C	Mandragora
-D	Mancini
-D	Zappacosta
-P	Leali
-A	Neres
-C	Carboni V.
-A	Nzola
-C	Zerbin
-C	Casadei
-C	Pasalic
+D	Bastoni
 D	Kalulu
-A	Simeone
-C	Folorunsho
-C	Zaniolo
-D	Valeri
-C	Stanciu
-C	Sucic P.
-D	N'Dicka
-D	Acerbi
-A	Cambiaghi
-C	Lovric
-C	Zalewski
-C	Samardzic
-C	Elmas
-D	Tomori
-A	Cutrone
-C	Maldini
-C	Lobotka
-C	Vazquez
-D	Scalvini
-C	Jashari
-C	Tourè I.
-C	Collocolo
-C	Anjorin
-C	Ferguson
-C	Brescianini
-C	Nicolussi Caviglia
-C	Guendouzi
-C	Freuler
-C	Cristante
-D	Baschirotto
-D	Marusic
-D	Biraghi
-A	Camarda
-A	Belotti
-C	El Aynaoui
-C	Fazzini
-C	Thorstvedt
-C	Ricci S.
-C	Pobega
-C	Strefezza
-C	Rovella
-C	Sottil
-C	Bernardeschi
-D	Kossounou
-D	Pavard
-D	Romagnoli
-A	Bravo
-A	Sarr A.
-C	Baturina
-C	Ekkelenkamp
-C	Frendrup
-C	Fagioli
-C	Loftus-Cheek
-D	Delprato
-D	Lucumì
-D	Olivera
-D	Pavlovic
-D	Miranda J.
-D	Mina
-A	Giovane
-A	Ngonge
-A	Sulemana K.
-C	Pierotti
-C	Cornet
-C	Pellegrini Lo.
-D	Bisseck
-D	Gila
-D	Vasquez
-D	Akanji
-D	De Vrij
-A	Bonazzoli
-C	Tete Morente
-C	Perrone
-C	Caqueret
+C	Atta
+A	Dybala
+C	Ndoye
+A	David
+A	Castro S.
+A	Krstovic
+C	Barella
 C	Malinovskyi
-C	El Shaarawy
-D	Gaspar K.
-D	Kamara H.
-D	Lazaro
-P	Caprile
-A	Rodriguez Je.
-A	Vitinha O.
-A	Luvumbo
-C	Bondo
-C	Hernani
-D	Vitik
-D	Beukema
-D	Gutierrez
-D	Luperto
+C	Zaccagni
+D	Akanji
+A	Colombo
+A	Esposito Se.
+A	Durosinmi
+A	Simeone
+D	Solet
+A	Lukaku
+C	Thuram K.
+A	Vardy
+D	Spinazzola
+A	Nkunku
+A	Vlahovic
+C	Konè M.
+C	Locatelli
+D	Mancini
+C	Baturina
+D	Wesley
+C	Zielinski
+A	Pinamonti
+A	Orban G.
+C	Konè I.
+C	Perrone
+A	Isaksen
+C	Conceicao
 P	Falcone
-A	Dominguez B.
-C	Fabbian
-C	Gaetano
-D	Joao Mario
-D	Angori
-D	Idzes
-D	Comuzzo
-D	Tchatchoua
-D	Doig
-D	De Winter
-A	Addai
+C	Taylor K.
+D	Rrahmani
 A	Esposito F.P.
-A	Moumbagna
-C	Diouf
-C	Baldanzi
-D	Pongracic
-D	Gabbia
-D	Ranieri L.
-A	Aboukhlal
-A	Gonzalez N.
-C	Lorran
-C	Ondrejka
-C	Pisilli
-C	Helgason
-C	Man
-D	Kempf
-D	Ehizibue
-D	Holm
-D	Hermoso
-D	Gallo
-D	Kolasinac
-D	Djimsiti
-P	Okoye
+D	Bisseck
+A	Adams C.
+A	Laurientè
+A	Fullkrug
+D	Di Lorenzo
+A	Neres
 A	Kilicsoy
-A	Mosquera
-A	Djuric
-A	Raspadori
-C	Masini
-C	Karlstrom
-C	Suslov
-C	Ndour
-C	Boloca
-C	Aebischer
-C	Harroui
-C	Niasse
-C	Coulibaly L.
-C	Luis Henrique
-C	McKennie
-C	Adopo
-C	Vecino
-D	Bella-Kotchap
-D	Athekame
-D	Candè
+C	Ederson D.S.
+C	De Roon
+C	Bernabè
+D	Dodò
+A	Solomon
+A	Vitinha O.
+A	Belotti
+C	Strefezza
+D	Pavlovic
+D	Tomori
+D	N'Dicka
+P	Milinkovic-Savic V.
+C	Fagioli
+C	Pellegrini Lo.
+C	Cristante
+D	Ramon
+A	Odgaard
+C	Vergara
+C	Ekkelenkamp
+C	Brescianini
+C	Fofana Y.
+C	Cataldi
+D	Bartesaghi
+P	Caprile
+A	Bonny
+C	Casadei
+C	Thorstvedt
+C	Da Cunha
+C	Lobotka
+D	Dumfries
+D	Martin
+A	Pedro
+C	Tourè I.
+C	Miretti
+C	Zalewski
+C	Pasalic
+D	Ostigard
+D	Zappacosta
+P	Meret
+A	Ratkov
+A	Rodriguez Je.
+A	Ferguson E.
+C	Frendrup
+C	Basic
+C	Elmas
+C	Politano
+D	Vasquez
+A	Bonazzoli
+C	Harrison
+C	Tramoni M.
+C	Loftus-Cheek
+D	Tiago Gabriel
+D	Kempf
 D	Kelly L.
-D	Darmian
-D	Juan Jesus
-P	Suzuki
-A	Meister
-A	Benedyczak
-A	Dallinga
-A	Almqvist
+D	Gila
+D	Maripan
+D	Gabbia
+D	Pavard
+A	Cambiaghi
+C	Rowe
+C	Baldanzi
+C	Coulibaly L.
+C	Mkhitaryan
+D	Valeri
+D	Diego Carlos
+A	Lang
 A	Cancellieri
 A	Moreo
-C	Sorensen O.
-C	Fadera
-C	Akinsanmiro
-C	Ellertsson
-C	Volpato
-D	Troilo
-D	Rensch
-D	Leoni
-D	Ramon
-D	Valle
-D	Circati
-D	Gatti
-D	Terracciano F.
-D	Ostigard
-D	Ismajli
-D	Vojvoda
-D	Marì
-D	Maripan
-D	Celik
-D	Zappa
-D	Pezzella Giu.
-D	Cuadrado
-P	Audero
-A	Bayo V.
-A	Borrelli
-A	Johnsen
-C	Piotrowski
-C	Ordonez C.
-C	Konè I.
-C	Pierret
-C	Serdar
-C	Gilmour
-C	Ilic
-C	Messias
-C	Thorsby
-C	Zielinski
-D	Belghali
-D	Muharemovic
-D	Canestrelli
-D	Tiago Gabriel
-D	Coco
-D	Kristensen T.
-D	Lykogiannis
-D	Caracciolo A.
-P	Semper
-C	Marin M.
-C	Prati
-C	Ramadani
-C	Gineitis
 C	Berisha M.
-C	Vranckx
-C	Tameze
-C	Chukwueze
-C	Mazzitelli
-C	Deiola
-D	Siebert
+C	Luis Henrique
+C	Gaetano
+C	Guendouzi
+D	Delprato
+D	Gosens
+D	Romagnoli
+D	Belghali
+C	Gandelman
+C	Vandeputte
+C	Sucic P.
+C	Karlstrom
+C	Maldini
+D	Bernasconi
 D	Heggem
-D	Lovik
+D	Muharemovic
+D	Hien
+D	Scalvini
+D	Cambiaso
+P	De Gea
+A	Vaz
+A	Openda
+A	Banda
+C	Fadera
+C	Kostic
+C	Matic
+C	Mazzitelli
+D	Tchatchoua
+D	Baschirotto
+D	Hermoso
+D	Djimsiti
+D	Juan Jesus
+C	Loyola
+C	Pisilli
+C	Ferguson
+C	Volpato
+C	Pobega
+C	Sottil
+C	Freuler
 D	Norton-Cuffy
-D	Ghilardi
-D	Dossena
-D	Ebosse
-D	Bertola
+D	Circati
+D	Comuzzo
+D	Carlos Augusto
+D	Holm
+D	Bellanova
+D	Luperto
+A	Stulic
+A	Giovane
+A	Piccoli
+A	Gonzalez N.
+A	Boga
+A	Immobile
+C	Santos A.
+C	Zaragoza
+C	Zhegrova
+C	Man
+C	Thorsby
+D	Obrador
+D	Obert
+D	Tavares N.
+D	Kamara H.
+A	Diao
+A	Cutrone
+A	Zapata D.
+C	Miller L.
+C	Piotrowski
+C	Bernede
+C	Ondrejka
+C	Keita M.
+C	Pierotti
+C	Suslov
+C	Ndour
+C	Folorunsho
+C	Fabbian
+C	Ellertsson
+C	Asllani
+C	Adopo
+C	Nicolussi Caviglia
+C	Deiola
+D	Nelsson
+D	Valle
+D	Coco
+D	Gaspar K.
+D	Doig
+D	Terracciano F.
 D	Parisi
 D	Valenti
-D	Walukiewicz
-D	Lazzari
-D	Ceccherini
-D	Sabelli
-P	Sava
-A	Beltran L.
-A	Brenner
-A	Mulattieri
-A	Banda
-A	Sanchez
-C	Cremaschi
-C	Miller L.
-C	Bernede
-C	Keita M.
-C	Payero
-C	Sulemana I.
-C	Matic
-C	Kastanos
-C	Cataldi
-D	Ndiaye
-D	Kouassi
-D	Nelsson
-D	Unai Nunez
-D	Goglichidze
-D	Jimenez A.
-D	Posch
-D	Cabal
-D	Obert
-D	Diego Carlos
-D	Spinazzola
-D	De Silvestri
-D	Albiol
-P	Montipò
-A	Venturino
-A	Noslin
-A	Tourè E.
-A	Pierini
-C	Piccinini G.
-C	Al-Musrati
-C	Miretti
-C	Asllani
-C	Musah
-C	Ghion
-C	Grassi
-D	Zè Pedro
-D	Floriani Mussolini
-D	Folino
-D	Valentini N.
-D	Ahanor
-D	Faye
-D	Marianucci
-D	Savona
-D	Frese
-D	Pedersen
-D	Viti
-D	Romagna
-P	Milinkovic-Savic V.
-A	N'Dri
-A	Rocha Livramento
+D	Celik
+D	Zortea
+D	Mina
+D	Buongiorno
+D	Kolasinac
+D	Marusic
+A	Kulenovic
+A	Addai
+A	Dominguez B.
+A	Meister
 A	Cheddira
-C	Sala A.
-C	Richardson
-C	Felici
-C	Sarmiento J.
-C	Lipani
-D	Odenthal
+C	Lorran
+C	Ordonez C.
+C	Collocolo
+C	Serdar
+C	Ramadani
+C	El Aynaoui
+C	Iling Junior
+C	Bondo
+C	Stengs
+C	Ricci S.
+C	Caqueret
+C	Leris
+C	Vecino
+D	Bella-Kotchap
+D	Angori
 D	Veiga D.
+D	Leoni
+D	Idzes
+D	Kristensen T.
+D	Barbieri
+D	Bertola
+D	Miranda J.
+D	Gallo
+D	Walukiewicz
+D	Kabasele
+A	Venturino
+A	Bowie
+A	Buksa
+A	Dovbyk
+A	Bravo
+A	Dallinga
+A	Borrelli
+A	Dia
+A	Ekuban
+A	Morata
+C	Piccinini G.
+C	Tete Morente
+C	Akinsanmiro
+C	Prati
+C	Kaba
+C	Carboni V.
+C	Lovric
+C	Aebischer
+C	Harroui
+C	Koopmeiners
+C	Gilmour
+C	Samardzic
+C	Rovella
+C	El Shaarawy
+C	Bernardeschi
+D	Britschgi
+D	Canestrelli
+D	Idrissi R.
+D	Smolcic I.
+D	Ahanor
+D	Marianucci
+D	Marcandalli
+D	Frese
+D	Ghilardi
+D	Lucumì
+D	De WInt
+D	Pongracic
+D	Zanoli
+D	Vojvoda
+D	Zappa
+D	Lazaro
+D	Caracciolo A.
+D	Bianchetti
+P	Corvi
+P	Okoye
+A	Stojilkovic
+A	Kuhn
+A	Mosquera
+A	Lucca
+A	Ngonge
+A	Sulemana K.
+A	Nzola
+C	Amorim
+C	Sorensen O.
+C	Jashari
+C	Marin M.
+C	Dele-Bashiru
+C	Oristanio
+C	Gineitis
+C	Moro N.
+C	Musah
+C	Chukwueze
+C	Vazquez
+D	Vitik
+D	Pedersen
+D	Beukema
+D	Bradaric
+D	Pellegrini Lu.
+D	Lirola
+D	Pezzella Giu.
+A	Gimenez
+A	N'Dri
+A	Benedyczak
+A	Noslin
+A	Beltran L.
+A	Almqvist
+A	Mulattieri
+A	Djuric
+A	Luvumbo
+A	Sanchez
+A	Dzeko
+A	Sanabria
+C	Masini
+C	Felici
+C	Diouf
+C	Sulemana I.
+C	Ilkhan
+C	Zerbin
+C	Niasse
+C	Sohm
+C	Estevez
+C	Messias
+C	Hernani
+C	Frattesi
+C	Bailey
+D	Zatterstrom
+D	Zè Pedro
+D	Rodriguez Ju.
+D	Ziolkowski
+D	Joao Mario
+D	Floriani Mussolini
+D	Slotsager
+D	Rensch
+D	Valentini N.
+D	Jimenez A.
+D	Cabal
+D	Olivera
+D	Kossounou
+D	Gutierrez
+D	Estupinan
+D	Ismajli
+D	Angelino
+D	Ranieri L.
+D	Lykogiannis
+D	Sabelli
+D	Acerbi
+D	De Vrij
+D	Rugani
+P	Suzuki
+P	Paleari
+P	Muric
+P	Audero
+P	Skorupski
+D	Sergi Roberto
+A	Aboukhlal
+A	Ekhator
+A	Moumbagna
+A	Tourè E.
+C	Sala A.
+C	Anjorin
+C	Pierret
+C	Vranckx
+C	Ghion
+C	Tameze
+D	Helland
+D	Bozhinov
+D	Fortini
+D	Otoa
+D	Savona
+D	Tsimikas
+D	Albiol
+P	Bijlow
+P	Scuffet
+A	Bayo V.
+A	Rocha Livramento
+A	Camarda
+A	Sarr A.
+A	Johnsen
+A	Pierini
+C	Cremaschi
+C	Iannoni
+C	Bakola
+C	Richardson
+C	Sarmiento J.
+C	Payero
+C	Lipani
+C	Fazzini
+C	Ilic
+C	Kastanos
+C	Grassi
+D	Mlacic
+D	Troilo
+D	Athekame
+D	Ndiaye
+D	Ndaba
 D	Van Der Brempt
-D	Palestra
-D	Lamptey
+D	Unai Nunez
+D	Garcia U.
+D	Bonfanti
 D	Zemura
 D	Thiaw
-D	Barbieri
-D	Bradaric
-D	Zanoli
-D	Casale
-D	Tsimikas
-D	Calabresi
-D	Pellegrini Lu.
+D	Ehizibue
+D	Gatti
+D	Moreno Alb.
+D	Nkounkou
+D	Marì
+D	Romagna
+D	Lazzari
+D	Ceccherini
+D	Cuadrado
+D	De Silvestri
 D	Masina
-D	Sergi Roberto
 A	Frigan
 A	Lind
 A	Karlsson
-C	Iannoni
+C	Lahdo
+C	Al-Musrati
 C	El Azzouzi
 C	Rafia
-C	Moro N.
-C	Kostic
-D	Ziolkowski
-D	Idrissi R.
+C	Belahyane
+C	Helgason
+D	Odenthal
 D	Salah-Eddine
-D	Palma
-D	Giannetti L.
-D	Mateus Lusuardi
+D	Provstgaard
+D	Lovik
+D	Rui Modesto
+D	Goglichidze
 D	Azzi
-D	Gigot
-D	Moreno Alb.
+D	Posch
+D	Ebosse
+D	Viti
+D	Casale
 D	Balogh
 D	Erlic
-D	Patric
-P	Turati
-P	Muric
+D	Calabresi
+D	Darmian
+P	Montipò
+C	Przyborek
 C	Liteta
+C	Vural
 C	Zarraga
 C	Pafundi
 C	Maleh
+C	Akpa Akpro
 C	Douglas Luiz
-D	Rui Modesto
-D	Coulibaly W.
-D	Nkounkou
-D	Kabasele
+C	Gagliardini
+D	Siebert
+D	Cham
 D	Goldaniga
-D	Hysaj
+P	Ravaglia F.
 A	Azon
 A	Taremi
 A	Okafor
-A	De Luca
-A	Ekuban
+A	Brenner
 A	Milik
-C	Belahyane
+C	Stanciu
 C	Castagnetti
+C	Cornet
 C	Weah
 C	Zanimacchia
+D	Edmundsson
+D	Tchoca
 D	Odogu
-D	Fortini
-D	Smolcic I.
-D	Provstgaard
-D	Slotsager
+D	Folino
+D	Candè
+D	Faye
 D	Hainaut
-D	Bartesaghi
-D	Bonfanti
-D	Paz Y.
-D	Vogliacco
+D	Giannetti L.
+D	Mateus Lusuardi
+D	Lamptey
+D	Dossena
 D	Missori
 D	Schuurs
-D	Mazzocchi
 D	Kumbulla
-D	Rugani
-P	Ravaglia F.
+D	Patric
+D	Biraghi
+A	Njie
 A	Alvarez A.
+C	Gronbaek
 C	Onana J.
+C	Boloca
 C	Sabiri
-C	Gagliardini
 D	Denoon
-D	Pieragnolo
 D	Coppola F.
+D	Kouassi
 D	Oyegoke
 D	Jack
+D	Palma
 D	Rouhi
+D	Coulibaly W.
+D	Carboni F.
 D	Di Pardo
-D	Bianchetti
+D	Hysaj
 A	Nasti
-A	Ekhator
 A	Pizarro
 A	Okereke
+A	De Luca
 A	Pavoletti
 C	Engelhardt
-C	Estevez
-C	Leris
 C	Valoti
+D	Pedro Felipe
+D	Pieragnolo
 D	Rus
-D	Otoa
 D	Jean
-D	Dembelè A.
+D	Paz Y.
+D	Vogliacco
+D	Gigot
 D	Ravanelli
-P	Mandas
-P	Martinez Jo.
-P	Scuffet
+D	Mazzocchi
+P	Perilli
 D	Pickel
 A	Bonfanti N.
+C	Fofana Sa.
 C	Santiago
 C	Hojholt
 C	Marchwinski
-C	Kaba
 C	Bianco
-C	Akpa Akpro
-D	Britschgi
-D	Ndaba
 D	Mbambi
+D	Perez M.
 D	Esteves T.
-D	Marcandalli
+D	Dembelè A.
 D	Ilic M.
 D	Wieteska
 D	Quagliata
+A	Elphege
+A	Albarracin
+A	Trepy
+A	Isaac
 A	Arena A.
 A	Gueye
 A	Ambrosino
@@ -540,48 +583,57 @@ A	Balentien
 A	Buffon L.
 A	Skjellerup
 A	Moro L.
-A	Njie
 A	Gabrielloni
-C	Vergara
+A	Kouamè
+C	Ngom
+C	Gorter
 C	Arena
-C	Vural
 C	Cuenca H.
 C	Liberali
 C	Adzic
 C	Braunoder
 C	Cissè A.
-C	Ilkhan
-C	Basic
+C	Fini
 C	Alli
 C	Rog
-D	Rodriguez Ju.
+D	Raterink
+D	Arizala
 D	Kouadio
-D	Cham
-D	Perez M.
 D	Abdulhamid
 D	Palacios T.
 D	Veroli
 D	Godfrey
 D	Sernicola
+P	Siviero
+P	Motta
+P	Tornqvist
+P	Ferrante
 P	Cavlina
 P	Toniolo
 P	Nunziante
+P	Israel
 P	Pessina Mas.
 P	Zelezny
+P	Calligaris
 P	Siegrist
+P	Sava
 P	Torriani
-P	Corvi
+P	Sherri
 P	Samooja
 P	Nava
+P	Mandas
 P	Furlanetto
 P	Christensen O.
 P	Popa
 P	Martinelli T.
 P	Vasquez D.
 P	Rinaldi
-P	Paleari
+P	Guaita
+P	Martinez Jo.
 P	Ciocci
+P	Turati
 P	Russo A.
+P	Semper
 P	Contini
 P	Terracciano
 P	Vigorito
@@ -594,10 +646,10 @@ P	Pinsoglio
 P	Di Gennaro
 P	Gollini
 P	Padelli
-P	Perilli
 P	Sommariva
 P	Perin
 P	Donnarumma An.
+P	Leali
 P	Lezzerini
 P	Sportiello
 P	Radunovic
