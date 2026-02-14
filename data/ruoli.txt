@@ -313,7 +313,7 @@ D	Marcandalli
 D	Frese
 D	Ghilardi
 D	Lucumì
-D	De WInt
+D	De Winter
 D	Pongracic
 D	Zanoli
 D	Vojvoda
