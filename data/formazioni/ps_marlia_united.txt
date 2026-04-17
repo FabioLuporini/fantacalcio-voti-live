@@ -5,12 +5,12 @@ Muharemovic
 Bremer
 Gosens
 Zielinski
-Maldini
+Strefezza
 Orsolini
 Zalewski
 Soulè
 Leao
-Berardi
+Krstovic
 -------------
 Perin
 Okoye
@@ -18,10 +18,10 @@ Gabbia
 Mancini
 Norton-Cuffy
 Celik
-Strefezza
+Maldini
 Brescianini
 Caqueret
 Casadei
-Krstovic
 Bonny
+Berardi
 Openda
