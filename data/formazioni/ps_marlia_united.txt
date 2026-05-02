@@ -1,7 +1,7 @@
 PS Marlia United
 By fablup333
 Di Gregorio
-Muharemovic
+Mancini
 Bremer
 Bisseck
 Zielinski
@@ -9,13 +9,13 @@ Strefezza
 Orsolini
 Zalewski
 Soulè
-Leao
+Berardi
 Krstovic
 -------------
 Perin
 Okoye
 Gabbia
-Mancini
+Muharemovic
 Norton-Cuffy
 Celik
 Maldini
@@ -23,5 +23,5 @@ Brescianini
 Caqueret
 Casadei
 Bonny
-Berardi
+Leao
 Openda
