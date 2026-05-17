@@ -2,12 +2,12 @@ F,C SHAKA
 By zlatanburdisso
 Motta
 Solet
-Holm
 Kalulu
-Zaccagni
-Cristante
+Akanji
+Modric
+Baldanzi
 Baturina
-Gudmundsson A.
+Konè I.
 Yildiz
 Douvikas
 Diao
@@ -15,14 +15,14 @@ Diao
 Ravaglia F.
 Montipò
 Vojvoda
+Holm
 Valeri
-Akanji
-Vasquez
 Joao Mario
-Konè I.
-Baldanzi
+Vasquez
+Gudmundsson A.
+Zaccagni
+Cristante
 Pellegrini Lo.
-Modric
 Scamacca
 Fullkrug
 Kulenovic
