@@ -352,6 +352,21 @@ if __name__ == "__main__":
 
     ## END DEBUGGING
 
+    # Esporta i voti gia elaborati senza modificare il calcolo della classifica.
+    dettaglio_path = os.environ.get("DETTAGLIO_VOTI_PATH")
+    if dettaglio_path:
+        with open(dettaglio_path, "w", encoding="utf-8") as file:
+            for team, (titolari, panchinari) in fantasquadre.items():
+                file.write(f"{team}\n")
+                file.write("=" * 40 + "\n\n")
+                file.write("TITOLARI\n")
+                for nome, voto in titolari.items():
+                    file.write(f"{nome}: {voto:g}\n")
+                file.write("\nPANCHINA\n")
+                for nome, voto in panchinari.items():
+                    file.write(f"{nome}: {voto:g}\n")
+                file.write("\n\n")
+
     output = {team: calc_fantasquadra(titolari, panchinari, ruoli)
               for team, (titolari, panchinari) in fantasquadre.items()}
 
