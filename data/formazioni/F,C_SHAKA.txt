@@ -1,29 +1,29 @@
 F,C SHAKA
 By zlatanburdisso
 
-Mandas
-Vojvoda
+Vicario
 Kamara H.
-Holm
+Vojvoda
+Bisseck
 Mora
-Gudmundsson A.
-Goncalves P.
 Ekkelenkamp
+Goncalves P.
+Samardzic
 Kvernadze
 Douvikas
-Varela G.
--------------
-Vicario
-Grabara
-Valeri
-Bisseck
-Spence
-Stones
-Badiashile
-Jones C.
-Calò
-Samardzic
-Massolin
-Raimondo
 Krstovic
+-------------
+Mandas
+Motta
+Spence
+Badiashile
+Valeri
+Holm
+Stones
+Calò
+Massolin
+Gudmundsson A.
+Jones C.
+Varela G.
+Raimondo
 Castro S.
