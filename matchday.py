@@ -167,7 +167,7 @@ def inject_custom_events(data):
                     i.setdefault('eventsMinutes', []).append(120)  # Dummy min
 
 
-def calc_voto_live(giocatore, punteggi):
+def calc_voto_live(giocatore, punteggi, match_finished=True):
     vote = giocatore['vote']
     events = giocatore.get('events', [])
 
@@ -189,10 +189,31 @@ def calc_voto_live(giocatore, punteggi):
 
         vote += bonus_malus
 
-    if vote == 55:
-        return 0
+    if vote == SV:
+        return 0 if match_finished else 6
     else:
         return vote 
+
+
+def get_team_match_status(data):
+    # Source: https://www.fantacalcio.it/js/services/live-match.js
+    # FullTime = 4. Missing/unknown status is not proof of full time.
+    return {
+        match[side]: match.get('status') == 4
+        for match in data['protoData']
+        for side in ('teamIdHome', 'teamIdAway')
+    }
+
+
+def set_pending_votes(fantasquadre, squadre, finished_by_team):
+    # A bench player may be absent from the feed until entering the pitch.
+    pending = [name for name, code in codici.items()
+               if code in finished_by_team and not finished_by_team[code]]
+    for titolari_panchinari in fantasquadre.values():
+        for players in titolari_panchinari:
+            for name in players:
+                if any(team.startswith(squadre[name]) for team in pending):
+                    players[name] = 6
 
 
 def calc_fantasquadra(titolari, panchinari, ruoli):
@@ -301,6 +322,9 @@ if __name__ == "__main__":
 
     inject_custom_events(data)
 
+    finished_by_team = get_team_match_status(data)
+    set_pending_votes(fantasquadre, squadre, finished_by_team)
+
     unplayed = []
     for k, v in codici.items():
         serie_a_team = get_voti(data, v)
@@ -313,9 +337,9 @@ if __name__ == "__main__":
             for team, (titolari, panchinari) in fantasquadre.items():
                 name = giocatore['name']
                 if name in titolari:
-                    titolari[name] = calc_voto_live(giocatore, punteggi)
+                    titolari[name] = calc_voto_live(giocatore, punteggi, finished_by_team[v])
                 elif name in panchinari:
-                    panchinari[name] = calc_voto_live(giocatore, punteggi)
+                    panchinari[name] = calc_voto_live(giocatore, punteggi, finished_by_team[v])
                 else:
                     continue
 
