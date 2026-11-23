@@ -80,7 +80,7 @@ Diouf	Int
 Alajbegovic	Juv
 Lukaku	Nap
 Solet	Udi
-N'Dicka	Rom
+Ndicka	Rom
 Rowe	Ata
 Politano	Nap
 Mastantuono	Fio
