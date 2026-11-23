@@ -80,7 +80,7 @@ C	Diouf
 C	Alajbegovic
 A	Lukaku
 D	Solet
-D	N'Dicka
+D	Ndicka
 C	Rowe
 C	Politano
 C	Mastantuono
